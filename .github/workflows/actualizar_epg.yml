@@ -2,9 +2,7 @@ name: Actualizador Directo EPG (iptv-org)
 
 on:
   schedule:
-    # Se ejecuta cada 12 horas automáticamente
     - cron: '0 */12 * * *'
-  # Permite ejecutarlo a mano para pruebas
   workflow_dispatch:
 
 permissions:
@@ -31,22 +29,29 @@ jobs:
         cd scraper-core
         npm install
 
-    # Copiamos tu lista 'channels.xml' al motor y realizamos el scraping
+    # 1. Scraping directo de los canales
     - name: Ejecutar scraping de canales
       run: |
         cp channels.xml scraper-core/my_channels.xml
         cd scraper-core
-        # maxConnections evita bloqueos de IP por peticiones simultáneas
         npm run grab -- --channels=my_channels.xml --output=../epg.xml --maxConnections=2
 
-    # NUEVO PASO: Acotar fechas
+    # 2. Acotamos las fechas hasta pasado mañana a las 05:59:59
     - name: Acotar EPG hasta las 05:59:59 de pasado mañana
       run: python recortar_epg.py
 
-    - name: Guardar y subir epg.xml a GitHub
+    # 3. NUEVO PASO: Comprimir el XML en formato .gz
+    # -k (keep) conserva epg.xml intacto
+    # -f (force) sobreescribe el .gz anterior si ya existía
+    # -9 aplica el nivel de compresión máxima
+    - name: Comprimir EPG en formato GZ
+      run: gzip -k -9 -f epg.xml
+
+    # 4. Guardar y subir ambos archivos (epg.xml y epg.xml.gz)
+    - name: Guardar y subir archivos a GitHub
       run: |
         git config --global user.name "EPG AutoBot"
         git config --global user.email "bot@github.com"
-        git add epg.xml
-        git commit -m "EPG actualizada desde fuentes oficiales [skip ci]" || exit 0
+        git add epg.xml epg.xml.gz
+        git commit -m "EPG actualizada, acotada y comprimida [skip ci]" || exit 0
         git push
