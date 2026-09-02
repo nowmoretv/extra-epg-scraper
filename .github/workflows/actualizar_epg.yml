@@ -39,6 +39,10 @@ jobs:
         # maxConnections evita bloqueos de IP por peticiones simultáneas
         npm run grab -- --channels=my_channels.xml --output=../epg.xml --maxConnections=2
 
+    # NUEVO PASO: Acotar fechas
+    - name: Acotar EPG hasta las 05:59:59 de pasado mañana
+      run: python recortar_epg.py
+
     - name: Guardar y subir epg.xml a GitHub
       run: |
         git config --global user.name "EPG AutoBot"
