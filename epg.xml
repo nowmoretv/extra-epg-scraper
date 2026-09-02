@@ -2,11 +2,9 @@
 <tv date="20260902">
   <channel id="La1.es">
     <display-name>La 1 HD</display-name>
-    <icon src="https://i.ibb.co/MxJNPHsn/La-1.png" />
   </channel>
   <channel id="Telecinco.es">
     <display-name>Telecinco</display-name>
-    <icon src="https://upload.wikimedia.org/wikipedia/commons/1/13/Telecinco_2024_Logo.svg" />
   </channel>
   <channel id="WarnerChannel.ar">
     <display-name>Warner Channel</display-name>
@@ -14,873 +12,676 @@
   <programme start="20260902194500 +0000" stop="20260902225000 +0000" channel="La1.es">
     <title lang="es">El Grand Prix del Verano</title>
     <desc lang="es">Ramon García vuelve a presentar el clásico concurso veraniego en el que varias localidades españolas ponen a prueba sus habilidades físicas y mentales enfrentándose entre sí.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4391320" />
     <episode-num system="xmltv_ns">0.8.0/1</episode-num>
     <episode-num system="onscreen">S01E09</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4391320.jpg</image>
   </programme>
   <programme start="20260902225000 +0000" stop="20260903005000 +0000" channel="La1.es">
     <title lang="es">El Grand Prix del Verano</title>
     <desc lang="es">El programa afronta su segunda semifinal con el duelo entre Altura (Castellón) y Quintanar del Rey (Cuenca). El ganador de este duelo será el rival de Polinyà (Barcelona) en la gran final de este año.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4389088" />
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
     <episode-num system="onscreen">S01E08</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4389088.jpg</image>
   </programme>
   <programme start="20260903005000 +0000" stop="20260903040000 +0000" channel="La1.es">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP518403" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF518403.jpg</image>
   </programme>
   <programme start="20260903040000 +0000" stop="20260903055000 +0000" channel="La1.es">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP518404" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF518404.jpg</image>
   </programme>
   <programme start="20260903055000 +0000" stop="20260903083500 +0000" channel="La1.es">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
     <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4391696" />
     <episode-num system="xmltv_ns">0.173.0/1</episode-num>
     <episode-num system="onscreen">S01E174</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4391696.jpg</image>
   </programme>
   <programme start="20260903083500 +0000" stop="20260903125500 +0000" channel="La1.es">
     <title lang="es">Mañaneros 360</title>
     <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4383283" />
     <episode-num system="xmltv_ns">0.8.0/1</episode-num>
     <episode-num system="onscreen">S01E09</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4383283.jpg</image>
   </programme>
   <programme start="20260903125500 +0000" stop="20260903133000 +0000" channel="La1.es">
     <title lang="es">Telediario 1</title>
     <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP518438" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF518438.jpg</image>
   </programme>
   <programme start="20260903133000 +0000" stop="20260903133500 +0000" channel="La1.es">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP3921384" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF3921384.jpg</image>
   </programme>
   <programme start="20260903133500 +0000" stop="20260903134000 +0000" channel="La1.es">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP332735" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF332735.jpg</image>
   </programme>
   <programme start="20260903134000 +0000" stop="20260903135000 +0000" channel="La1.es">
     <title lang="es">Informativo territorial</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP518424" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF518424.jpg</image>
   </programme>
   <programme start="20260903135000 +0000" stop="20260903154500 +0000" channel="La1.es">
     <title lang="es">La Vuelta</title>
     <desc lang="es">El ciclismo completa el calendario 2026 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 22 de agosto en Mónaco. La meta final, el 13 de septiembre, se cruzará en Granada. El danés Jonas Vingegaard fue el vencedor en la edición de 2025.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4389108" />
     <episode-num system="xmltv_ns">0.11.0/1</episode-num>
     <episode-num system="onscreen">S01E12</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/F4498588.jpg</image>
   </programme>
   <programme start="20260903154500 +0000" stop="20260903163500 +0000" channel="La1.es">
     <title lang="es">Valle Salvaje</title>
     <desc lang="es">Enriqueta se impone a Hernando, pero un problema con Braulio amenaza sus planes. En el pueblo, Rosalía permite que Rafael abrace a María y él le suplica que regrese a palacio… ¿cederá o será un adiós definitivo?.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4314916" />
     <episode-num system="xmltv_ns">0.58.0/1</episode-num>
     <episode-num system="onscreen">S01E59</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4314916.jpg</image>
   </programme>
   <programme start="20260903163500 +0000" stop="20260903173500 +0000" channel="La1.es">
     <title lang="es">La Promesa</title>
     <desc lang="es">Las cocineras no quieren volver mientras Julio y Tomasa permanezcan en La Promesa. Julieta y Samuel prometen guardar el secreto. Cristóbal obliga a los criados del duque a disculparse ante los cocineros.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4392594" />
     <episode-num system="xmltv_ns">0.898.0/1</episode-num>
     <episode-num system="onscreen">S01E899</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4392594.jpg</image>
   </programme>
   <programme start="20260903173500 +0000" stop="20260903182500 +0000" channel="La1.es">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4387639" />
     <episode-num system="xmltv_ns">0.447.0/1</episode-num>
     <episode-num system="onscreen">S01E448</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4387639.jpg</image>
   </programme>
   <programme start="20260903182500 +0000" stop="20260903185500 +0000" channel="La1.es">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4338882" />
     <episode-num system="xmltv_ns">0.817.0/1</episode-num>
     <episode-num system="onscreen">S01E818</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4338882.jpg</image>
   </programme>
   <programme start="20260903185500 +0000" stop="20260903194000 +0000" channel="La1.es">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP518466" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF518466.jpg</image>
   </programme>
   <programme start="20260903194000 +0000" stop="20260903194500 +0000" channel="La1.es">
     <title lang="es">Deportes 2</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP3921386" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF3921386.jpg</image>
   </programme>
   <programme start="20260903194500 +0000" stop="20260903205000 +0000" channel="La1.es">
     <title lang="es">Viaje al centro de la tele</title>
     <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4361067" />
     <episode-num system="xmltv_ns">0.16.0/1</episode-num>
     <episode-num system="onscreen">S01E17</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4361067.jpg</image>
   </programme>
   <programme start="20260903194500 +0000" stop="20260903205000 +0000" channel="La1.es">
     <title lang="es">Viaje al centro de la tele</title>
     <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4361067" />
     <episode-num system="xmltv_ns">0.16.0/1</episode-num>
     <episode-num system="onscreen">S01E17</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4361067.jpg</image>
   </programme>
   <programme start="20260903205000 +0000" stop="20260903223500 +0000" channel="La1.es">
     <title lang="es">El perro andaluz</title>
     <desc lang="es">Antoñito Molina y Miguel Rellán son los primeros invitados de esta nueva temporada. El regreso estará marcado también por el protagonismo de Ceuta, una actualidad que pasará por la mirada personal de Manu Sánchez y que tendrá su reflejo en varios momentos de la noche.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4391680" />
     <episode-num system="xmltv_ns">0.8.0/1</episode-num>
     <episode-num system="onscreen">S01E09</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4391680.jpg</image>
   </programme>
   <programme start="20260903223500 +0000" stop="20260904003000 +0000" channel="La1.es">
     <title lang="es">El perro andaluz</title>
     <desc lang="es">''El perro andaluz'' cierra temporada con las visitas de Lolita y Santiago Segura. Después, revelará una gran sorpresa en exclusiva para el público, cerrando temporada por todo lo alto.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4368005" />
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
     <episode-num system="onscreen">S01E08</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4368005.jpg</image>
   </programme>
   <programme start="20260904003000 +0000" stop="20260904040000 +0000" channel="La1.es">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP518403" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF518403.jpg</image>
   </programme>
   <programme start="20260904040000 +0000" stop="20260904055000 +0000" channel="La1.es">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP518404" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF518404.jpg</image>
   </programme>
   <programme start="20260904055000 +0000" stop="20260904083500 +0000" channel="La1.es">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
     <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4385025" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4385025.jpg</image>
   </programme>
   <programme start="20260902195000 +0000" stop="20260902210000 +0000" channel="Telecinco.es">
     <title lang="es">First dates</title>
     <desc lang="es">Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4390668" />
     <episode-num system="xmltv_ns">0.136.0/1</episode-num>
     <episode-num system="onscreen">S01E137</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4390668.jpg</image>
   </programme>
   <programme start="20260902210000 +0000" stop="20260902232000 +0000" channel="Telecinco.es">
     <title lang="es">Viaje al paraíso</title>
     <desc lang="es">Los actores Julia Roberts y George Clooney, amigos desde hace décadas, se divierten y nos divierten protagonizando esta comedia romántica dirigida por el especialista en el género Ol Parker, director de "Mamma Mia! Una y otra vez" y guionista de las dos entregas de "El exótico Hotel Marigold". Desplegando una innegable química, estas dos superestrellas de Hollywood dan vida a Georgia y David, una expareja muy mal avenida que ahora mismo solo tiene en común el amor por su hija Lily. Ella es la chica perfecta y el orgullo de sus progenitores. Recién graduada en derecho, Lily es tan responsable que hasta pretende trabajar durante sus vacaciones en Bali para dar la talla cuando se incorpore a un bufete... aunque quizá haya algo que la retenga en el paraíso balinés. Llena de buen rollo, romanticismo y maravillosos paisajes, la película "Viaje al paraíso" es un divertido entretenimiento sobre la dulce sorpresa que pueden ofrecer las segundas oportunidades.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P2139375" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F2139375.jpg</image>
   </programme>
   <programme start="20260902232000 +0000" stop="20260903000000 +0000" channel="Telecinco.es">
     <title lang="es">Infiltrada</title>
     <desc lang="es">Cole Ellis, un policía degradado, y Max Mitchell, una astuta estafadora, se ven forzados a colaborar. Él busca recuperar su placa y ella evitar la cárcel. Juntos forman una alianza improbable para resolver crímenes y hallar su redención en este thriller.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4307165" />
     <episode-num system="xmltv_ns">0.4.0/1</episode-num>
     <episode-num system="onscreen">S01E05</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4307165.jpg</image>
   </programme>
   <programme start="20260903000000 +0000" stop="20260903002500 +0000" channel="Telecinco.es">
     <title lang="es">Gran Madrid Show</title>
     <desc lang="es">Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4207083" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4207083.jpg</image>
   </programme>
   <programme start="20260903002500 +0000" stop="20260903004500 +0000" channel="Telecinco.es">
     <title lang="es">El rey del mando</title>
     <desc lang="es">Programa de zapping.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3970442" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3970442.jpg</image>
   </programme>
   <programme start="20260903004500 +0000" stop="20260903011500 +0000" channel="Telecinco.es">
     <title lang="es">Love Shopping TV</title>
     <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3341503" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3341503.jpg</image>
   </programme>
   <programme start="20260903011500 +0000" stop="20260903014500 +0000" channel="Telecinco.es">
     <title lang="es">Love Shopping TV</title>
     <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3341503" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3341503.jpg</image>
   </programme>
   <programme start="20260903014500 +0000" stop="20260903034500 +0000" channel="Telecinco.es">
     <title lang="es">Miramimúsica</title>
     <desc lang="es">Programa musical que se emite de madrugada.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P1303097" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F1303097.jpg</image>
   </programme>
   <programme start="20260903034500 +0000" stop="20260903040000 +0000" channel="Telecinco.es">
     <title lang="es">Enphorma</title>
     <desc lang="es">Programa especializado en temas actuales de alimentación, psicología y ejercicio.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3033572" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3033572.jpg</image>
   </programme>
   <programme start="20260903040000 +0000" stop="20260903042500 +0000" channel="Telecinco.es">
     <title lang="es">Informativos Telecinco matinal</title>
     <desc lang="es">Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3899129" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3899129.jpg</image>
   </programme>
   <programme start="20260903042500 +0000" stop="20260903051000 +0000" channel="Telecinco.es">
     <title lang="es">Informativos Telecinco matinal</title>
     <desc lang="es">Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3899129" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3899129.jpg</image>
   </programme>
   <programme start="20260903051000 +0000" stop="20260903060000 +0000" channel="Telecinco.es">
     <title lang="es">Informativos Telecinco matinal</title>
     <desc lang="es">Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3899129" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3899129.jpg</image>
   </programme>
   <programme start="20260903060000 +0000" stop="20260903070000 +0000" channel="Telecinco.es">
     <title lang="es">La mirada crítica</title>
     <desc lang="es">José Luis Vidal ofrece lo más destacado de la actualidad política, económica y social, entrevistas con los protagonistas del día y una tertulia diversa y plural.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4391416" />
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <episode-num system="onscreen">S01E04</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4391416.jpg</image>
   </programme>
   <programme start="20260903070000 +0000" stop="20260903100000 +0000" channel="Telecinco.es">
     <title lang="es">El programa de Ana Rosa</title>
     <desc lang="es">Ana Rosa Quintana presenta este magacín matutino que contiene diferentes secciones donde contertulianos hablan sobre temas de sociedad, corazón, política y actualidad.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4391418" />
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <episode-num system="onscreen">S01E04</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4391418.jpg</image>
   </programme>
   <programme start="20260903100000 +0000" stop="20260903113000 +0000" channel="Telecinco.es">
     <title lang="es">Vamos a ver</title>
     <desc lang="es">Patricia Pardo presenta ‘Vamos a ver’, un magazine de actualidad que centra su atención en los grandes temas de interés social y en la última hora del mundo del corazón, con entrevistas, reportajes de investigación y conexiones en directo.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4391424" />
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <episode-num system="onscreen">S01E04</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4391424.jpg</image>
   </programme>
   <programme start="20260903113000 +0000" stop="20260903130000 +0000" channel="Telecinco.es">
     <title lang="es">El precio justo (diario)</title>
     <desc lang="es">Concurso basado en la habilidad de nueve participantes para poder acertar el precio de los objetos que se le presentan sin pasarse de su precio justo. Este concurso es una réplica del clásico americano ''The Price Is Right'', emitido por la NBC a partir de 1957.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4391426" />
     <episode-num system="xmltv_ns">0.33.0/1</episode-num>
     <episode-num system="onscreen">S01E34</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4391426.jpg</image>
   </programme>
   <programme start="20260903130000 +0000" stop="20260903133500 +0000" channel="Telecinco.es">
     <title lang="es">Informativos Telecinco</title>
     <desc lang="es">Edición de mediodía de Informativos Telecinco que ofrece los acontecimientos más relevantes acaecidos durante la mañana. Las principales noticias de ámbito nacional e internacional son recogidas por Isabel Jiménez y Ángeles Blanco.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3899147" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3899147.jpg</image>
   </programme>
   <programme start="20260903133500 +0000" stop="20260903134500 +0000" channel="Telecinco.es">
     <title lang="es">El Desmarque Telecinco</title>
     <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que el periodista Manu Carreño presenta la actualidad y las últimas noticias de la jornada.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4207085" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4207085.jpg</image>
   </programme>
   <programme start="20260903134500 +0000" stop="20260903135500 +0000" channel="Telecinco.es">
     <title lang="es">El tiempo</title>
     <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P1373654" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F1373654.jpg</image>
   </programme>
   <programme start="20260903135500 +0000" stop="20260903160000 +0000" channel="Telecinco.es">
     <title lang="es">El verano se mueve</title>
     <desc lang="es">Magazine dedicado a los viajes que recorre toda la geografía española para mostrar los lugares más emblemáticos del país. El espacio está presentado por Ion Aramendi.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4391420" />
     <episode-num system="xmltv_ns">0.48.0/1</episode-num>
     <episode-num system="onscreen">S01E49</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4391420.jpg</image>
   </programme>
   <programme start="20260903160000 +0000" stop="20260903180000 +0000" channel="Telecinco.es">
     <title lang="es">¡De Lunes a Viernes!</title>
     <desc lang="es">Santi Acosta y Beatriz Archidona abordan las grandes tramas del mundo de los famosos con un tono fresco, gamberro y desenfadado y conexiones en directo con un nutrido equipo de reporteros.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4391428" />
     <episode-num system="xmltv_ns">0.43.0/1</episode-num>
     <episode-num system="onscreen">S01E44</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4391428.jpg</image>
   </programme>
   <programme start="20260903180000 +0000" stop="20260903190000 +0000" channel="Telecinco.es">
     <title lang="es">¡Allá tú! Diarios</title>
     <desc lang="es">Concurso que pone a prueba la capacidad de negociación de los concursantes. Pone a prueba la capacidad de negociación, intuición y templanza a la hora de tomar decisiones de 22 concursantes en cada programa.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4391430" />
     <episode-num system="xmltv_ns">0.42.0/1</episode-num>
     <episode-num system="onscreen">S01E43</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4391430.jpg</image>
   </programme>
   <programme start="20260903190000 +0000" stop="20260903193500 +0000" channel="Telecinco.es">
     <title lang="es">Informativos Telecinco Noche</title>
     <desc lang="es">Informativo vespertino presentado por Carlos Franganillo y Ángeles Blanco, que incluye las principales noticias que se han producido durante la jornada.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3899161" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3899161.jpg</image>
   </programme>
   <programme start="20260903193500 +0000" stop="20260903194500 +0000" channel="Telecinco.es">
     <title lang="es">El Desmarque Telecinco Noche</title>
     <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4207087" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4207087.jpg</image>
   </programme>
   <programme start="20260903194500 +0000" stop="20260903195000 +0000" channel="Telecinco.es">
     <title lang="es">El tiempo</title>
     <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P1373654" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F1373654.jpg</image>
   </programme>
   <programme start="20260903195000 +0000" stop="20260903210000 +0000" channel="Telecinco.es">
     <title lang="es">First dates</title>
     <desc lang="es">Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4391422" />
     <episode-num system="xmltv_ns">0.137.0/1</episode-num>
     <episode-num system="onscreen">S01E138</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4391422.jpg</image>
   </programme>
   <programme start="20260903195000 +0000" stop="20260903210000 +0000" channel="Telecinco.es">
     <title lang="es">First dates</title>
     <desc lang="es">Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4391422" />
     <episode-num system="xmltv_ns">0.137.0/1</episode-num>
     <episode-num system="onscreen">S01E138</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4391422.jpg</image>
   </programme>
   <programme start="20260903210000 +0000" stop="20260903234000 +0000" channel="Telecinco.es">
     <title lang="es">Lo mejor para ella</title>
     <desc lang="es">Elliot Anderson acaba de quedarse viudo y, además, debe cuidar de su nieta mestiza. La situación se complica cuando aparece Rowena, la abuela paterna, quien reclama judicialmente la custodia de la niña. Mike Binder ("En algún lugar de la memoria") dirige y escribe esta cinta melodramática con trasfondo racial, en el que un hombre blanco se enfrenta en los juzgados a una mujer negra por la custodia de la pequeña Eloise. La película destaca por un acertado elenco de actores, y permite disfrutar del duelo entre dos oscarizados intérpretes: Kevin Costner ("Bailando con lobos") y Octavia Spencer ("Criadas y señoras"). En su segundo largometraje, Jillian Estell ("So This Is Christmas") encarna a la nieta de ambos. Cabe destacar que Costner, quien ya había trabajado bajo la dirección de Binder en "Más allá del odio", financió personalmente el filme después de quedar profundamente conmovido al leer el guion.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P1277306" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F1277306.jpg</image>
   </programme>
   <programme start="20260903234000 +0000" stop="20260904002000 +0000" channel="Telecinco.es">
     <title lang="es">Infiltrada</title>
     <desc lang="es">Cole Ellis, un policía degradado, y Max Mitchell, una astuta estafadora, se ven forzados a colaborar. Él busca recuperar su placa y ella evitar la cárcel. Juntos forman una alianza improbable para resolver crímenes y hallar su redención en este thriller.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4311894" />
     <episode-num system="xmltv_ns">0.5.0/1</episode-num>
     <episode-num system="onscreen">S01E06</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4311894.jpg</image>
   </programme>
   <programme start="20260904002000 +0000" stop="20260904005000 +0000" channel="Telecinco.es">
     <title lang="es">Gran Madrid Show</title>
     <desc lang="es">Programa nocturno para que los espectadores puedan conectarse al Casino Gran Madrid desde casa.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4207083" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4207083.jpg</image>
   </programme>
   <programme start="20260904005000 +0000" stop="20260904010500 +0000" channel="Telecinco.es">
     <title lang="es">El rey del mando</title>
     <desc lang="es">Programa de zapping.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3970442" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3970442.jpg</image>
   </programme>
   <programme start="20260904010500 +0000" stop="20260904013500 +0000" channel="Telecinco.es">
     <title lang="es">Love Shopping TV</title>
     <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3341503" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3341503.jpg</image>
   </programme>
   <programme start="20260904013500 +0000" stop="20260904020500 +0000" channel="Telecinco.es">
     <title lang="es">Love Shopping TV</title>
     <desc lang="es">Espacio de teletienda en el que se ofrecen demostraciones de productos, que se pueden adquirir llamando por teléfono.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3341503" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3341503.jpg</image>
   </programme>
   <programme start="20260904020500 +0000" stop="20260904034500 +0000" channel="Telecinco.es">
     <title lang="es">Miramimúsica</title>
     <desc lang="es">Programa musical que se emite de madrugada.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P1303097" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F1303097.jpg</image>
   </programme>
   <programme start="20260904034500 +0000" stop="20260904040000 +0000" channel="Telecinco.es">
     <title lang="es">Enphorma</title>
     <desc lang="es">Programa especializado en temas actuales de alimentación, psicología y ejercicio.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3033572" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3033572.jpg</image>
   </programme>
   <programme start="20260904040000 +0000" stop="20260904060000 +0000" channel="Telecinco.es">
     <title lang="es">Informativos Telecinco matinal</title>
     <desc lang="es">Primera edición informativa de la cadena presentada por Bricio Segovia. El noticiario matinal ofrece un seguimiento de las noticias de la jornada anterior junto a lo más destacado de la información deportiva nacional e internacional.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P3899129" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F3899129.jpg</image>
   </programme>
   <programme start="20260902054700 +0000" stop="20260902060900 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Cuando Alan comienza a salir con Sandy, una instructora de cocina, tanto él como Charlie engordan. Y aunque queda claro que Sandy es mentalmente inestable, Charlie se rehúsa a permitir que Alan termine con ella.</desc>
     <category lang="es">Temporada 3 Episodio 11 - La aldea de los condenados de Santa</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e11-la-aldea-de-los-condenados-de-santa_l_m.jpg</image>
   </programme>
   <programme start="20260902060900 +0000" stop="20260902063200 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie y Alan llevan a Jake a la casa de un amigo y salen a pasar un rato de hermanos en el cine, pero la noche se arruina cuando Alan se descontrola al autoconvencerse de que Jake estaba muy deseoso de pasar el fin de semana lejos de él.</desc>
     <category lang="es">Temporada 3 Episodio 12 - Los ataques de Alan</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e12-los-ataques-de-alan_l_m.jpg</image>
   </programme>
   <programme start="20260902063200 +0000" stop="20260902065500 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie está traumatizado porque su novia, Mia, le exige un compromiso formal a cambio de relacionarse sexualmente por primera vez. Una charla con su familia le hará tomar una inusual decisión.</desc>
     <category lang="es">Temporada 3 Episodio 13 - La humillación es un medio visual</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e13-la-humillacion-es-un-medio-visual_l_m.jpg</image>
   </programme>
   <programme start="20260902065500 +0000" stop="20260902071700 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie se encuentra ansioso, pues al fin consumará su relación con Mía, aunque la realidad le indica no estar en su mejor estado. Por su parte Alan descubre los placeres de salir con Kandi.</desc>
     <category lang="es">Temporada 3 Episodio 14 - El amor no es ciego, es idiota</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e14-el-amor-no-es-ciego-es-idiota_l_m.jpg</image>
   </programme>
   <programme start="20260902071700 +0000" stop="20260902074000 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">El estilo de vida de Charlie produce tensión con Mía. Él no le puede seguir el paso a la rutina saludable que ella ha introducido en la relación, lo que lo lleva a preguntarse si realmente está enamorado de ella.</desc>
     <category lang="es">Temporada 3 Episodio 15 - Un Charlie diferente</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e15-un-charlie-diferente_l_m.jpg</image>
   </programme>
   <programme start="20260902074000 +0000" stop="20260902080300 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Preocupado porque está saliendo con una chica a quien le dobla la edad y mortificado por la posibilidad de presentársela a Evelyn, Alan trata de evitar llevar a Kandi, su sexy novia de 22 años, al cumpleaños de Jake.</desc>
     <category lang="es">Temporada 3 Episodio 16 - De ahí, ponerse las botas</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e16-de-ahi-ponerse-las-botas_l_m.jpg</image>
   </programme>
   <programme start="20260902080300 +0000" stop="20260902084700 +0000" channel="WarnerChannel.ar">
     <title lang="es">Encontrados</title>
     <desc lang="es">Un estudiante universitario desaparece luego de que una fraternidad le juega una broma pesada sobre su sexualidad y M&amp;A entra en acción para rastrear su ubicación. La presión por el arresto de Gabi llega al extremo.</desc>
     <category lang="es">Temporada 2 Episodio 10 - Desaparecido y expuesto</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
   </programme>
   <programme start="20260902084700 +0000" stop="20260902090000 +0000" channel="WarnerChannel.ar">
     <title lang="es">Hollywood One on One</title>
     <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
     <category lang="es">Episodio 9</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_hollywood-one-on-one-s00e09_l_m.jpg</image>
   </programme>
   <programme start="20260902090000 +0000" stop="20260902092300 +0000" channel="WarnerChannel.ar">
     <title lang="es">Corte nocturna</title>
     <desc lang="es">Dan intenta volver al mundo de las citas, pero le resulta más complicado de lo previsto.</desc>
     <category lang="es">Temporada 1 Episodio 4 - Dan contra las citas</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
   </programme>
   <programme start="20260902092300 +0000" stop="20260902095200 +0000" channel="WarnerChannel.ar">
     <title lang="es">Cobra Kai</title>
     <desc lang="es">Daniel está consternado al descubrir que se ha abierto un nuevo dojo Cobra Kai. Johnny se entera de que su dojo tiene que pasar varios requisitos de seguridad antes de poder empezar a enseñar.</desc>
     <category lang="es">Temporada 1 Episodio 2 - Golpear primero</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
   </programme>
   <programme start="20260902095200 +0000" stop="20260902100100 +0000" channel="WarnerChannel.ar">
     <title lang="es">Hollywood One on One</title>
     <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
     <category lang="es">Episodio 11</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_hollywood-one-on-one-s00e11_l_m.jpg</image>
   </programme>
   <programme start="20260902100100 +0000" stop="20260902102600 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Sheldon aterra a los chicos con su obsesión por mantener al pie de la letra el protocolo de intercambio de regalos decembrinos. Mientras que Leonard queda devastado cuando se entera de que Penny está saliendo con un colega de él.</desc>
     <category lang="es">Temporada 2 Episodio 11 - La hipótesis del regalo de baño</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e11-the-bath-item-gift-hypothesis_l_m.jpg</image>
   </programme>
   <programme start="20260902102600 +0000" stop="20260902105000 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Cuando Penny hiere los sentimientos de Wolowitz, este queda tan dolido que pasa a un estado de aturdimiento depresivo, lo que hace que el resto de los chicos se quede sin su miembro más importante para una muy cercana competición.</desc>
     <category lang="es">Temporada 2 Episodio 12 - La inestabilidad del robot asesino</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e12-the-killer-robot-instability_l_m.jpg</image>
   </programme>
   <programme start="20260902105000 +0000" stop="20260902111400 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Sheldon, dentro de su particularidad, desarrolla un procedimiento científico para hacer amigos.</desc>
     <category lang="es">Temporada 2 Episodio 13 - El algoritmo de la amistad</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e13-the-friendship-algorithm_l_m.jpg</image>
   </programme>
   <programme start="20260902111400 +0000" stop="20260902114000 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La solución que Sheldon propone para resolver los problemas financieros de Penny termina enfrentando a Leonard con Kurt, el corpulento exnovio de la joven.</desc>
     <category lang="es">Temporada 2 Episodio 14 - La permeabilidad financiera</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e14-the-financial-permeability_l_m.jpg</image>
   </programme>
   <programme start="20260902114000 +0000" stop="20260902120300 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Leonard y Penny se unen tras la desastrosa visita de la madre psiquiatra de Leonard.</desc>
     <category lang="es">Temporada 2 Episodio 15 - La capacitación maternal</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e15-the-maternal-capacitance_l_m.jpg</image>
   </programme>
   <programme start="20260902120300 +0000" stop="20260902122800 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Un juego de paintball conducirá a una pelea entre Penny y Leonard, mientras que Howard, por su lado, conseguirá un poco de cariño de una antigua amiga.</desc>
     <category lang="es">Temporada 2 Episodio 16 - La saturación del cojín</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e16-the-cushion-saturation_l_m.jpg</image>
   </programme>
   <programme start="20260902122800 +0000" stop="20260902125400 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie está nominado para un premio, pero sabe que su rival Archie ganará, como de costumbre, por lo que no quiere asistir. Al mismo tiempo, Rose le pide a Charlie que la ayude con su novio Gordon.</desc>
     <category lang="es">Temporada 3 Episodio 17 - Salven a los huérfanos</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e17-salven-a-los-huerfanos_l_m.jpg</image>
   </programme>
   <programme start="20260902125400 +0000" stop="20260902132000 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Alan comienza a tener problemas financieros, pues Kandi es muy "costosa" para él.</desc>
     <category lang="es">Temporada 3 Episodio 18 - La tarta cubierta de saliva</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e18-la-tarta-cubierta-de-saliva_l_m.jpg</image>
   </programme>
   <programme start="20260902132000 +0000" stop="20260902134500 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie descubre que Kandi ha estado viviendo con ellos durante tres semanas. Resulta que él ni siquiera ha notado algunos cambios en los muebles.</desc>
     <category lang="es">Temporada 3 Episodio 19 - El bombón se muda a casa</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e19-el-bombon-se-muda-a-casa_l_m.jpg</image>
   </programme>
   <programme start="20260902134500 +0000" stop="20260902141000 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Ahora Charlie está saliendo con Mandi, la madre de Kandi. Alan está deprimido porque Kandi lo ha dejado y se ha ido a vivir con la amargada Judith, quien le lavó el cerebro y la puso contra él.</desc>
     <category lang="es">Temporada 3 Episodio 20 - Siempre la novia, jamás el burro</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e20-siempre-la-novia-jamas-el-burro_l_m.jpg</image>
   </programme>
   <programme start="20260902141000 +0000" stop="20260902143600 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Francine, la maestra de Jake, cita a Alan y Judith a su salón para discutir el desinterés por la escuela de Jake.</desc>
     <category lang="es">Temporada 3 Episodio 21 - Actividades extracurriculares</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e21-actividades-extracurriculares_l_m.jpg</image>
   </programme>
   <programme start="20260902143600 +0000" stop="20260902150200 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Cuando una chica linda de la escuela invita a Jake a una fiesta, Charlie se entromete en el momento histórico de Alan con su hijo y ofrece sus propias palabras sabias sobre las mujeres.</desc>
     <category lang="es">Temporada 3 Episodio 22 - Mi primer amor</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e22-just-once-with-aunt-sophie_l_m.jpg</image>
   </programme>
   <programme start="20260902150200 +0000" stop="20260902154700 +0000" channel="WarnerChannel.ar">
     <title lang="es">Cobra Kai</title>
     <desc lang="es">Miguel y Sam están emocionados por el baile escolar hasta que otra pareja aparece inesperadamente. Terry lleva a Johnny a un lugar muy familiar.</desc>
     <category lang="es">Temporada 4 Episodio 8 - Empieza la fiesta</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
   </programme>
   <programme start="20260902154700 +0000" stop="20260902172500 +0000" channel="WarnerChannel.ar">
     <title lang="es">Los pingüinos de Madagascar</title>
     <desc lang="es">La organización contra el crimen Viento Norte acaba de sumar a tres agentes de elite: Capitán Kowalski, Rico y Soldado. Los simpáticos pingüinos vuelven a las andanzas para proteger el mar y la selva de los peligros que nunca escasean.</desc>
     <category lang="es">Penguins of MadagascarInfantil / 2014 / 6.7</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_los-pinguinos-de-madagascar-2014_l_m.jpg</image>
   </programme>
   <programme start="20260902172500 +0000" stop="20260902191700 +0000" channel="WarnerChannel.ar">
     <title lang="es">Matilda</title>
     <desc lang="es">Matilda no es una niña corriente: inteligente y sensible, con poderes extraordinarios, debe soportar a unos padres tontos y egoístas. Cuando la niña conoce a una maestra que la valora, la Srta. Honey, su vida empieza a tener otro color.</desc>
     <category lang="es">Comedia / 1996 / 6.8</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_matilda-1996_l_m.jpg</image>
   </programme>
   <programme start="20260902191700 +0000" stop="20260902212000 +0000" channel="WarnerChannel.ar">
     <title lang="es">Contagio</title>
     <desc lang="es">Poco después de regresar de un viaje de negocios, Beth muere a causa de una supuesta gripe. Mientras la mortal epidemia se expande, los doctores deberán identificar el virus para lograr combatirlo y erradicar el pánico en la población.</desc>
     <category lang="es">ContagionSuspenso / 2011 / 6.7</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_contagio-2011_l_m.jpg</image>
   </programme>
   <programme start="20260902212000 +0000" stop="20260902231400 +0000" channel="WarnerChannel.ar">
     <title lang="es">Sully, hazaña en el Hudson</title>
     <desc lang="es">"Sully" Sullenberger es un piloto aéreo que en 2009 se convirtió en un héroe cuando, a poco de despegar, su avión se averió y logró realizar un aterrizaje forzoso del aparato en pleno río Hudson, en Nueva York, con 155 pasajeros a bordo.</desc>
     <category lang="es">SullyDrama / 2016</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_sully-hazana-en-el-hudson-2016_l_m.jpg</image>
   </programme>
   <programme start="20260902231400 +0000" stop="20260903010000 +0000" channel="WarnerChannel.ar">
     <title lang="es">Jack y Jill</title>
     <desc lang="es">Jack es un padre de familia que tiene que afrontar un arduo problema: la llegada por Navidad de su odiada hermana Jill. Como si fuera poco, la visita de pocos días se alarga más de lo previsto, y los hermanos intentarán limar asperezas.</desc>
     <category lang="es">Jack and JillComedia / 2011 / 3.4</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_jack-y-jill-2011_l_m.jpg</image>
   </programme>
   <programme start="20260903010000 +0000" stop="20260903030400 +0000" channel="WarnerChannel.ar">
     <title lang="es">Jack, el cazagigantes</title>
     <desc lang="es">La paz existente entre humanos y gigantes llega a su fin cuando los gigantes secuestran a una princesa humana. Un grupo de hombres, encabezado por un joven granjero, tendrá que partir a su rescate.</desc>
     <category lang="es">Jack the Giant SlayerAventura / 2013 / 6.3</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_jack-el-cazagigantes-2013_l_m.jpg</image>
   </programme>
   <programme start="20260903030400 +0000" stop="20260903032900 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Sheldon aterra a los chicos con su obsesión por mantener al pie de la letra el protocolo de intercambio de regalos decembrinos. Mientras que Leonard queda devastado cuando se entera de que Penny está saliendo con un colega de él.</desc>
     <category lang="es">Temporada 2 Episodio 11 - La hipótesis del regalo de baño</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e11-the-bath-item-gift-hypothesis_l_m.jpg</image>
   </programme>
   <programme start="20260903032900 +0000" stop="20260903035300 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Cuando Penny hiere los sentimientos de Wolowitz, este queda tan dolido que pasa a un estado de aturdimiento depresivo, lo que hace que el resto de los chicos se quede sin su miembro más importante para una muy cercana competición.</desc>
     <category lang="es">Temporada 2 Episodio 12 - La inestabilidad del robot asesino</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e12-the-killer-robot-instability_l_m.jpg</image>
   </programme>
   <programme start="20260903035300 +0000" stop="20260903041800 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Sheldon, dentro de su particularidad, desarrolla un procedimiento científico para hacer amigos.</desc>
     <category lang="es">Temporada 2 Episodio 13 - El algoritmo de la amistad</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e13-the-friendship-algorithm_l_m.jpg</image>
   </programme>
   <programme start="20260903041800 +0000" stop="20260903044400 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">La solución que Sheldon propone para resolver los problemas financieros de Penny termina enfrentando a Leonard con Kurt, el corpulento exnovio de la joven.</desc>
     <category lang="es">Temporada 2 Episodio 14 - La permeabilidad financiera</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e14-the-financial-permeability_l_m.jpg</image>
   </programme>
   <programme start="20260903044400 +0000" stop="20260903050800 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Leonard y Penny se unen tras la desastrosa visita de la madre psiquiatra de Leonard.</desc>
     <category lang="es">Temporada 2 Episodio 15 - La capacitación maternal</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e15-the-maternal-capacitance_l_m.jpg</image>
   </programme>
   <programme start="20260903050800 +0000" stop="20260903053000 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Un juego de paintball conducirá a una pelea entre Penny y Leonard, mientras que Howard, por su lado, conseguirá un poco de cariño de una antigua amiga.</desc>
     <category lang="es">Temporada 2 Episodio 16 - La saturación del cojín</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e16-the-cushion-saturation_l_m.jpg</image>
   </programme>
   <programme start="20260903053000 +0000" stop="20260903055300 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie está nominado para un premio, pero sabe que su rival Archie ganará, como de costumbre, por lo que no quiere asistir. Al mismo tiempo, Rose le pide a Charlie que la ayude con su novio Gordon.</desc>
     <category lang="es">Temporada 3 Episodio 17 - Salven a los huérfanos</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e17-salven-a-los-huerfanos_l_m.jpg</image>
   </programme>
   <programme start="20260903055300 +0000" stop="20260903065300 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Alan comienza a tener problemas financieros, pues Kandi es muy "costosa" para él.</desc>
     <category lang="es">Temporada 3 Episodio 18 - La tarta cubierta de saliva</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e18-la-tarta-cubierta-de-saliva_l_m.jpg</image>
   </programme>
   <programme start="20260903055300 +0000" stop="20260903061400 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Alan comienza a tener problemas financieros, pues Kandi es muy "costosa" para él.</desc>
     <category lang="es">Temporada 3 Episodio 18 - La tarta cubierta de saliva</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e18-la-tarta-cubierta-de-saliva_l_m.jpg</image>
   </programme>
   <programme start="20260903061400 +0000" stop="20260903063700 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie descubre que Kandi ha estado viviendo con ellos durante tres semanas. Resulta que él ni siquiera ha notado algunos cambios en los muebles.</desc>
     <category lang="es">Temporada 3 Episodio 19 - El bombón se muda a casa</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e19-el-bombon-se-muda-a-casa_l_m.jpg</image>
   </programme>
   <programme start="20260903063700 +0000" stop="20260903070000 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Ahora Charlie está saliendo con Mandi, la madre de Kandi. Alan está deprimido porque Kandi lo ha dejado y se ha ido a vivir con la amargada Judith, quien le lavó el cerebro y la puso contra él.</desc>
     <category lang="es">Temporada 3 Episodio 20 - Siempre la novia, jamás el burro</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e20-siempre-la-novia-jamas-el-burro_l_m.jpg</image>
   </programme>
   <programme start="20260903070000 +0000" stop="20260903072200 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Francine, la maestra de Jake, cita a Alan y Judith a su salón para discutir el desinterés por la escuela de Jake.</desc>
     <category lang="es">Temporada 3 Episodio 21 - Actividades extracurriculares</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e21-actividades-extracurriculares_l_m.jpg</image>
   </programme>
   <programme start="20260903072200 +0000" stop="20260903074500 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Cuando una chica linda de la escuela invita a Jake a una fiesta, Charlie se entromete en el momento histórico de Alan con su hijo y ofrece sus propias palabras sabias sobre las mujeres.</desc>
     <category lang="es">Temporada 3 Episodio 22 - Mi primer amor</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e22-just-once-with-aunt-sophie_l_m.jpg</image>
   </programme>
   <programme start="20260903074500 +0000" stop="20260903082900 +0000" channel="WarnerChannel.ar">
     <title lang="es">Encontrados</title>
     <desc lang="es">M&amp;A debe encontrar urgentemente a un joven afroamericano no neurotípico antes de que sufra una crisis emocional. El juego del gato y el ratón entre Sir y Gabi llega a su punto crítico. Un rostro familiar se pone en contacto con Margaret.</desc>
     <category lang="es">Temporada 2 Episodio 11 - Desaparecido e incomprendido</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
   </programme>
   <programme start="20260903082900 +0000" stop="20260903084900 +0000" channel="WarnerChannel.ar">
     <title lang="es">Obreros milagrosos</title>
     <desc lang="es">Sid y Freya intentan mejorar su vida sexual a través de la terapia de pareja. Morris asiste a su reunión de preparatoria.</desc>
     <category lang="es">Temporada 4 Episodio 3 - The Matrixxx</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_obreros-milagrosos-s04e03-end-times-the-matrixxx_l_m.jpg</image>
   </programme>
   <programme start="20260903084900 +0000" stop="20260903090000 +0000" channel="WarnerChannel.ar">
     <title lang="es">Hollywood One on One</title>
     <desc lang="es">Disfruta de las mejores entrevistas con las personalidades de Hollywood y conoce todos los detalles de sus nuevos proyectos.</desc>
     <category lang="es">Episodio 15</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_hollywood-one-on-one-s00e15_l_m.jpg</image>
   </programme>
   <programme start="20260903090000 +0000" stop="20260903092100 +0000" channel="WarnerChannel.ar">
     <title lang="es">Corte nocturna</title>
     <desc lang="es">Gurgs ayuda a Abby a encontrar un nuevo apartamento mientras Olivia intenta esconderse de un abogado que casi la contrata fuera del tribunal nocturno.</desc>
     <category lang="es">Temporada 1 Episodio 5 - El apartamento</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
   </programme>
   <programme start="20260903092100 +0000" stop="20260903095000 +0000" channel="WarnerChannel.ar">
     <title lang="es">Cobra Kai</title>
     <desc lang="es">Robbie está en problemas con su padre. Johnny planea cerrar Cobra Kai después de que Miguel se lesione. La relación de Samantha y Kyler toca fondo. Una valla publicitaria destrozada crea tensión para Daniel.</desc>
     <category lang="es">Temporada 1 Episodio 4 - Cobra Kai nunca muere</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
   </programme>
   <programme start="20260903095000 +0000" stop="20260903104800 +0000" channel="WarnerChannel.ar">
     <title lang="es">Cobra Kai</title>
     <desc lang="es">Cobra Kai gana su segundo alumno. Daniel tiene un intrincado plan para vengarse de Johnny. Miguel defiende a Samantha contra Kyler durante el almuerzo.</desc>
     <category lang="es">Temporada 1 Episodio 5 - Contrapeso</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
   </programme>
   <programme start="20260903104800 +0000" stop="20260903111000 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Durante un viaje en tren Sheldon, Leonard, Raj y Wolwitz se encontraran con una actriz famosa.</desc>
     <category lang="es">Temporada 2 Episodio 17 - El desacoplamiento Terminator</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e17-the-terminator-decoupling_l_m.jpg</image>
   </programme>
   <programme start="20260903111000 +0000" stop="20260903113000 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">El negocio de productos caseros para el cabello se convierte en una pesadilla cuando un acelerado Sheldon decide tomar el control de todo.</desc>
     <category lang="es">Temporada 2 Episodio 18 - El nano-cúmulo de las canciones para trabajar</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e18-the-work-song-nanocluster_l_m.jpg</image>
   </programme>
   <programme start="20260903113000 +0000" stop="20260903115400 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Penny se siente amenazada cuando al edificio en el que viven ella y sus amigos se muda una atractiva chica, que según Penny se está aprovechando de sus muy queridos vecinos.</desc>
     <category lang="es">Temporada 2 Episodio 19 - La yuxtaposicion de la prostituta muerta</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e19-the-dead-hooker-juxtaposition_l_m.jpg</image>
   </programme>
   <programme start="20260903115400 +0000" stop="20260903121800 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Leonard está molesto cuando Stuart, de la tienda de cómics, comienza a salir con Penny y convence a Howard y Raj para que lo lleven a un bar para que pueda elegir a su propia mujer.</desc>
     <category lang="es">Temporada 2 Episodio 20 - El isótopo Hofstadter</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e20-the-hofstadter-isotope_l_m.jpg</image>
   </programme>
   <programme start="20260903121800 +0000" stop="20260903124300 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Leonard y Raj deciden llevarse a Wolowitz a Las Vegas para que se recupere de su rompimiento con Leslie. Sheldon, por su lado, se queda finalmente solo en la casa, tal como lo había estado deseando.</desc>
     <category lang="es">Temporada 2 Episodio 21 - La re-normalización de Las Vegas</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e21-the-vegas-renormalization_l_m.jpg</image>
   </programme>
   <programme start="20260903124300 +0000" stop="20260903130100 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Stuart le pide un consejo a Leonard sobre su segunda cita con Penny y este último debera decidir entre su honestidad o su egoismo.</desc>
     <category lang="es">Temporada 2 Episodio 22 - La turbulencia de la materia secreta</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e22-the-classified-materials-turbulence_l_m.jpg</image>
   </programme>
   <programme start="20260903130100 +0000" stop="20260903132600 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Mia regresa a la ciudad con su grupo de baile e invita a Charlie a su actuación. En un primer momento, él decide no ir y trata de convencer a Alan de que no siente más nada por ella.</desc>
     <category lang="es">Temporada 3 Episodio 23 - Argumentos para un rapidito</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e23-argumentos-para-un-rapidito_l_m.jpg</image>
   </programme>
   <programme start="20260903132600 +0000" stop="20260903135100 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie y Mia comienzan a hacer sus preparativos para la boda. Las cosas comienzan a desmoronarse cuando las dos familias se conocen.</desc>
     <category lang="es">Temporada 3 Episodio 24 - ¡Que vivan los novios!</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e24-que-vivan-los-novios_l_m.jpg</image>
   </programme>
   <programme start="20260903135100 +0000" stop="20260903141600 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Kandi deja a Alan, lo que lo obliga a él y a Jake a regresar con Charlie, quien se estaba acostumbrando a recuperar su puesto de soltero.</desc>
     <category lang="es">Temporada 4 Episodio 1 - Trabajar para Caligula</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s04e01-trabajar-para-caligula_l_m.jpg</image>
   </programme>
   <programme start="20260903141600 +0000" stop="20260903144100 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Alan se siente culpable cuando Charlie finalmente le cuenta por qué rompió con Mia. La verdad es que Charlie y Mia no se casaron porque ella quería que Alan y Jake se mudaran.</desc>
     <category lang="es">Temporada 4 Episodio 2 - Who's Vod Kanockers?</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s04e02-who-s-vod-kanockers_l_m.jpg</image>
   </programme>
   <programme start="20260903144100 +0000" stop="20260903150200 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie está convencido de haber visto a su padre fallecido al vivir una experiencia cercana a la muerte.</desc>
     <category lang="es">Temporada 4 Episodio 3 - La mar es una estricta gobernanta</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s04e03-la-mar-es-una-estricta-gobernanta_l_m.jpg</image>
   </programme>
   <programme start="20260903150200 +0000" stop="20260903152700 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Alan trata de contratar al abogado de su exesposa para ayudarlo a ganar la custodia del perro que él y Kandi tenían, pero tiene que recurrir a medidas desesperadas cuando Judith le ofrece su abogado a Kandi.</desc>
     <category lang="es">Temporada 4 Episodio 4 - Un mono emporrado</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s04e04-un-mono-emporrado_l_m.jpg</image>
   </programme>
   <programme start="20260903152700 +0000" stop="20260903160000 +0000" channel="WarnerChannel.ar">
     <title lang="es">Cobra Kai</title>
     <desc lang="es">Ha empezado el torneo anual de kárate de All Valley. Varios dojos compiten por ser los mejores y, de paso, ajustar algunas cuentas personales.</desc>
     <category lang="es">Temporada 4 Episodio 9 - La caída</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_tvepisode_l_m.jpg</image>
   </programme>
   <programme start="20260903160000 +0000" stop="20260903173600 +0000" channel="WarnerChannel.ar">
     <title lang="es">Jack y Jill</title>
     <desc lang="es">Jack es un padre de familia que tiene que afrontar un arduo problema: la llegada por Navidad de su odiada hermana Jill. Como si fuera poco, la visita de pocos días se alarga más de lo previsto, y los hermanos intentarán limar asperezas.</desc>
     <category lang="es">Jack and JillComedia / 2011 / 3.4</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_jack-y-jill-2011_l_m.jpg</image>
   </programme>
   <programme start="20260903173600 +0000" stop="20260903192700 +0000" channel="WarnerChannel.ar">
     <title lang="es">Peter Rabbit 2: A la fuga</title>
     <desc lang="es">Bea, Thomas, y los conejos han creado una familia improvisada, pero a pesar de sus mejores esfuerzos, Peter no parece dejar su reputación. Cuando su familia se encuentre en peligro, Peter deberá decidir qué tipo de conejo quiere ser.</desc>
     <category lang="es">Peter Rabbit 2: The RunawayAnimación / 2021 / 6.2</category>
-    <image>https://cdn.mitvstatic.com/programs/fallback_movies_l_m.jpg</image>
   </programme>
   <programme start="20260903192700 +0000" stop="20260903212200 +0000" channel="WarnerChannel.ar">
     <title lang="es">El tesoro del Amazonas</title>
     <desc lang="es">Un aspirante a chef es contratado para llevar a casa al hijo de un mafioso del Amazonas, pero se ve involucrado en la lucha contra un tiránico opresor de la ciudad y la búsqueda de un tesoro legendario.</desc>
     <category lang="es">The RundownComedia / 2003 / 6.7</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_el-tesoro-del-amazonas-2003_l_m.jpg</image>
   </programme>
   <programme start="20260903212200 +0000" stop="20260903232200 +0000" channel="WarnerChannel.ar">
     <title lang="es">Soy leyenda</title>
     <desc lang="es">Años después de que una plaga acabo con la mayor parte de la humanidad y transformó al resto en monstruosos mutantes, el único sobreviviente de Nueva York lucha valientemente por encontrar una cura.</desc>
     <category lang="es">I Am LegendC.Ficción / 2007 / 7.2</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_soy-leyenda-2007_l_m.jpg</image>
   </programme>
   <programme start="20260903232200 +0000" stop="20260904010000 +0000" channel="WarnerChannel.ar">
     <title lang="es">Hancock</title>
     <desc lang="es">John Hancock, un superhéroe que vive sin límites y que ha perdido la aprobación del público, se involucra con la esposa del profesional de relaciones públicas que está intentando mejorar su imagen.</desc>
     <category lang="es">Acción / 2008 / 6.5</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_hancock-2008_l_m.jpg</image>
   </programme>
   <programme start="20260904010000 +0000" stop="20260904025200 +0000" channel="WarnerChannel.ar">
     <title lang="es">300: El nacimiento de un imperio</title>
     <desc lang="es">Temístocles lucha por conseguir la unidad de las polis griegas. Para ello, deberá detener la acción invasora de las fuerzas persas capitaneadas por Xerxes, mortal devenido en dios, y Artemisia, la vengativa comandante de la armada persa.</desc>
     <category lang="es">300: Rise of an EmpireAcción / 2014 / 6.3</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_300-el-nacimiento-de-un-imperio-2014_l_m.jpg</image>
   </programme>
   <programme start="20260904025200 +0000" stop="20260904031500 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Durante un viaje en tren Sheldon, Leonard, Raj y Wolwitz se encontraran con una actriz famosa.</desc>
     <category lang="es">Temporada 2 Episodio 17 - El desacoplamiento Terminator</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e17-the-terminator-decoupling_l_m.jpg</image>
   </programme>
   <programme start="20260904031500 +0000" stop="20260904033600 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">El negocio de productos caseros para el cabello se convierte en una pesadilla cuando un acelerado Sheldon decide tomar el control de todo.</desc>
     <category lang="es">Temporada 2 Episodio 18 - El nano-cúmulo de las canciones para trabajar</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e18-the-work-song-nanocluster_l_m.jpg</image>
   </programme>
   <programme start="20260904033600 +0000" stop="20260904040000 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Penny se siente amenazada cuando al edificio en el que viven ella y sus amigos se muda una atractiva chica, que según Penny se está aprovechando de sus muy queridos vecinos.</desc>
     <category lang="es">Temporada 2 Episodio 19 - La yuxtaposicion de la prostituta muerta</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e19-the-dead-hooker-juxtaposition_l_m.jpg</image>
   </programme>
   <programme start="20260904040000 +0000" stop="20260904042300 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Leonard está molesto cuando Stuart, de la tienda de cómics, comienza a salir con Penny y convence a Howard y Raj para que lo lleven a un bar para que pueda elegir a su propia mujer.</desc>
     <category lang="es">Temporada 2 Episodio 20 - El isótopo Hofstadter</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e20-the-hofstadter-isotope_l_m.jpg</image>
   </programme>
   <programme start="20260904042300 +0000" stop="20260904044600 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Leonard y Raj deciden llevarse a Wolowitz a Las Vegas para que se recupere de su rompimiento con Leslie. Sheldon, por su lado, se queda finalmente solo en la casa, tal como lo había estado deseando.</desc>
     <category lang="es">Temporada 2 Episodio 21 - La re-normalización de Las Vegas</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e21-the-vegas-renormalization_l_m.jpg</image>
   </programme>
   <programme start="20260904044600 +0000" stop="20260904050600 +0000" channel="WarnerChannel.ar">
     <title lang="es">The Big Bang Theory</title>
     <desc lang="es">Stuart le pide un consejo a Leonard sobre su segunda cita con Penny y este último debera decidir entre su honestidad o su egoismo.</desc>
     <category lang="es">Temporada 2 Episodio 22 - La turbulencia de la materia secreta</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_the-big-bang-theory-s02e22-the-classified-materials-turbulence_l_m.jpg</image>
   </programme>
   <programme start="20260904050600 +0000" stop="20260904053000 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Mia regresa a la ciudad con su grupo de baile e invita a Charlie a su actuación. En un primer momento, él decide no ir y trata de convencer a Alan de que no siente más nada por ella.</desc>
     <category lang="es">Temporada 3 Episodio 23 - Argumentos para un rapidito</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e23-argumentos-para-un-rapidito_l_m.jpg</image>
   </programme>
   <programme start="20260904053000 +0000" stop="20260904055300 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Charlie y Mia comienzan a hacer sus preparativos para la boda. Las cosas comienzan a desmoronarse cuando las dos familias se conocen.</desc>
     <category lang="es">Temporada 3 Episodio 24 - ¡Que vivan los novios!</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s03e24-que-vivan-los-novios_l_m.jpg</image>
   </programme>
   <programme start="20260904055300 +0000" stop="20260904065300 +0000" channel="WarnerChannel.ar">
     <title lang="es">Dos hombres y medio</title>
     <desc lang="es">Kandi deja a Alan, lo que lo obliga a él y a Jake a regresar con Charlie, quien se estaba acostumbrando a recuperar su puesto de soltero.</desc>
     <category lang="es">Temporada 4 Episodio 1 - Trabajar para Caligula</category>
-    <image>https://cdn.mitvstatic.com/programs/ar_dos-hombres-y-medio-s04e01-trabajar-para-caligula_l_m.jpg</image>
   </programme>
 </tv>
