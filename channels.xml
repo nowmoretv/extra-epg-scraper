@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
   <channel site="movistarplus.es" lang="es" xmltv_id="La1.es" site_id="TVE">La 1 HD</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="Antena3.es" site_id="A3">Antena 3 HD</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="Cuatro.es" site_id="CUATRO">Cuatro</channel>
   <channel site="movistarplus.es" lang="es" xmltv_id="Telecinco.es" site_id="T5">Telecinco</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="LaSexta.es" site_id="SEXTA">La Sexta</channel>
 
   <channel site="mi.tv" lang="es" xmltv_id="WarnerChannel.ar" site_id="ar#warner-channel">Warner Channel</channel>
-  <channel site="mi.tv" lang="es" xmltv_id="SonyChannel.mx" site_id="mx#sony-channel">Sony Channel</channel>
 </channels>
