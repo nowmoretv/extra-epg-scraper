@@ -1,0 +1,48 @@
+name: Actualizador Directo EPG (iptv-org)
+
+on:
+  schedule:
+    # Se ejecuta cada 12 horas automáticamente
+    - cron: '0 */12 * * *'
+  # Permite ejecutarlo a mano para pruebas
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-epg:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Descargar mi repositorio
+      uses: actions/checkout@v4
+
+    - name: Descargar motor scraper de iptv-org
+      run: git clone --depth 1 https://github.com/iptv-org/epg.git scraper-core
+
+    - name: Configurar Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+
+    - name: Instalar dependencias del scraper
+      run: |
+        cd scraper-core
+        npm install
+
+    # Copiamos tu lista 'channels.xml' al motor y realizamos el scraping
+    - name: Ejecutar scraping de canales
+      run: |
+        cp channels.xml scraper-core/my_channels.xml
+        cd scraper-core
+        # maxConnections evita bloqueos de IP por peticiones simultáneas
+        npm run grab -- --channels=my_channels.xml --output=../epg.xml --maxConnections=2
+
+    - name: Guardar y subir epg.xml a GitHub
+      run: |
+        git config --global user.name "EPG AutoBot"
+        git config --global user.email "bot@github.com"
+        git add epg.xml
+        git commit -m "EPG actualizada desde fuentes oficiales [skip ci]" || exit 0
+        git push
