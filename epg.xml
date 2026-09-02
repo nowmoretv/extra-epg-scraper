@@ -11,12 +11,6 @@
   <channel id="WarnerChannel.ar">
     <display-name>Warner Channel</display-name>
   </channel>
-  <programme start="20260902194000 +0000" stop="20260902194500 +0000" channel="La1.es">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP3921386" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF3921386.jpg</image>
-  </programme>
   <programme start="20260902194500 +0000" stop="20260902225000 +0000" channel="La1.es">
     <title lang="es">El Grand Prix del Verano</title>
     <desc lang="es">Ramon García vuelve a presentar el clásico concurso veraniego en el que varias localidades españolas ponen a prueba sus habilidades físicas y mentales enfrentándose entre sí.</desc>
@@ -104,10 +98,10 @@
   <programme start="20260903163500 +0000" stop="20260903173500 +0000" channel="La1.es">
     <title lang="es">La Promesa</title>
     <desc lang="es">Las cocineras no quieren volver mientras Julio y Tomasa permanezcan en La Promesa. Julieta y Samuel prometen guardar el secreto. Cristóbal obliga a los criados del duque a disculparse ante los cocineros.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP2162814" />
+    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4392594" />
     <episode-num system="xmltv_ns">0.898.0/1</episode-num>
     <episode-num system="onscreen">S01E899</episode-num>
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF2162814.jpg</image>
+    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4392594.jpg</image>
   </programme>
   <programme start="20260903173500 +0000" stop="20260903182500 +0000" channel="La1.es">
     <title lang="es">Malas lenguas</title>
@@ -137,11 +131,13 @@
     <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP3921386" />
     <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF3921386.jpg</image>
   </programme>
-  <programme start="20260903194000 +0000" stop="20260903194500 +0000" channel="La1.es">
-    <title lang="es">Deportes 2</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP3921386" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF3921386.jpg</image>
+  <programme start="20260903194500 +0000" stop="20260903205000 +0000" channel="La1.es">
+    <title lang="es">Viaje al centro de la tele</title>
+    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
+    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4361067" />
+    <episode-num system="xmltv_ns">0.16.0/1</episode-num>
+    <episode-num system="onscreen">S01E17</episode-num>
+    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4361067.jpg</image>
   </programme>
   <programme start="20260903194500 +0000" stop="20260903205000 +0000" channel="La1.es">
     <title lang="es">Viaje al centro de la tele</title>
@@ -184,12 +180,6 @@
     <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
     <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MTVEP4385025" />
     <image>https://estatico.emisiondof6.com/recorte/n/vegend/MTVEF4385025.jpg</image>
-  </programme>
-  <programme start="20260902194000 +0000" stop="20260902195000 +0000" channel="Telecinco.es">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P1373654" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F1373654.jpg</image>
   </programme>
   <programme start="20260902195000 +0000" stop="20260902210000 +0000" channel="Telecinco.es">
     <title lang="es">First dates</title>
@@ -353,17 +343,19 @@
     <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4207087" />
     <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4207087.jpg</image>
   </programme>
-  <programme start="20260903193500 +0000" stop="20260903194500 +0000" channel="Telecinco.es">
-    <title lang="es">El Desmarque Telecinco Noche</title>
-    <desc lang="es">El mundo del deporte es el protagonista de este programa, en el que seanaliza la actualidad y las últimas noticias de la jornada.</desc>
-    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4207087" />
-    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4207087.jpg</image>
-  </programme>
   <programme start="20260903194500 +0000" stop="20260903195000 +0000" channel="Telecinco.es">
     <title lang="es">El tiempo</title>
     <desc lang="es">Espacio informativo que ofrece la previsión meteorológica.</desc>
     <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P1373654" />
     <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F1373654.jpg</image>
+  </programme>
+  <programme start="20260903195000 +0000" stop="20260903210000 +0000" channel="Telecinco.es">
+    <title lang="es">First dates</title>
+    <desc lang="es">Espacio que organiza citas a ciegas entre solteros en un restaurante único y especial. Carlos Sobera ejercerá de singular maître de este local, interviniendo en caso de que sus clientes necesiten una ayuda extra durante la cita, para conseguir el éxito entre la pareja.</desc>
+    <icon src="https://estatico.emisiondof6.com/recorte/n/dispficha/MT5P4391422" />
+    <episode-num system="xmltv_ns">0.137.0/1</episode-num>
+    <episode-num system="onscreen">S01E138</episode-num>
+    <image>https://estatico.emisiondof6.com/recorte/n/vegend/MT5F4391422.jpg</image>
   </programme>
   <programme start="20260903195000 +0000" stop="20260903210000 +0000" channel="Telecinco.es">
     <title lang="es">First dates</title>
