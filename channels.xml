@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <channels>
-  <channel site="movistarplus.es" lang="es" xmltv_id="La1.es" site_id="TVE">La 1 HD</channel>
-  <channel site="movistarplus.es" lang="es" xmltv_id="Telecinco.es" site_id="T5">Telecinco</channel>
+  <channel site="tvarenasport.hr" site_id="01" lang="hr" xmltv_id="ArenaSport1.hr.scraper">Arena Sport 1</channel>
+  <channel site="tvarenasport.hr" site_id="02" lang="hr" xmltv_id="ArenaSport2.hr.scraper">Arena Sport 2</channel>
+  <channel site="tvarenasport.hr" site_id="03" lang="hr" xmltv_id="ArenaSport3.hr.scraper">Arena Sport 3</channel>
+  <channel site="tvarenasport.hr" site_id="04" lang="hr" xmltv_id="ArenaSport4.hr.scraper">Arena Sport 4</channel>
+  <channel site="tvarenasport.hr" site_id="05" lang="hr" xmltv_id="ArenaSport5.hr.scraper">Arena Sport 5</channel>
+  <channel site="tvarenasport.hr" site_id="06" lang="hr" xmltv_id="ArenaSport6.hr.scraper">Arena Sport 6</channel>
+  <channel site="tvarenasport.hr" site_id="07" lang="hr" xmltv_id="ArenaSport7.hr.scraper">Arena Sport 7</channel>
+  <channel site="tvarenasport.hr" site_id="08" lang="hr" xmltv_id="ArenaSport8.hr.scraper">Arena Sport 8</channel>
+  <channel site="tvarenasport.hr" site_id="09" lang="hr" xmltv_id="ArenaSport9.hr.scraper">Arena Sport 9</channel>
+  <channel site="tvarenasport.hr" site_id="10" lang="hr" xmltv_id="ArenaSport10.hr.scraper">Arena Sport 10</channel>
 
-  <channel site="mi.tv" lang="es" xmltv_id="WarnerChannel.ar" site_id="ar#warner-channel">Warner Channel</channel>
+  <channel site="movistarplus.es" site_id="TVE" lang="es" xmltv_id="La1.es.scraper">La 1</channel>
+  
 </channels>
