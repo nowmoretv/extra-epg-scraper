@@ -1183,42 +1183,6 @@
     <desc lang="hr">RADNIK - SLOGA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260904003000 +0000" stop="20260904040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260904040000 +0000" stop="20260904055000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20260904055000 +0000" stop="20260904083500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.174.0/1</episode-num>
-    <episode-num system="onscreen">S01E175</episode-num>
-  </programme>
-  <programme start="20260904083500 +0000" stop="20260904125500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
-    <episode-num system="onscreen">S01E10</episode-num>
-  </programme>
-  <programme start="20260904125500 +0000" stop="20260904133000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20260904133000 +0000" stop="20260904133500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20260904133500 +0000" stop="20260904134000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20260904134000 +0000" stop="20260904135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
   <programme start="20260904135000 +0000" stop="20260904154500 +0000" channel="La1.es.scraper">
     <title lang="es">La Vuelta</title>
     <desc lang="es">El ciclismo completa el calendario 2026 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 22 de agosto en Mónaco. La meta final, el 13 de septiembre, se cruzará en Granada. El danés Jonas Vingegaard fue el vencedor en la edición de 2025.</desc>
@@ -1285,10 +1249,6 @@
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20260905000500 +0000" stop="20260905040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
   <programme start="20260905040000 +0000" stop="20260905050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
@@ -1328,6 +1288,10 @@
   <programme start="20260905135000 +0000" stop="20260905135500 +0000" channel="La1.es.scraper">
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
+  </programme>
+  <programme start="20260905135500 +0000" stop="20260905153000 +0000" channel="La1.es.scraper">
+    <title lang="es">La Vuelta</title>
+    <desc lang="es">El ciclismo completa el calendario 2026 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 22 de agosto en Mónaco. La meta final, el 13 de septiembre, se cruzará en Granada. El danés Jonas Vingegaard fue el vencedor en la edición de 2025.</desc>
   </programme>
   <programme start="20260905135500 +0000" stop="20260905153000 +0000" channel="La1.es.scraper">
     <title lang="es">La Vuelta</title>
@@ -1376,6 +1340,14 @@
     <desc lang="es">Elena Greco, una anciana inmersa en una casa llena de libros, comienza a escribir una historia de amistad cuando Raffaella Cerullo, su mejor amiga de la infancia a quien siempre ha llamado Lila, parece haber desaparecido. La historia, que tuvo lugar en la década de 1950, se sitúa en la ciudad de Nápoles y cubre más de sesenta años de vida para tratar de contar el misterio de Lila. De producción italiana, esta serie dirigida por Saverio Costanzo adapta la exitosa tetralogía literaria "Dos amigas", compuesta por "La amiga estupenda", "Un mal nombre", "Las deudas del cuerpo" y "La niña perdida", de la escritora Elena Ferrante. La ficción se hizo con el Globo de Oro de Italia 2019 en la categoría de mejor actriz revelación, premiando a la joven Ludovica Nasti por su papel de Lila, así como la nominación a mejor serie de televisión, y con el premio a mejor serie de drama en el Festival de Televisión de Montecarlo.</desc>
   </programme>
   <programme start="20260906005500 +0000" stop="20260906040000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260906040000 +0000" stop="20260906050000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260906050000 +0000" stop="20260906083000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
