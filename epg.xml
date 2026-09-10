@@ -1158,61 +1158,35 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20260909235500 +0000" stop="20260910023000 +0000" channel="La1.es.scraper">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Informativo diario que incluye entrevistas y debates sobre diversas cuestiones de actualidad. El programa ofrece la posibilidad de que los espectadores participen opinando sobre las cuestiones debatidas mediante un foro en la web de RTVE.</desc>
-  </programme>
-  <programme start="20260910023000 +0000" stop="20260910040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260910040000 +0000" stop="20260910055000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20260910055000 +0000" stop="20260910083500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-  </programme>
-  <programme start="20260910083500 +0000" stop="20260910125500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-  </programme>
-  <programme start="20260910125500 +0000" stop="20260910133000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20260910133000 +0000" stop="20260910133500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20260910133500 +0000" stop="20260910134000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20260910134000 +0000" stop="20260910135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
   <programme start="20260910135000 +0000" stop="20260910154500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
     <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <episode-num system="xmltv_ns">0.178.0/1</episode-num>
+    <episode-num system="onscreen">S01E179</episode-num>
   </programme>
   <programme start="20260910154500 +0000" stop="20260910163500 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc lang="es">Tras una noche juntos, Alejo vuelve a pedirle matrimonio a Luisa. Mientras, Manuela manipula a su padre para no renunciar a ese amor. Y Victoria y Mercedes se despiden amargamente de Dámaso… Pero ¿es este realmente el final?.</desc>
+    <episode-num system="xmltv_ns">0.63.0/1</episode-num>
+    <episode-num system="onscreen">S01E64</episode-num>
   </programme>
   <programme start="20260910163500 +0000" stop="20260910173500 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
     <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+    <episode-num system="xmltv_ns">0.903.0/1</episode-num>
+    <episode-num system="onscreen">S01E904</episode-num>
   </programme>
   <programme start="20260910173500 +0000" stop="20260910182500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <episode-num system="xmltv_ns">0.452.0/1</episode-num>
+    <episode-num system="onscreen">S01E453</episode-num>
   </programme>
   <programme start="20260910182500 +0000" stop="20260910185500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
+    <episode-num system="xmltv_ns">0.823.0/1</episode-num>
+    <episode-num system="onscreen">S01E824</episode-num>
   </programme>
   <programme start="20260910185500 +0000" stop="20260910194000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2</title>
@@ -1224,19 +1198,21 @@
   </programme>
   <programme start="20260910194500 +0000" stop="20260910210000 +0000" channel="La1.es.scraper">
     <title lang="es">La revuelta</title>
-    <desc lang="es">David Broncano conduce La revuelta, un programa de atípicas entrevistas a famosos.</desc>
+    <desc lang="es">Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.</desc>
+    <episode-num system="xmltv_ns">0.325.0/1</episode-num>
+    <episode-num system="onscreen">S01E326</episode-num>
   </programme>
   <programme start="20260910210000 +0000" stop="20260910223500 +0000" channel="La1.es.scraper">
     <title lang="es">El perro andaluz</title>
     <desc lang="es">Manu Sánchez presenta este espacio que combina humor, música, entrevistas y actualidad. Cada entrega construye un universo propio en el que el humor funciona como punto de encuentro y como herramienta para mirar la realidad desde la sátira y la crítica social.</desc>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
   </programme>
   <programme start="20260910223500 +0000" stop="20260911001500 +0000" channel="La1.es.scraper">
     <title lang="es">El perro andaluz</title>
-    <desc lang="es">Manu Sánchez presenta este espacio que combina humor, música, entrevistas y actualidad. Cada entrega construye un universo propio en el que el humor funciona como punto de encuentro y como herramienta para mirar la realidad desde la sátira y la crítica social.</desc>
-  </programme>
-  <programme start="20260911001500 +0000" stop="20260911040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+    <desc lang="es">Antoñito Molina y Miguel Rellán son los primeros invitados de esta nueva temporada. El regreso estará marcado también por el protagonismo de Ceuta, una actualidad que pasará por la mirada personal de Manu Sánchez y que tendrá su reflejo en varios momentos de la noche.</desc>
+    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+    <episode-num system="onscreen">S01E09</episode-num>
   </programme>
   <programme start="20260911001500 +0000" stop="20260911040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -1274,6 +1250,10 @@
     <title lang="es">La Vuelta</title>
     <desc lang="es">El ciclismo completa el calendario 2026 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 22 de agosto en Mónaco. La meta final, el 13 de septiembre, se cruzará en Granada. El danés Jonas Vingegaard fue el vencedor en la edición de 2025.</desc>
   </programme>
+  <programme start="20260911135000 +0000" stop="20260911154500 +0000" channel="La1.es.scraper">
+    <title lang="es">La Vuelta</title>
+    <desc lang="es">El ciclismo completa el calendario 2026 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 22 de agosto en Mónaco. La meta final, el 13 de septiembre, se cruzará en Granada. El danés Jonas Vingegaard fue el vencedor en la edición de 2025.</desc>
+  </programme>
   <programme start="20260911154500 +0000" stop="20260911163500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
     <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
@@ -1284,7 +1264,7 @@
   </programme>
   <programme start="20260911173500 +0000" stop="20260911182500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
-    <desc lang="es">Gonzalo Miró y Ane Ibarzabal presentan este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
   </programme>
   <programme start="20260911182500 +0000" stop="20260911185500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
@@ -1308,7 +1288,9 @@
   </programme>
   <programme start="20260911215000 +0000" stop="20260911224500 +0000" channel="La1.es.scraper">
     <title lang="es">España, el siglo XX en color</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">España es, en el primer tercio del siglo XX, un país atrasado. La movilización popular y las ansias de cambio dan como resultado el nacimiento de la Segunda República y con ella, la oportunidad de modernizar el país.</desc>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
   </programme>
   <programme start="20260911224500 +0000" stop="20260911234000 +0000" channel="La1.es.scraper">
     <title lang="es">España, el siglo XX en color</title>
@@ -1325,5 +1307,17 @@
   <programme start="20260912004000 +0000" stop="20260912023000 +0000" channel="La1.es.scraper">
     <title lang="es">La favorita</title>
     <desc lang="es">La joven Abigail Hill llega a la corte con una carta de recomendación para su prima Lady Sarah Marlborough, amiga de la reina Ana de Inglaterra... y gobernante del Reino en la sombra. Olivia Colman ganó el Oscar y el Globo de oro a la mejor actriz protagonista por su interpretación de la reina Ana (la última soberana Estuardo de Inglaterra) en esta cruelmente divertida comedia dramática de época dirigida por el peculiar Yorgos Lanthimos. Junto a Colman, Rachel Weisz da vida a Lady Sarah Marlborough (la persona más cercana a la Reina, que se deja convencer por su consejera en absolutamente todas las cuestiones de gobierno del país) y Emma Stone a Abigail Hill, una ambiciosa mujer recién llegada a una Corte en la que las carreras de patos interesan mucho más que la guerra en la que está inmerso el país.</desc>
+  </programme>
+  <programme start="20260912023000 +0000" stop="20260912040000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260912040000 +0000" stop="20260912050000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260912050000 +0000" stop="20260912091500 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
 </tv>
