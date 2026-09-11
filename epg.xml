@@ -33,11 +33,6 @@
   <channel id="La1.es.scraper">
     <display-name>La 1</display-name>
   </channel>
-  <programme start="20260910213000 +0000" stop="20260910220000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">RED BULL: FAST LIFE S03 EP 5/6</title>
-    <desc lang="hr">FAST LIFE S03 EP 5/6</desc>
-    <category lang="hr">Dokumentarni film</category>
-  </programme>
   <programme start="20260910220000 +0000" stop="20260911000000 +0000" channel="ArenaSport1.hr.scraper">
     <title lang="hr">LIGA PRVAKA: REAL M- INTER</title>
     <desc lang="hr">REAL M- INTER</desc>
@@ -218,11 +213,6 @@
     <desc lang="hr">1/2 FINALE</desc>
     <category lang="hr">Košarka</category>
   </programme>
-  <programme start="20260910210000 +0000" stop="20260910230000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">COPA LIBERTADORES: ESTUDIANTES - CORINTHIANS</title>
-    <desc lang="hr">ESTUDIANTES - CORINTHIANS</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20260910230000 +0000" stop="20260911003000 +0000" channel="ArenaSport2.hr.scraper">
     <title lang="hr">LIGA PRVAKA M: MELSUNGEN - VARDAR</title>
     <desc lang="hr">MELSUNGEN - VARDAR</desc>
@@ -367,11 +357,6 @@
     <title lang="hr">PREMIER LEAGUE: BOURNEMOUTH - BRENTFORD</title>
     <desc lang="hr">BOURNEMOUTH - BRENTFORD</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260910210000 +0000" stop="20260910220000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
-    <desc lang="hr">NEUSPJEH PRVAKA</desc>
-    <category lang="hr">Emisija</category>
   </programme>
   <programme start="20260910220000 +0000" stop="20260911000000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">FRANCUSKA LIGA: NICE - LE MANS</title>
@@ -533,11 +518,6 @@
     <desc lang="hr">NEUSPJEH PRVAKA</desc>
     <category lang="hr">Emisija</category>
   </programme>
-  <programme start="20260910210000 +0000" stop="20260910220000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: BARCELONETA - FERENCVAROS</title>
-    <desc lang="hr">BARCELONETA - FERENCVAROS</desc>
-    <category lang="hr">Vaterpolo</category>
-  </programme>
   <programme start="20260910220000 +0000" stop="20260911000000 +0000" channel="ArenaSport4.hr.scraper">
     <title lang="hr">ABA LIGA: DUBAI - PARTIZAN G2</title>
     <desc lang="hr">DUBAI - PARTIZAN G2</desc>
@@ -678,11 +658,6 @@
     <desc lang="hr">ATLETICO TUCUMAN - RIVER PLATE</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260910210000 +0000" stop="20260910220000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">RUMUNJSKA LIGA: VOLUNTARI - ARGES</title>
-    <desc lang="hr">VOLUNTARI - ARGES</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20260910220000 +0000" stop="20260911130000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -753,11 +728,6 @@
     <desc lang="hr">FARUL - ARAD</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260910203000 +0000" stop="20260910220000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">POLJSKA LIGA: KORONA - WISLA KRAKOW</title>
-    <desc lang="hr">KORONA - WISLA KRAKOW</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20260910220000 +0000" stop="20260911130000 +0000" channel="ArenaSport6.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -826,11 +796,6 @@
   <programme start="20260912210000 +0000" stop="20260912220000 +0000" channel="ArenaSport6.hr.scraper">
     <title lang="hr">POLJSKA LIGA: GORNIK Z - LECH</title>
     <desc lang="hr">GORNIK Z - LECH</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260910210000 +0000" stop="20260910230000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: FENERBAHCE - ROMA</title>
-    <desc lang="hr">FENERBAHCE - ROMA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260910230000 +0000" stop="20260911010000 +0000" channel="ArenaSport7.hr.scraper">
@@ -969,8 +934,8 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260912160000 +0000" stop="20260912180000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: NAPOLI - ARSENAL</title>
-    <desc lang="hr">NAPOLI - ARSENAL</desc>
+    <title lang="hr">WWIN LIGA BIH: ŠIROKI BRIJEG - BSK</title>
+    <desc lang="hr">ŠIROKI BRIJEG - BSK</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260912180000 +0000" stop="20260912184500 +0000" channel="ArenaSport7.hr.scraper">
@@ -987,11 +952,6 @@
     <title lang="hr">LIGA PRVAKA: MANCHESTER UNITED - SABAH BAKU</title>
     <desc lang="hr">MANCHESTER UNITED - SABAH BAKU</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260910210000 +0000" stop="20260910220000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">DOKUMENTARNI FILM: LET THEM WEAR TOWELS</title>
-    <desc lang="hr">LET THEM WEAR TOWELS</desc>
-    <category lang="hr">Dokumentarni film</category>
   </programme>
   <programme start="20260910220000 +0000" stop="20260911000000 +0000" channel="ArenaSport8.hr.scraper">
     <title lang="hr">WBC SUPER MIDDLEWEIGHT WORLD CHAMPIONSHIP: MBILI - SULECKI</title>
@@ -1138,11 +1098,6 @@
     <desc lang="hr">ESTUDIANTES - CORINTHIANS</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260910170000 +0000" stop="20260910220000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">SUPER LIGA SRBIJE: RADNIK - CRVENA ZVEZDA</title>
-    <desc lang="hr">RADNIK - CRVENA ZVEZDA</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20260910220000 +0000" stop="20260911220000 +0000" channel="ArenaSport9.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -1158,20 +1113,20 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20260912140000 +0000" stop="20260912184500 +0000" channel="ArenaSport9.hr.scraper">
+  <programme start="20260912140000 +0000" stop="20260912163000 +0000" channel="ArenaSport9.hr.scraper">
     <title lang="hr">PREMIER LEAGUE: CRYSTAL PALACE - IPSWICH</title>
     <desc lang="hr">CRYSTAL PALACE - IPSWICH</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260912163000 +0000" stop="20260912184500 +0000" channel="ArenaSport9.hr.scraper">
+    <title lang="hr">SUPER LIGA SRBIJE: ČUKARIČKI - NOVI PAZAR</title>
+    <desc lang="hr">ČUKARIČKI - NOVI PAZAR</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260912184500 +0000" stop="20260912220000 +0000" channel="ArenaSport9.hr.scraper">
     <title lang="hr">FRANCUSKA LIGA: LE HAVRE - ANGERS</title>
     <desc lang="hr">LE HAVRE - ANGERS</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260909220000 +0000" stop="20260910220000 +0000" channel="ArenaSport10.hr.scraper">
-    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
-    <desc lang="hr">NAJAVA PROGRAMA</desc>
-    <category lang="hr">Najava programa</category>
   </programme>
   <programme start="20260910220000 +0000" stop="20260911220000 +0000" channel="ArenaSport10.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
@@ -1198,56 +1153,35 @@
     <desc lang="hr">BORAC - ZRINJSKI</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260911001500 +0000" stop="20260911040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260911040000 +0000" stop="20260911055000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20260911055000 +0000" stop="20260911083500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-  </programme>
-  <programme start="20260911083500 +0000" stop="20260911125500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-  </programme>
-  <programme start="20260911125500 +0000" stop="20260911133000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20260911133000 +0000" stop="20260911133500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20260911133500 +0000" stop="20260911134000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20260911134000 +0000" stop="20260911135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
   <programme start="20260911135000 +0000" stop="20260911154500 +0000" channel="La1.es.scraper">
     <title lang="es">La Vuelta</title>
     <desc lang="es">El ciclismo completa el calendario 2026 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 22 de agosto en Mónaco. La meta final, el 13 de septiembre, se cruzará en Granada. El danés Jonas Vingegaard fue el vencedor en la edición de 2025.</desc>
+    <episode-num system="xmltv_ns">0.18.0/1</episode-num>
+    <episode-num system="onscreen">S01E19</episode-num>
   </programme>
   <programme start="20260911154500 +0000" stop="20260911163500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
     <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <episode-num system="xmltv_ns">0.179.0/1</episode-num>
+    <episode-num system="onscreen">S01E180</episode-num>
   </programme>
   <programme start="20260911163500 +0000" stop="20260911173500 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
     <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+    <episode-num system="xmltv_ns">0.904.0/1</episode-num>
+    <episode-num system="onscreen">S01E905</episode-num>
   </programme>
   <programme start="20260911173500 +0000" stop="20260911182500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <episode-num system="xmltv_ns">0.453.0/1</episode-num>
+    <episode-num system="onscreen">S01E454</episode-num>
   </programme>
   <programme start="20260911182500 +0000" stop="20260911185500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
+    <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
+    <episode-num system="xmltv_ns">0.824.0/1</episode-num>
+    <episode-num system="onscreen">S01E825</episode-num>
   </programme>
   <programme start="20260911185500 +0000" stop="20260911195000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2</title>
@@ -1264,10 +1198,14 @@
   <programme start="20260911200000 +0000" stop="20260911205500 +0000" channel="La1.es.scraper">
     <title lang="es">Los archivos secretos del No-Do</title>
     <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
+    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+    <episode-num system="onscreen">S01E07</episode-num>
   </programme>
   <programme start="20260911205500 +0000" stop="20260911215000 +0000" channel="La1.es.scraper">
     <title lang="es">Los archivos secretos del No-Do</title>
     <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
+    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
+    <episode-num system="onscreen">S01E08</episode-num>
   </programme>
   <programme start="20260911215000 +0000" stop="20260911224500 +0000" channel="La1.es.scraper">
     <title lang="es">España, el siglo XX en color</title>
@@ -1286,10 +1224,6 @@
     <desc lang="es">Los 40 son los años de la postguerra: un país destruido, hambrunas, represión de los vencedores y regreso de las costumbres conservadoras, tradicionales y religiosas. La represión se ceba con todos, pero especialmente con las mujeres.</desc>
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <episode-num system="onscreen">S01E03</episode-num>
-  </programme>
-  <programme start="20260912004000 +0000" stop="20260912023000 +0000" channel="La1.es.scraper">
-    <title lang="es">La favorita</title>
-    <desc lang="es">La joven Abigail Hill llega a la corte con una carta de recomendación para su prima Lady Sarah Marlborough, amiga de la reina Ana de Inglaterra... y gobernante del Reino en la sombra. Olivia Colman ganó el Oscar y el Globo de oro a la mejor actriz protagonista por su interpretación de la reina Ana (la última soberana Estuardo de Inglaterra) en esta cruelmente divertida comedia dramática de época dirigida por el peculiar Yorgos Lanthimos. Junto a Colman, Rachel Weisz da vida a Lady Sarah Marlborough (la persona más cercana a la Reina, que se deja convencer por su consejera en absolutamente todas las cuestiones de gobierno del país) y Emma Stone a Abigail Hill, una ambiciosa mujer recién llegada a una Corte en la que las carreras de patos interesan mucho más que la guerra en la que está inmerso el país.</desc>
   </programme>
   <programme start="20260912004000 +0000" stop="20260912023000 +0000" channel="La1.es.scraper">
     <title lang="es">La favorita</title>
@@ -1329,6 +1263,7 @@
   </programme>
   <programme start="20260912110500 +0000" stop="20260912125500 +0000" channel="La1.es.scraper">
     <title lang="es">D Corazón</title>
+    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
   </programme>
   <programme start="20260912125500 +0000" stop="20260912134500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
@@ -1344,14 +1279,23 @@
   </programme>
   <programme start="20260912135500 +0000" stop="20260912154000 +0000" channel="La1.es.scraper">
     <title lang="es">La Vuelta</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">El ciclismo completa el calendario 2026 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 22 de agosto en Mónaco. La meta final, el 13 de septiembre, se cruzará en Granada. El danés Jonas Vingegaard fue el vencedor en la edición de 2025.</desc>
+    <episode-num system="xmltv_ns">0.19.0/1</episode-num>
+    <episode-num system="onscreen">S01E20</episode-num>
+  </programme>
+  <programme start="20260912135500 +0000" stop="20260912154000 +0000" channel="La1.es.scraper">
+    <title lang="es">La Vuelta</title>
+    <desc lang="es">El ciclismo completa el calendario 2026 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 22 de agosto en Mónaco. La meta final, el 13 de septiembre, se cruzará en Granada. El danés Jonas Vingegaard fue el vencedor en la edición de 2025.</desc>
+    <episode-num system="xmltv_ns">0.19.0/1</episode-num>
+    <episode-num system="onscreen">S01E20</episode-num>
   </programme>
   <programme start="20260912154000 +0000" stop="20260912172500 +0000" channel="La1.es.scraper">
     <title lang="es">Único testigo</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">Samuel es un niño 'amish' de ocho años que es testigo de un asesinato en los aseos de la estación de autobuses de Filadelfia. John Book, el capitán de policía encargado del crimen, pide al niño su ayuda para que identifique al asesino, pero las cosas se complican cuando el niño reconoce al criminal en una fotografía de los agentes del cuerpo que hay en las estanterías de la comisaría. Book descubre que el asesinato formaba parte de una conspiración organizada dentro del propio cuerpo de policía. Ahora es la vida del pequeño la que está en riesgo por lo que Book decide esconderse, malherido, junto al niño y su madre, una joven viuda llamada Rachel, en la pacífica comunidad 'amish' a la que pertenecen. Mientras Book se recupera de las heridas surge una historia de amor prohibido entre John y Rachel. Sin embargo, los criminales siguen sus huellas y no tardarán en dar con ellos.</desc>
   </programme>
   <programme start="20260912172500 +0000" stop="20260912185500 +0000" channel="La1.es.scraper">
     <title lang="es">La sombra de un secuestro</title>
+    <desc lang="es">Wayne Hayes y su mujer Eileen tienen una vida perfecta. Él es un exitoso hombre de negocios, tienen dos hijos ya mayores y su vida transcurre feliz y apaciblemente en su gran mansión. Sin embargo, una mañana, Wayne es secuestrado por Arnold Mack, alguien que no tiene nada que perder y sí mucho que ganar, sobre todo, una gran cantidad de dinero. Mientras Wayne se enfrenta a la negociación más difícil de su vida, la investigación del agente Muller, del FBI, convertirá a Eileen en otra víctima, al descubrir cuál ha sido su verdadera vida tras las apariencias externas. El productor de títulos como "Heat" o "El dilema", Pieter Jan Brugge, debuta como director con esta película, un 'thriller' psicológico escrito por otro debutante, Justin Haythe, basado en un secuestro real ocurrido en Holanda.</desc>
   </programme>
   <programme start="20260912185500 +0000" stop="20260912192500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2 Fin de Semana</title>
@@ -1367,21 +1311,33 @@
   </programme>
   <programme start="20260912200500 +0000" stop="20260912205000 +0000" channel="La1.es.scraper">
     <title lang="es">La amiga estupenda: un mal nombre</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">La tienda de vestidos de novia del centro de la ciudad expone una fotografía de Lila el día de su boda, generando admiración y cotilleo dentro y fuera del barrio.</desc>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
   </programme>
   <programme start="20260912205000 +0000" stop="20260912215000 +0000" channel="La1.es.scraper">
     <title lang="es">La amiga estupenda: un mal nombre</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">Lila empieza a trabajar en la nueva tienda de Stefano, pero sigue guardándole rencor, especialmente cuando los negocios con los Solara están a punto de empezar.</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
   </programme>
   <programme start="20260912215000 +0000" stop="20260912225000 +0000" channel="La1.es.scraper">
     <title lang="es">La amiga estupenda: un mal nombre</title>
+    <desc lang="es">Elena accede a ir a la playa de vacaciones con Lila siempre y cuando sea a Ischia, ya que sabe que Nino Sarratore está en la isla.</desc>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
   </programme>
   <programme start="20260912225000 +0000" stop="20260912235000 +0000" channel="La1.es.scraper">
     <title lang="es">La amiga estupenda: un mal nombre</title>
+    <desc lang="es">Pinuccia se va de Ischia para volver con Rino y solo quedan cuatro en el grupo. Elena finge indiferencia, pero Lila y ella se distancian por Nino.</desc>
+    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+    <episode-num system="onscreen">S01E05</episode-num>
   </programme>
   <programme start="20260912235000 +0000" stop="20260913004500 +0000" channel="La1.es.scraper">
     <title lang="es">La amiga estupenda</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">Elena sigue estudiando, pero le cuesta sacar buenas notas. Lila trabaja en el negocio de su padre y consigue ayudar a Elena con sus clases de latín. Lila se convierte en el centro de atención cuando todo el mundo se entera de cuántos libros ha leído.</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
   </programme>
   <programme start="20260913004500 +0000" stop="20260913014000 +0000" channel="La1.es.scraper">
     <title lang="es">La amiga estupenda</title>
@@ -1390,6 +1346,14 @@
     <episode-num system="onscreen">S01E04</episode-num>
   </programme>
   <programme start="20260913014000 +0000" stop="20260913040000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260913050000 +0000" stop="20260913075000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
