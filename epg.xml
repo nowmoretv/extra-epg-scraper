@@ -1228,46 +1228,6 @@
     <desc lang="hr">VELEŽ - SARAJEVO</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260912004000 +0000" stop="20260912023000 +0000" channel="La1.es.scraper">
-    <title lang="es">La favorita</title>
-    <desc lang="es">La joven Abigail Hill llega a la corte con una carta de recomendación para su prima Lady Sarah Marlborough, amiga de la reina Ana de Inglaterra... y gobernante del Reino en la sombra. Olivia Colman ganó el Oscar y el Globo de oro a la mejor actriz protagonista por su interpretación de la reina Ana (la última soberana Estuardo de Inglaterra) en esta cruelmente divertida comedia dramática de época dirigida por el peculiar Yorgos Lanthimos. Junto a Colman, Rachel Weisz da vida a Lady Sarah Marlborough (la persona más cercana a la Reina, que se deja convencer por su consejera en absolutamente todas las cuestiones de gobierno del país) y Emma Stone a Abigail Hill, una ambiciosa mujer recién llegada a una Corte en la que las carreras de patos interesan mucho más que la guerra en la que está inmerso el país.</desc>
-  </programme>
-  <programme start="20260912023000 +0000" stop="20260912040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260912040000 +0000" stop="20260912050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260912050000 +0000" stop="20260912080000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260912080000 +0000" stop="20260912083000 +0000" channel="La1.es.scraper">
-    <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.</desc>
-  </programme>
-  <programme start="20260912083000 +0000" stop="20260912090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele exprés</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-  </programme>
-  <programme start="20260912090000 +0000" stop="20260912100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un viaje por lo más profundo del archivo para recorrer las mejores canciones de grupos y solistas nacionales e internacionales de la prodigiosa década de los 60.</desc>
-    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
-    <episode-num system="onscreen">S01E10</episode-num>
-  </programme>
-  <programme start="20260912100000 +0000" stop="20260912110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Viaje musical por los grupos y solistas nacionales que triunfaron en el mítico programa musical ''Aplauso''.</desc>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-  </programme>
-  <programme start="20260912110500 +0000" stop="20260912125500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-  </programme>
   <programme start="20260912125500 +0000" stop="20260912134500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
@@ -1305,6 +1265,8 @@
   <programme start="20260912193000 +0000" stop="20260912200500 +0000" channel="La1.es.scraper">
     <title lang="es">Informe Semanal</title>
     <desc lang="es">El programa más veterano de la televisión nacional, y el más antiguo de su género en Europa, ofrece la emisión de reportajes de la actualidad internacional, nacional, social o cultural. A veces, los reportajes pueden llegar a tener hasta media hora de duración.</desc>
+    <episode-num system="xmltv_ns">0.32.0/1</episode-num>
+    <episode-num system="onscreen">S01E33</episode-num>
   </programme>
   <programme start="20260912200500 +0000" stop="20260912205000 +0000" channel="La1.es.scraper">
     <title lang="es">La amiga estupenda: un mal nombre</title>
@@ -1342,11 +1304,11 @@
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
     <episode-num system="onscreen">S01E04</episode-num>
   </programme>
-  <programme start="20260913014000 +0000" stop="20260913040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  <programme start="20260913014000 +0000" stop="20260913031000 +0000" channel="La1.es.scraper">
+    <title lang="es">Herz y Holly. Diagnóstico: cambio de aires</title>
+    <desc lang="es">Cuando la recién licenciada doctora, Holly Sass, llega a la tranquila ciudad de Tangermünde, la doctora Katrin, médico local, la recibe en su consulta con los brazos abiertos y la puerta abierta, en su sentido mas literal.</desc>
   </programme>
-  <programme start="20260913014000 +0000" stop="20260913040000 +0000" channel="La1.es.scraper">
+  <programme start="20260913031000 +0000" stop="20260913040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
@@ -1354,25 +1316,31 @@
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20260913050000 +0000" stop="20260913075000 +0000" channel="La1.es.scraper">
+  <programme start="20260913050000 +0000" stop="20260913090500 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20260913075000 +0000" stop="20260913085000 +0000" channel="La1.es.scraper">
+  <programme start="20260913090500 +0000" stop="20260913100500 +0000" channel="La1.es.scraper">
     <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
+    <desc lang="es">Un viaje por lo más profundo del archivo para recorrer las mejores canciones de grupos y solistas nacionales e internacionales de la prodigiosa década de los 60.</desc>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
   </programme>
-  <programme start="20260913085000 +0000" stop="20260913095500 +0000" channel="La1.es.scraper">
+  <programme start="20260913100500 +0000" stop="20260913110500 +0000" channel="La1.es.scraper">
     <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-  </programme>
-  <programme start="20260913095500 +0000" stop="20260913110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
+    <desc lang="es">Un divertido y entrañable viaje por los mejores momentos de ''Un, dos, tres'' a lo largo de sus diez temporadas. Los cástings de las azafatas, los famosos que concursaron, momentos inéditos y las mejores actuaciones nacionales e internacionales.</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
   </programme>
   <programme start="20260913110500 +0000" stop="20260913125500 +0000" channel="La1.es.scraper">
     <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <episode-num system="xmltv_ns">0.271.0/1</episode-num>
+    <episode-num system="onscreen">S01E272</episode-num>
+  </programme>
+  <programme start="20260913125500 +0000" stop="20260913134500 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario 1 Fin de Semana</title>
+    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
   </programme>
   <programme start="20260913125500 +0000" stop="20260913134500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
@@ -1386,17 +1354,23 @@
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
   </programme>
-  <programme start="20260913135500 +0000" stop="20260913153000 +0000" channel="La1.es.scraper">
-    <title lang="es">La Vuelta</title>
-    <desc lang="es">El ciclismo completa el calendario 2026 de grandes rondas con la disputa de la Vuelta. La carrera inicia su recorrido el 22 de agosto en Mónaco. La meta final, el 13 de septiembre, se cruzará en Granada. El danés Jonas Vingegaard fue el vencedor en la edición de 2025.</desc>
+  <programme start="20260913135500 +0000" stop="20260913154000 +0000" channel="La1.es.scraper">
+    <title lang="es">27 vestidos</title>
+    <desc lang="es">Jane vive para complacer a los demás. Apasionada de las bodas, ha sido dama de honor en 27 ocasiones, y su sueño sería casarse vestida con el traje de novia de su madre con el hombre de su vida: su jefe. Pero ni él ni nadie saben los secretos sentimientos de la chica, hasta que aparece su hermana pequeña. Primer papel en la gran pantalla como protagonista de Katherine Heigl, que había alcanzado gran popularidad interpretando a la doctora Izzie Stevens en la serie "Anatomía de Grey". El filme es la segunda película como directora de Anne Fletcher y se basa en un guión escrito por Aline Brosh McKenna.</desc>
   </programme>
-  <programme start="20260913153000 +0000" stop="20260913181000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20260913154000 +0000" stop="20260913165500 +0000" channel="La1.es.scraper">
+    <title lang="es">El día de la boda</title>
+    <desc lang="es">Kat Ellis está ansiosa por encontrar un nuevo novio. Desde que se enteró de la boda entre su hermanastra y su último novio, Kat no soporta la idea de asistir sola al enlace. Por ello decide elaborar un plan: conseguir que un profesional se haga pasar por su pareja durante el enlace. Cuando conoce a Nick Mercer, un profesional que trabaja como acompañante de eventos decide contratarle y lo que al principio puede parecer un montaje se puede convertir en algo más de lo que esperaban. "El Día de la Boda", dirigida por Clare Kilner y protagonizada por Debra Messing y Dermot Mulroney, ofrece una visión divertida y romántica del amor, el matrimonio, la familia y las sorpresas que nos depara la vida.</desc>
   </programme>
-  <programme start="20260913181000 +0000" stop="20260913185500 +0000" channel="La1.es.scraper">
+  <programme start="20260913165500 +0000" stop="20260913182500 +0000" channel="La1.es.scraper">
+    <title lang="es">En la boda de mi hermana (When in Rome)</title>
+    <desc lang="es">Beth Harper (Kristen Bell), una exitosa agente de la propiedad inmobiliaria de Nueva York, pero muy desafortunada en el amor, se va de viaje a Roma para asistir a la boda de su hermana. Una noche, coge unas monedas de una 'fuente del amor' e inexplicablemente provoca la pasión de un extraño grupo de pretendientes: un magnate de las salchichas, un mago callejero, un adorable pintor y un modelo narcisista. Entonces también aparece un apuesto reportero que dice estar enamorado, pero ella ya no sabe si este amor es verdadero o es producto del misterioso encantamiento.</desc>
+  </programme>
+  <programme start="20260913182500 +0000" stop="20260913185500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
+    <episode-num system="xmltv_ns">0.825.0/1</episode-num>
+    <episode-num system="onscreen">S01E826</episode-num>
   </programme>
   <programme start="20260913185500 +0000" stop="20260913195000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2 Fin de Semana</title>
@@ -1406,16 +1380,34 @@
     <title lang="es">Deportes 2</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
   </programme>
-  <programme start="20260913200000 +0000" stop="20260913220500 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20260913200000 +0000" stop="20260913214500 +0000" channel="La1.es.scraper">
+    <title lang="es">Jurado nº 2</title>
+    <desc lang="es">Clint Eastwood, director de obras maestras como "Sin perdón", "Mystic River" o "Million Dollar Baby", vuelve a su cine de relatos oscuros y dilemas éticos en este 'thriller' judicial a puerta cerrada protagonizado por Nicholas Hoult ("Skins"), Toni Collette ("El sexto sentido", "Hereditary") y J.K. Simmons ("Whiplash"). En la película, Justin Kemp, un hombre corriente a punto de ser padre, es seleccionado como parte de un jurado popular en un juicio por asesinato. Durante la narración de los hechos, a Justin todo le resulta inexplicablemente familiar. Él estuvo allí y, además, pudo estar involucrado en el asesinato. En "Jurado Nº 2", Eastwood explora las diferencias entre la justicia y la verdad, la complejidad de la ética y la imparcialidad. "¿Qué nos queda, como espectadores, cuando en un filme judicial ya no podemos aferrarnos ni a la idea de inocencia ni a la de culpabilidad?" (Fotogramas).</desc>
   </programme>
-  <programme start="20260913220500 +0000" stop="20260914001500 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20260913214500 +0000" stop="20260913234500 +0000" channel="La1.es.scraper">
+    <title lang="es">Ejecución inminente</title>
+    <desc lang="es">Steve Everett es un reportero dedicado al periodismo de investigación, que tiene más de un problema: es un alcohólico que sólo lleva sobrio desde hace dos meses y un mujeriego impenitente, males por los que su carrera profesional está cayendo en picado. Cuando le asignan una entrevista a un condenado a muerte, comienza a realizar algunas investigaciones de forma rutinaria y, descubre detalles del caso que lo llevan a sospechar que el preso que va a ser ejecutado es inocente. El tiempo corre en su contra y Everett tiene que conseguir toda la información necesaria para poder frenar la ejecución. La tardía llegada del reportero al caso es una desventaja, aunque aprovechará las últimas doce horas de esperanza para poder salvar la vida de un hombre.</desc>
   </programme>
-  <programme start="20260914001500 +0000" stop="20260914040000 +0000" channel="La1.es.scraper">
+  <programme start="20260913234500 +0000" stop="20260914013000 +0000" channel="La1.es.scraper">
+    <title lang="es">Jojo Rabbit</title>
+    <desc lang="es">Alemania, finales de la II Guerra Mundial. Johannes 'Jojo' Betzler tiene 10 años, vive con su madre Rosie y está a punto de asistir a su primer campamento de las Juventudes Hitlerianas. Aunque está un poco nervioso, lo tranquiliza hablar con su peculiar amigo imaginario: Adolf Hitler. Óscar al mejor guion adaptado para esta comedia dramática escrita y dirigida por Taika Waititi ("Thor: Ragnarok", "Lo que hacemos en las sombras") y ambientada en los últimos tiempos de la II Guerra Mundial, en donde un niño alemán, profundamente convencido de las bondades nazis, descubre que su madre está escondiendo en casa a una chica judía. Da vida al joven protagonista de "Jojo Rabbit" el debutante Roman Griffin Davis, mientras que el propio Waititi interpreta al imaginario 'führer'. Junto a ellos, Scarlett Johansson, Thomasin McKenzie, Sam Rockwell y Rebel Wilson completan el reparto.</desc>
+  </programme>
+  <programme start="20260914013000 +0000" stop="20260914030000 +0000" channel="La1.es.scraper">
+    <title lang="es">Herz y Holly. Sentimientos maternales</title>
+    <desc lang="es">El comportamiento de una joven madre desconcierta mucho a los médicos. Dana, hija de Irena, paciente de Katrin desde hace mucho tiempo, experimenta cambios de humor extremos y lagunas de memoria. Holly no puede quitarse de la cabeza la impresión de que algo va mal.</desc>
+  </programme>
+  <programme start="20260914030000 +0000" stop="20260914040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260914040000 +0000" stop="20260914055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20260914055000 +0000" stop="20260914083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
+    <episode-num system="xmltv_ns">0.180.0/1</episode-num>
+    <episode-num system="onscreen">S01E181</episode-num>
   </programme>
 </tv>
