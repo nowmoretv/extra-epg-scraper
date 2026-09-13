@@ -713,48 +713,6 @@
     <desc lang="hr">VELEŽ - SARAJEVO</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260913014000 +0000" stop="20260913031000 +0000" channel="La1.es.scraper">
-    <title lang="es">Herz y Holly. Diagnóstico: cambio de aires</title>
-    <desc lang="es">Cuando la recién licenciada doctora, Holly Sass, llega a la tranquila ciudad de Tangermünde, la doctora Katrin, médico local, la recibe en su consulta con los brazos abiertos y la puerta abierta, en su sentido mas literal.</desc>
-  </programme>
-  <programme start="20260913031000 +0000" stop="20260913040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260913040000 +0000" stop="20260913050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260913050000 +0000" stop="20260913090500 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260913090500 +0000" stop="20260913100500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un viaje por lo más profundo del archivo para recorrer las mejores canciones de grupos y solistas nacionales e internacionales de la prodigiosa década de los 60.</desc>
-    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
-    <episode-num system="onscreen">S01E10</episode-num>
-  </programme>
-  <programme start="20260913100500 +0000" stop="20260913110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un divertido y entrañable viaje por los mejores momentos de ''Un, dos, tres'' a lo largo de sus diez temporadas. Los cástings de las azafatas, los famosos que concursaron, momentos inéditos y las mejores actuaciones nacionales e internacionales.</desc>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-  </programme>
-  <programme start="20260913110500 +0000" stop="20260913125500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.271.0/1</episode-num>
-    <episode-num system="onscreen">S01E272</episode-num>
-  </programme>
-  <programme start="20260913125500 +0000" stop="20260913134500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20260913134500 +0000" stop="20260913135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
   <programme start="20260913135000 +0000" stop="20260913135500 +0000" channel="La1.es.scraper">
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
@@ -801,10 +759,6 @@
     <title lang="es">Herz y Holly. Sentimientos maternales</title>
     <desc lang="es">El comportamiento de una joven madre desconcierta mucho a los médicos. Dana, hija de Irena, paciente de Katrin desde hace mucho tiempo, experimenta cambios de humor extremos y lagunas de memoria. Holly no puede quitarse de la cabeza la impresión de que algo va mal.</desc>
   </programme>
-  <programme start="20260914013000 +0000" stop="20260914030000 +0000" channel="La1.es.scraper">
-    <title lang="es">Herz y Holly. Sentimientos maternales</title>
-    <desc lang="es">El comportamiento de una joven madre desconcierta mucho a los médicos. Dana, hija de Irena, paciente de Katrin desde hace mucho tiempo, experimenta cambios de humor extremos y lagunas de memoria. Holly no puede quitarse de la cabeza la impresión de que algo va mal.</desc>
-  </programme>
   <programme start="20260914030000 +0000" stop="20260914040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
@@ -844,6 +798,12 @@
   <programme start="20260914134000 +0000" stop="20260914135000 +0000" channel="La1.es.scraper">
     <title lang="es">Informativo territorial 2</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
+  </programme>
+  <programme start="20260914135000 +0000" stop="20260914154500 +0000" channel="La1.es.scraper">
+    <title lang="es">Directo al grano</title>
+    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <episode-num system="xmltv_ns">0.180.0/1</episode-num>
+    <episode-num system="onscreen">S01E181</episode-num>
   </programme>
   <programme start="20260914135000 +0000" stop="20260914154500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
@@ -898,5 +858,17 @@
     <desc lang="es">Los 15 aspirantes se encontrarán cada uno con una Caja Misteriosa que esconde una selección de corazones de animales y vegetales. La misión será elaborar un plato libre que incluya, al menos, tres de estos corazones. El jurado contará con la visita de Loles León.</desc>
     <episode-num system="xmltv_ns">0.73.0/1</episode-num>
     <episode-num system="onscreen">S01E74</episode-num>
+  </programme>
+  <programme start="20260915032500 +0000" stop="20260915040000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260915040000 +0000" stop="20260915055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20260915055000 +0000" stop="20260915083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
   </programme>
 </tv>
