@@ -1108,56 +1108,6 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20260914013000 +0000" stop="20260914030000 +0000" channel="La1.es.scraper">
-    <title lang="es">Herz y Holly. Sentimientos maternales</title>
-    <desc lang="es">El comportamiento de una joven madre desconcierta mucho a los médicos. Dana, hija de Irena, paciente de Katrin desde hace mucho tiempo, experimenta cambios de humor extremos y lagunas de memoria. Holly no puede quitarse de la cabeza la impresión de que algo va mal.</desc>
-  </programme>
-  <programme start="20260914030000 +0000" stop="20260914040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260914040000 +0000" stop="20260914055000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20260914055000 +0000" stop="20260914083500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.180.0/1</episode-num>
-    <episode-num system="onscreen">S01E181</episode-num>
-  </programme>
-  <programme start="20260914083500 +0000" stop="20260914115500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-    <episode-num system="xmltv_ns">0.775.0/1</episode-num>
-    <episode-num system="onscreen">S01E776</episode-num>
-  </programme>
-  <programme start="20260914115500 +0000" stop="20260914125500 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
-  <programme start="20260914125500 +0000" stop="20260914133000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20260914133000 +0000" stop="20260914133500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20260914133500 +0000" stop="20260914134000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20260914134000 +0000" stop="20260914135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
-  <programme start="20260914135000 +0000" stop="20260914154500 +0000" channel="La1.es.scraper">
-    <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
-    <episode-num system="xmltv_ns">0.180.0/1</episode-num>
-    <episode-num system="onscreen">S01E181</episode-num>
-  </programme>
   <programme start="20260914154500 +0000" stop="20260914163500 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
     <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
@@ -1206,12 +1156,6 @@
     <episode-num system="xmltv_ns">0.73.0/1</episode-num>
     <episode-num system="onscreen">S01E74</episode-num>
   </programme>
-  <programme start="20260915000000 +0000" stop="20260915032500 +0000" channel="La1.es.scraper">
-    <title lang="es">MasterChef Celebrity Legends</title>
-    <desc lang="es">Los 15 aspirantes se encontrarán cada uno con una Caja Misteriosa que esconde una selección de corazones de animales y vegetales. La misión será elaborar un plato libre que incluya, al menos, tres de estos corazones. El jurado contará con la visita de Loles León.</desc>
-    <episode-num system="xmltv_ns">0.73.0/1</episode-num>
-    <episode-num system="onscreen">S01E74</episode-num>
-  </programme>
   <programme start="20260915032500 +0000" stop="20260915040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
@@ -1223,6 +1167,8 @@
   <programme start="20260915055000 +0000" stop="20260915083500 +0000" channel="La1.es.scraper">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
     <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
+    <episode-num system="xmltv_ns">0.181.0/1</episode-num>
+    <episode-num system="onscreen">S01E182</episode-num>
   </programme>
   <programme start="20260915083500 +0000" stop="20260915125500 +0000" channel="La1.es.scraper">
     <title lang="es">Mañaneros 360</title>
@@ -1247,10 +1193,20 @@
   <programme start="20260915135000 +0000" stop="20260915154500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
     <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <episode-num system="xmltv_ns">0.181.0/1</episode-num>
+    <episode-num system="onscreen">S01E182</episode-num>
   </programme>
   <programme start="20260915154500 +0000" stop="20260915163500 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
     <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <episode-num system="xmltv_ns">0.65.0/1</episode-num>
+    <episode-num system="onscreen">S01E66</episode-num>
+  </programme>
+  <programme start="20260915154500 +0000" stop="20260915163500 +0000" channel="La1.es.scraper">
+    <title lang="es">Valle Salvaje</title>
+    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <episode-num system="xmltv_ns">0.65.0/1</episode-num>
+    <episode-num system="onscreen">S01E66</episode-num>
   </programme>
   <programme start="20260915163500 +0000" stop="20260915173500 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
@@ -1259,10 +1215,11 @@
   <programme start="20260915173500 +0000" stop="20260915182500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <episode-num system="xmltv_ns">0.455.0/1</episode-num>
+    <episode-num system="onscreen">S01E456</episode-num>
   </programme>
   <programme start="20260915182500 +0000" stop="20260915185500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
   </programme>
   <programme start="20260915185500 +0000" stop="20260915194000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2</title>
@@ -1272,20 +1229,28 @@
     <title lang="es">Deportes 2</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
   </programme>
-  <programme start="20260915194500 +0000" stop="20260915204000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
+  <programme start="20260915194500 +0000" stop="20260915210000 +0000" channel="La1.es.scraper">
+    <title lang="es">La revuelta</title>
+    <desc lang="es">Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.</desc>
+    <episode-num system="xmltv_ns">0.325.0/1</episode-num>
+    <episode-num system="onscreen">S01E326</episode-num>
   </programme>
-  <programme start="20260915204000 +0000" stop="20260915224500 +0000" channel="La1.es.scraper">
-    <title lang="es">Dog House</title>
-    <desc lang="es">El programa nos adentra en el día a día de un albergue de adopción de perros, donde un equipo comprometido trabaja con dedicación para encontrar el hogar perfecto para cada perro.</desc>
+  <programme start="20260915210000 +0000" stop="20260915232500 +0000" channel="La1.es.scraper">
+    <title lang="es">Spectre</title>
   </programme>
-  <programme start="20260915224500 +0000" stop="20260916004000 +0000" channel="La1.es.scraper">
-    <title lang="es">Dog House</title>
-    <desc lang="es">El programa nos adentra en el día a día de un albergue de adopción de perros, donde un equipo comprometido trabaja con dedicación para encontrar el hogar perfecto para cada perro.</desc>
+  <programme start="20260915232500 +0000" stop="20260916011000 +0000" channel="La1.es.scraper">
+    <title lang="es">Los archivos del Pentágono</title>
   </programme>
-  <programme start="20260916004000 +0000" stop="20260916040000 +0000" channel="La1.es.scraper">
+  <programme start="20260916011000 +0000" stop="20260916040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260916040000 +0000" stop="20260916055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20260916055000 +0000" stop="20260916083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
   </programme>
 </tv>
