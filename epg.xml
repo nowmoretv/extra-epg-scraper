@@ -33,11 +33,6 @@
   <channel id="La1.es.scraper">
     <display-name>La 1</display-name>
   </channel>
-  <programme start="20260917213000 +0000" stop="20260917220000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">EMISIJA: MI ŽIVIMO ZA KOŠARKU</title>
-    <desc lang="hr">MI ŽIVIMO ZA KOŠARKU</desc>
-    <category lang="hr">Emisija</category>
-  </programme>
   <programme start="20260917220000 +0000" stop="20260918001500 +0000" channel="ArenaSport1.hr.scraper">
     <title lang="hr">CARABAO: MANCHESTER CITY - NORWICH</title>
     <desc lang="hr">MANCHESTER CITY - NORWICH</desc>
@@ -184,8 +179,8 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260919160000 +0000" stop="20260919163000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">EMISIJA: LIFE ON THE LINE</title>
-    <desc lang="hr">LIFE ON THE LINE</desc>
+    <title lang="hr">EMISIJA: ENCOURAGED</title>
+    <desc lang="hr">ENCOURAGED</desc>
     <category lang="hr">Emisija</category>
   </programme>
   <programme start="20260919163000 +0000" stop="20260919184500 +0000" channel="ArenaSport1.hr.scraper">
@@ -202,11 +197,6 @@
     <title lang="hr">SIDELINE: STUDIO</title>
     <desc lang="hr">STUDIO</desc>
     <category lang="hr">Studio</category>
-  </programme>
-  <programme start="20260917210000 +0000" stop="20260917230000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">EUROPA LIGA: CELTIC - FERNECVAROS</title>
-    <desc lang="hr">CELTIC - FERNECVAROS</desc>
-    <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260917230000 +0000" stop="20260918003000 +0000" channel="ArenaSport2.hr.scraper">
     <title lang="hr">LIGA PRVAKA M: PSG - ZAGREB</title>
@@ -357,11 +347,6 @@
     <title lang="hr">PREMIER LEAGUE: BRIGHTON - ARSENAL</title>
     <desc lang="hr">BRIGHTON - ARSENAL</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260917210000 +0000" stop="20260917220000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
-    <desc lang="hr">NEUSPJEH PRVAKA</desc>
-    <category lang="hr">Emisija</category>
   </programme>
   <programme start="20260917220000 +0000" stop="20260918000000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">FRANCUSKA LIGA: RENNES - MARSEILLE</title>
@@ -518,11 +503,6 @@
     <desc lang="hr">TAMPA BAY - BOSTON</desc>
     <category lang="hr">Baseball</category>
   </programme>
-  <programme start="20260917210000 +0000" stop="20260917220000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: BARCELONETA - FERENCVAROS</title>
-    <desc lang="hr">BARCELONETA - FERENCVAROS</desc>
-    <category lang="hr">Vaterpolo</category>
-  </programme>
   <programme start="20260917220000 +0000" stop="20260918000000 +0000" channel="ArenaSport4.hr.scraper">
     <title lang="hr">ABA LIGA: PARTIZAN - CRVENA ZVEZDA G1</title>
     <desc lang="hr">PARTIZAN - CRVENA ZVEZDA G1</desc>
@@ -658,11 +638,6 @@
     <desc lang="hr">FINALE</desc>
     <category lang="hr">Vaterpolo</category>
   </programme>
-  <programme start="20260917210000 +0000" stop="20260917220000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">RUMUNJSKA LIGA: FCSB - PATROLUL</title>
-    <desc lang="hr">FCSB - PATROLUL</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20260917220000 +0000" stop="20260918130000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -738,11 +713,6 @@
     <desc lang="hr">U CRAIOVA - FCSB</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260917210000 +0000" stop="20260917220000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">POLJSKA LIGA: LEGIA - WIDZEW LODZ</title>
-    <desc lang="hr">LEGIA - WIDZEW LODZ</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20260917220000 +0000" stop="20260918130000 +0000" channel="ArenaSport6.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -816,11 +786,6 @@
   <programme start="20260919210000 +0000" stop="20260919220000 +0000" channel="ArenaSport6.hr.scraper">
     <title lang="hr">POLJSKA LIGA: MOTOR - GORNIK Z</title>
     <desc lang="hr">MOTOR - GORNIK Z</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260917210000 +0000" stop="20260917230000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: NAPOLI - ARSENAL</title>
-    <desc lang="hr">NAPOLI - ARSENAL</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260917230000 +0000" stop="20260918010000 +0000" channel="ArenaSport7.hr.scraper">
@@ -983,11 +948,6 @@
     <desc lang="hr">FENERBAHCE - ROMA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260917210000 +0000" stop="20260917220000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">DOKUMENTARNI FILM: LET THEM WEAR TOWELS</title>
-    <desc lang="hr">LET THEM WEAR TOWELS</desc>
-    <category lang="hr">Dokumentarni film</category>
-  </programme>
   <programme start="20260917220000 +0000" stop="20260918000000 +0000" channel="ArenaSport8.hr.scraper">
     <title lang="hr">IBO SUPER WELTERWEIGHT WORLD CHAMPIONSHIP: LIMA - KOOPMAN</title>
     <desc lang="hr">LIMA - KOOPMAN</desc>
@@ -1093,12 +1053,12 @@
     <desc lang="hr">SPORT BEZ GRANICA</desc>
     <category lang="hr">Emisija</category>
   </programme>
-  <programme start="20260919100000 +0000" stop="20260919120000 +0000" channel="ArenaSport8.hr.scraper">
+  <programme start="20260919100000 +0000" stop="20260919121500 +0000" channel="ArenaSport8.hr.scraper">
     <title lang="hr">NHL: FINALE G6</title>
     <desc lang="hr">FINALE G6</desc>
     <category lang="hr">Hokej na ledu</category>
   </programme>
-  <programme start="20260919120000 +0000" stop="20260919150000 +0000" channel="ArenaSport8.hr.scraper">
+  <programme start="20260919121500 +0000" stop="20260919150000 +0000" channel="ArenaSport8.hr.scraper">
     <title lang="hr">MLB: WORLD SERIES G6</title>
     <desc lang="hr">WORLD SERIES G6</desc>
     <category lang="hr">Baseball</category>
@@ -1127,11 +1087,6 @@
     <title lang="hr">DOKUMENTARNI FILM: TOMMY</title>
     <desc lang="hr">TOMMY</desc>
     <category lang="hr">Dokumentarni film</category>
-  </programme>
-  <programme start="20260917184500 +0000" stop="20260917220000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">LIGA PRVAKA M: PORTO - PARTIZAN</title>
-    <desc lang="hr">PORTO - PARTIZAN</desc>
-    <category lang="hr">Rukomet</category>
   </programme>
   <programme start="20260917220000 +0000" stop="20260918180000 +0000" channel="ArenaSport9.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
@@ -1163,11 +1118,6 @@
     <desc lang="hr">FINALE</desc>
     <category lang="hr">Košarka</category>
   </programme>
-  <programme start="20260917190000 +0000" stop="20260917220000 +0000" channel="ArenaSport10.hr.scraper">
-    <title lang="hr">EUROPA LIGA: PLZEN - UNION SG</title>
-    <desc lang="hr">PLZEN - UNION SG</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20260917220000 +0000" stop="20260918220000 +0000" channel="ArenaSport10.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -1192,42 +1142,6 @@
     <title lang="hr">WWIN LIGA BIH: ZRINJSKI - VELEŽ</title>
     <desc lang="hr">ZRINJSKI - VELEŽ</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260918003500 +0000" stop="20260918040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260918040000 +0000" stop="20260918055000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20260918055000 +0000" stop="20260918083500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.184.0/1</episode-num>
-    <episode-num system="onscreen">S01E185</episode-num>
-  </programme>
-  <programme start="20260918083500 +0000" stop="20260918125500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-    <episode-num system="xmltv_ns">0.18.0/1</episode-num>
-    <episode-num system="onscreen">S01E19</episode-num>
-  </programme>
-  <programme start="20260918125500 +0000" stop="20260918133000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20260918133000 +0000" stop="20260918133500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20260918133500 +0000" stop="20260918134000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20260918134000 +0000" stop="20260918135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
   </programme>
   <programme start="20260918135000 +0000" stop="20260918154500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
@@ -1303,10 +1217,6 @@
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20260919005000 +0000" stop="20260919040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
   <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
@@ -1351,6 +1261,10 @@
     <title lang="es">Cine</title>
     <desc lang="es">Cine</desc>
   </programme>
+  <programme start="20260919135500 +0000" stop="20260919154500 +0000" channel="La1.es.scraper">
+    <title lang="es">Cine</title>
+    <desc lang="es">Cine</desc>
+  </programme>
   <programme start="20260919154500 +0000" stop="20260919172000 +0000" channel="La1.es.scraper">
     <title lang="es">Cine</title>
     <desc lang="es">Cine</desc>
@@ -1388,6 +1302,14 @@
     <desc lang="es">Cine</desc>
   </programme>
   <programme start="20260920003500 +0000" stop="20260920040000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260920040000 +0000" stop="20260920050000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260920050000 +0000" stop="20260920075000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
