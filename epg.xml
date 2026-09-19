@@ -663,7 +663,7 @@
     <desc lang="hr">MARSEILLE - PSG</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260920210000 +0000" stop="20260920220000 +0000" channel="ArenaSport4.hr.scraper">
+  <programme start="20260920204500 +0000" stop="20260920220000 +0000" channel="ArenaSport4.hr.scraper">
     <title lang="hr">LIGA PRVAKA: UTAKMICA ZA 3. MJESTO</title>
     <desc lang="hr">UTAKMICA ZA 3. MJESTO</desc>
     <category lang="hr">Vaterpolo</category>
@@ -1233,44 +1233,6 @@
     <desc lang="hr">CRVENA ZVEZDA - RADNIČKI NIŠ</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260919005000 +0000" stop="20260919040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260919040000 +0000" stop="20260919050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260919050000 +0000" stop="20260919080000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260919080000 +0000" stop="20260919083000 +0000" channel="La1.es.scraper">
-    <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.</desc>
-  </programme>
-  <programme start="20260919083000 +0000" stop="20260919090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260919090000 +0000" stop="20260919100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Primera parte de un viaje a través del archivo de TVE en su 70º aniversario, en el que podemos ver las mejores actuaciones emitidas en televisión española en la década de los 80,.</desc>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-  </programme>
-  <programme start="20260919100000 +0000" stop="20260919110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <episode-num system="xmltv_ns">0.15.0/1</episode-num>
-    <episode-num system="onscreen">S01E16</episode-num>
-  </programme>
-  <programme start="20260919110500 +0000" stop="20260919125500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.272.0/1</episode-num>
-    <episode-num system="onscreen">S01E273</episode-num>
-  </programme>
   <programme start="20260919125500 +0000" stop="20260919134500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
@@ -1349,10 +1311,6 @@
     <title lang="es">Un amor en la alta montaña</title>
     <desc lang="es">Jenny llega al pueblo para cerrar la fábrica de los Dalmain, un negocio familiar que ya no genera beneficios. Durante su estancia en el lugar, acabará enamorándose de Philipp, su propietario.</desc>
   </programme>
-  <programme start="20260920014000 +0000" stop="20260920031000 +0000" channel="La1.es.scraper">
-    <title lang="es">Un amor en la alta montaña</title>
-    <desc lang="es">Jenny llega al pueblo para cerrar la fábrica de los Dalmain, un negocio familiar que ya no genera beneficios. Durante su estancia en el lugar, acabará enamorándose de Philipp, su propietario.</desc>
-  </programme>
   <programme start="20260920031000 +0000" stop="20260920040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
@@ -1382,6 +1340,10 @@
     <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
     <episode-num system="xmltv_ns">0.273.0/1</episode-num>
     <episode-num system="onscreen">S01E274</episode-num>
+  </programme>
+  <programme start="20260920125500 +0000" stop="20260920134500 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario 1 Fin de Semana</title>
+    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
   </programme>
   <programme start="20260920125500 +0000" stop="20260920134500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
@@ -1432,5 +1394,19 @@
   <programme start="20260921010500 +0000" stop="20260921023500 +0000" channel="La1.es.scraper">
     <title lang="es">Intercambio accidentado</title>
     <desc lang="es">Sarah y Michael necesitan un cambio de aires para salvar su relación. Por eso, deciden intercambiar su casa en Australia con la casa de campo de otro matrimonio que vive en Cornualles.</desc>
+  </programme>
+  <programme start="20260921023500 +0000" stop="20260921040000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260921040000 +0000" stop="20260921055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20260921055000 +0000" stop="20260921083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
+    <episode-num system="xmltv_ns">0.185.0/1</episode-num>
+    <episode-num system="onscreen">S01E186</episode-num>
   </programme>
 </tv>
