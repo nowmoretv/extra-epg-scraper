@@ -33,11 +33,6 @@
   <channel id="La1.es.scraper">
     <display-name>La 1</display-name>
   </channel>
-  <programme start="20260923210000 +0000" stop="20260923230000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">PREMIER LEAGUE: NEWCASTLE - HULL</title>
-    <desc lang="hr">NEWCASTLE - HULL</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20260923230000 +0000" stop="20260924000000 +0000" channel="ArenaSport1.hr.scraper">
     <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
     <desc lang="hr">SAŽETAK</desc>
@@ -193,11 +188,6 @@
     <desc lang="hr">SIDELINE</desc>
     <category lang="hr">Studio</category>
   </programme>
-  <programme start="20260923210000 +0000" stop="20260923230000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">EUROPSKO PRVENSTVO M: 1/4 FINALA</title>
-    <desc lang="hr">1/4 FINALA</desc>
-    <category lang="hr">Odbojka</category>
-  </programme>
   <programme start="20260923230000 +0000" stop="20260924003000 +0000" channel="ArenaSport2.hr.scraper">
     <title lang="hr">LIGA PRVAKA M: PORTO - PARTIZAN</title>
     <desc lang="hr">PORTO - PARTIZAN</desc>
@@ -332,11 +322,6 @@
     <title lang="hr">CHAMPIONSHIP: BRISTOL - WATFORD</title>
     <desc lang="hr">BRISTOL - WATFORD</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260923210000 +0000" stop="20260923220000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
-    <desc lang="hr">NEUSPJEH PRVAKA</desc>
-    <category lang="hr">Emisija</category>
   </programme>
   <programme start="20260923220000 +0000" stop="20260924000000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">FRANCUSKA LIGA: LYON - RENNES</title>
@@ -493,11 +478,6 @@
     <desc lang="hr">NEUSPJEH PRVAKA</desc>
     <category lang="hr">Emisija</category>
   </programme>
-  <programme start="20260923210000 +0000" stop="20260923220000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: PRO RECCO - OLYMPIACOS</title>
-    <desc lang="hr">PRO RECCO - OLYMPIACOS</desc>
-    <category lang="hr">Vaterpolo</category>
-  </programme>
   <programme start="20260923220000 +0000" stop="20260924000000 +0000" channel="ArenaSport4.hr.scraper">
     <title lang="hr">ABA LIGA: FINALE G4</title>
     <desc lang="hr">FINALE G4</desc>
@@ -633,11 +613,6 @@
     <desc lang="hr">UTAKMICA ZA 3. MJESTO</desc>
     <category lang="hr">Vaterpolo</category>
   </programme>
-  <programme start="20260923210000 +0000" stop="20260923220000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">RUMUNJSKA LIGA: RAPID B. - ARGES</title>
-    <desc lang="hr">RAPID B. - ARGES</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20260923220000 +0000" stop="20260924130000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -703,11 +678,6 @@
     <desc lang="hr">RAPID B. - ARGES</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260923210000 +0000" stop="20260923220000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">POLJSKA LIGA: WIDZEW LODZ - WIECZYSTA KRAKOW</title>
-    <desc lang="hr">WIDZEW LODZ - WIECZYSTA KRAKOW</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20260923220000 +0000" stop="20260924130000 +0000" channel="ArenaSport6.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -771,11 +741,6 @@
   <programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="ArenaSport6.hr.scraper">
     <title lang="hr">POLJSKA LIGA: ZAGLEBIE - WISLA PLOCK</title>
     <desc lang="hr">ZAGLEBIE - WISLA PLOCK</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260923210000 +0000" stop="20260923230000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: COMO - LEIPZIG</title>
-    <desc lang="hr">COMO - LEIPZIG</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260923230000 +0000" stop="20260924010000 +0000" channel="ArenaSport7.hr.scraper">
@@ -933,11 +898,6 @@
     <desc lang="hr">PSG - SLOVAN</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260923210000 +0000" stop="20260923220000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">DOKUMENTARNI FILM: KENNY</title>
-    <desc lang="hr">KENNY</desc>
-    <category lang="hr">Dokumentarni film</category>
-  </programme>
   <programme start="20260923220000 +0000" stop="20260924000000 +0000" channel="ArenaSport8.hr.scraper">
     <title lang="hr">IBO SUPER FLYWEIGHT WORLD CHAMPIONSHIP: MALAJIKA - MAMA</title>
     <desc lang="hr">MALAJIKA - MAMA</desc>
@@ -1073,11 +1033,6 @@
     <desc lang="hr">TOMMY</desc>
     <category lang="hr">Dokumentarni film</category>
   </programme>
-  <programme start="20260922220000 +0000" stop="20260923220000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
-    <desc lang="hr">NAJAVA PROGRAMA</desc>
-    <category lang="hr">Najava programa</category>
-  </programme>
   <programme start="20260923220000 +0000" stop="20260924220000 +0000" channel="ArenaSport9.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -1089,11 +1044,6 @@
     <category lang="hr">Najava programa</category>
   </programme>
   <programme start="20260924220000 +0000" stop="20260925220000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
-    <desc lang="hr">NAJAVA PROGRAMA</desc>
-    <category lang="hr">Najava programa</category>
-  </programme>
-  <programme start="20260922220000 +0000" stop="20260923220000 +0000" channel="ArenaSport10.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
@@ -1112,46 +1062,6 @@
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
-  </programme>
-  <programme start="20260924001000 +0000" stop="20260924024000 +0000" channel="La1.es.scraper">
-    <title lang="es">La noche en 24 horas</title>
-    <desc lang="es">Informativo diario que incluye entrevistas y debates sobre diversas cuestiones de actualidad. El programa ofrece la posibilidad de que los espectadores participen opinando sobre las cuestiones debatidas mediante un foro en la web de RTVE.</desc>
-  </programme>
-  <programme start="20260924024000 +0000" stop="20260924040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260924040000 +0000" stop="20260924055000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20260924055000 +0000" stop="20260924083500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.188.0/1</episode-num>
-    <episode-num system="onscreen">S01E189</episode-num>
-  </programme>
-  <programme start="20260924083500 +0000" stop="20260924125500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-    <episode-num system="xmltv_ns">0.22.0/1</episode-num>
-    <episode-num system="onscreen">S01E23</episode-num>
-  </programme>
-  <programme start="20260924125500 +0000" stop="20260924133000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20260924133000 +0000" stop="20260924133500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20260924133500 +0000" stop="20260924134000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20260924134000 +0000" stop="20260924135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
   </programme>
   <programme start="20260924135000 +0000" stop="20260924154500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
@@ -1205,10 +1115,6 @@
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20260925003500 +0000" stop="20260925040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
   <programme start="20260925040000 +0000" stop="20260925055000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
@@ -1236,6 +1142,12 @@
   <programme start="20260925134000 +0000" stop="20260925135000 +0000" channel="La1.es.scraper">
     <title lang="es">Informativo territorial 2</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
+  </programme>
+  <programme start="20260925135000 +0000" stop="20260925154500 +0000" channel="La1.es.scraper">
+    <title lang="es">Directo al grano</title>
+    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <episode-num system="xmltv_ns">0.183.0/1</episode-num>
+    <episode-num system="onscreen">S01E184</episode-num>
   </programme>
   <programme start="20260925135000 +0000" stop="20260925154500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
@@ -1296,5 +1208,17 @@
   <programme start="20260926004500 +0000" stop="20260926022000 +0000" channel="La1.es.scraper">
     <title lang="es">El gran hotel Budapest</title>
     <desc lang="es">Las aventuras del legendario recepcionista de un famoso hotel europeo en el período de entreguerras y de un botones que se convierte en su protegido. Juntos vivirán acontecimientos insólitos como el robo y la recuperación de una pintura renacentista o el enfrentamiento por una inmensa fortuna familiar. Wes Anderson dirige, escribe el guion y produce esta divertida, tierna y maliciosa farsa sobre los convulsos primeros años del siglo XX en Europa, una comedia que ganó el Gran Premio del Jurado en Berlín, el Globo de oro a la mejor comedia o musical y el David de Donatello a la mejor película extranjera, además de cinco BAFTA (guion original, producción, vestuario, música y maquillaje y peluquería) y cuatro Oscar (vestuario, maquillaje y peluquería, música original y dirección artística).</desc>
+  </programme>
+  <programme start="20260926022000 +0000" stop="20260926040000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926080000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
 </tv>
