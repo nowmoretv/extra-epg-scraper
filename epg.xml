@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<tv date="20260924">
+<tv date="20260925">
   <channel id="ArenaSport1.hr.scraper">
     <display-name>Arena Sport 1</display-name>
   </channel>
@@ -33,76 +33,6 @@
   <channel id="La1.es.scraper">
     <display-name>La 1</display-name>
   </channel>
-  <programme start="20260923230000 +0000" stop="20260924000000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
-    <desc lang="hr">SAŽETAK</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924000000 +0000" stop="20260924030000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">NFL: KANASAS CITY - INDIANAPOLIS</title>
-    <desc lang="hr">KANASAS CITY - INDIANAPOLIS</desc>
-    <category lang="hr">Američki nogomet</category>
-  </programme>
-  <programme start="20260924030000 +0000" stop="20260924050000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: SLAVIA PRAG - LENS</title>
-    <desc lang="hr">SLAVIA PRAG - LENS</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924050000 +0000" stop="20260924053000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">EMISIJA: MI ŽIVIMO ZA KOŠARKU</title>
-    <desc lang="hr">MI ŽIVIMO ZA KOŠARKU</desc>
-    <category lang="hr">Emisija</category>
-  </programme>
-  <programme start="20260924053000 +0000" stop="20260924060000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">RED BULL: PUSHING PROGRESSION EP.4</title>
-    <desc lang="hr">PUSHING PROGRESSION EP.4</desc>
-    <category lang="hr">Dokumentarni film</category>
-  </programme>
-  <programme start="20260924060000 +0000" stop="20260924073000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">ABA LIGA: SPLIT - PARTIZAN</title>
-    <desc lang="hr">SPLIT - PARTIZAN</desc>
-    <category lang="hr">Košarka</category>
-  </programme>
-  <programme start="20260924073000 +0000" stop="20260924090000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">LIGA PRVAKA M: PSG - ZAGREB</title>
-    <desc lang="hr">PSG - ZAGREB</desc>
-    <category lang="hr">Rukomet</category>
-  </programme>
-  <programme start="20260924090000 +0000" stop="20260924110000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">FRANCUSKA LIGA: MONACO - LENS</title>
-    <desc lang="hr">MONACO - LENS</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924110000 +0000" stop="20260924130000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">PREMIER LEAGUE: NEWCASTLE - HULL</title>
-    <desc lang="hr">NEWCASTLE - HULL</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924130000 +0000" stop="20260924150000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">TALIJANSKA LIGA: FIORENTINA - NAPOLI</title>
-    <desc lang="hr">FIORENTINA - NAPOLI</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924150000 +0000" stop="20260924170000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">EUROPSKO PRVENSTVO M: 1/4 FINALA</title>
-    <desc lang="hr">1/4 FINALA</desc>
-    <category lang="hr">Odbojka</category>
-  </programme>
-  <programme start="20260924170000 +0000" stop="20260924173000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">EMISIJA: ONE ŽIVE ZA SPORT</title>
-    <desc lang="hr">ONE ŽIVE ZA SPORT</desc>
-    <category lang="hr">Emisija</category>
-  </programme>
-  <programme start="20260924173000 +0000" stop="20260924180000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">EMISIJA: SPORT BEZ GRANICA</title>
-    <desc lang="hr">SPORT BEZ GRANICA</desc>
-    <category lang="hr">Emisija</category>
-  </programme>
-  <programme start="20260924180000 +0000" stop="20260924230000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">MLB: CHICAGO CUBS - MIAMI</title>
-    <desc lang="hr">CHICAGO CUBS - MIAMI</desc>
-    <category lang="hr">Baseball</category>
-  </programme>
   <programme start="20260924180000 +0000" stop="20260924230000 +0000" channel="ArenaSport1.hr.scraper">
     <title lang="hr">MLB: CHICAGO CUBS - MIAMI</title>
     <desc lang="hr">CHICAGO CUBS - MIAMI</desc>
@@ -188,70 +118,90 @@
     <desc lang="hr">SIDELINE</desc>
     <category lang="hr">Studio</category>
   </programme>
-  <programme start="20260923230000 +0000" stop="20260924003000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">LIGA PRVAKA M: PORTO - PARTIZAN</title>
-    <desc lang="hr">PORTO - PARTIZAN</desc>
-    <category lang="hr">Rukomet</category>
+  <programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">SIDELINE</title>
+    <desc lang="hr">SIDELINE</desc>
+    <category lang="hr">Studio</category>
   </programme>
-  <programme start="20260924003000 +0000" stop="20260924020000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: FINALE</title>
-    <desc lang="hr">FINALE</desc>
-    <category lang="hr">Vaterpolo</category>
+  <programme start="20260925220000 +0000" stop="20260926000000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">PREMIER LEAGUE: MANCHESTER CITY - SUNDERLAND</title>
+    <desc lang="hr">MANCHESTER CITY - SUNDERLAND</desc>
+    <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924020000 +0000" stop="20260924040000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">SVJETSKO PRVENSTVO: ŠVICARSKA - NORVEŠKA</title>
-    <desc lang="hr">ŠVICARSKA - NORVEŠKA</desc>
-    <category lang="hr">Hokej na ledu</category>
+  <programme start="20260926000000 +0000" stop="20260926030000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">NFL: GREEN BAY - ATLANTA</title>
+    <desc lang="hr">GREEN BAY - ATLANTA</desc>
+    <category lang="hr">Američki nogomet</category>
   </programme>
-  <programme start="20260924040000 +0000" stop="20260924050000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">FRANCUSKA LIGA: PREGLED KOLA</title>
+  <programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: PSV - SHAKHTAR</title>
+    <desc lang="hr">PSV - SHAKHTAR</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926053000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">EMISIJA: MI ŽIVIMO ZA NOGOMET</title>
+    <desc lang="hr">MI ŽIVIMO ZA NOGOMET</desc>
+    <category lang="hr">Emisija</category>
+  </programme>
+  <programme start="20260926053000 +0000" stop="20260926070000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">ABA LIGA: ZADAR - BOSNA</title>
+    <desc lang="hr">ZADAR - BOSNA</desc>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20260926070000 +0000" stop="20260926090000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">EUROPSKI KUP: RAŽANAC 1OKM M I Ž</title>
+    <desc lang="hr">RAŽANAC 1OKM M I Ž</desc>
+    <category lang="hr">Plivanje</category>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926110000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">FRANCUSKA LIGA: TOULOUSE - LE HAVRE</title>
+    <desc lang="hr">TOULOUSE - LE HAVRE</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926110000 +0000" stop="20260926113000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">CHAMPIONSHIP: PREGLED KOLA</title>
     <desc lang="hr">PREGLED KOLA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924050000 +0000" stop="20260924070000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">PREMIER LEAGUE: BRENTFORD - CHELSEA</title>
-    <desc lang="hr">BRENTFORD - CHELSEA</desc>
+  <programme start="20260926113000 +0000" stop="20260926133000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">LEAGUE TWO: CRAWLEY - BARNET</title>
+    <desc lang="hr">CRAWLEY - BARNET</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924070000 +0000" stop="20260924090000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">DIJAMANTNA LIGA: MONACO</title>
-    <desc lang="hr">MONACO</desc>
-    <category lang="hr">Atletika</category>
-  </programme>
-  <programme start="20260924090000 +0000" stop="20260924110000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">TALIJANSKA LIGA: JUVENTUS - ATALANTA</title>
-    <desc lang="hr">JUVENTUS - ATALANTA</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924110000 +0000" stop="20260924140000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">NFL: KANSAS - DENVER</title>
-    <desc lang="hr">KANSAS - DENVER</desc>
-    <category lang="hr">Američki nogomet</category>
-  </programme>
-  <programme start="20260924140000 +0000" stop="20260924160000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">ARGENTINSKA LIGA: ATLETICO TUCUMAN - RIVER PLATE</title>
-    <desc lang="hr">ATLETICO TUCUMAN - RIVER PLATE</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924160000 +0000" stop="20260924180000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">FRANCUSKA LIGA: NICE - LILLE</title>
-    <desc lang="hr">NICE - LILLE</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924180000 +0000" stop="20260924190000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">DOK. FILM: SCHALKE THE MYTH</title>
-    <desc lang="hr">SCHALKE THE MYTH</desc>
+  <programme start="20260926133000 +0000" stop="20260926150000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">RED BULL: ENDER</title>
+    <desc lang="hr">ENDER</desc>
     <category lang="hr">Dokumentarni film</category>
   </programme>
-  <programme start="20260924190000 +0000" stop="20260924210000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">CHAMPIONSHIP: MILLWALL - WEST HAM</title>
-    <desc lang="hr">MILLWALL - WEST HAM</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924210000 +0000" stop="20260924230000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">EUROPSKO PRVENSTVO M: ITALIJA - SLOVENIJA</title>
-    <desc lang="hr">ITALIJA - SLOVENIJA</desc>
+  <programme start="20260926150000 +0000" stop="20260926170000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">EUROPSKO PRVENSTVO M: UTAKMICA ZA 3. MJESTO</title>
+    <desc lang="hr">UTAKMICA ZA 3. MJESTO</desc>
     <category lang="hr">Odbojka</category>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926173000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">EMISIJA: VAN KADRA</title>
+    <desc lang="hr">VAN KADRA</desc>
+    <category lang="hr">Emisija</category>
+  </programme>
+  <programme start="20260926173000 +0000" stop="20260926180000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">NFL: NFL GAMEDAY</title>
+    <desc lang="hr">NFL GAMEDAY</desc>
+    <category lang="hr">Američki nogomet</category>
+  </programme>
+  <programme start="20260926180000 +0000" stop="20260926190000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">SIDELINE</title>
+    <desc lang="hr">SIDELINE</desc>
+    <category lang="hr">Studio</category>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926210000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">EUROPSKO PRVENSTVO M: FINALE</title>
+    <desc lang="hr">FINALE</desc>
+    <category lang="hr">Odbojka</category>
+  </programme>
+  <programme start="20260926210000 +0000" stop="20260926230000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">LEAGUE TWO: OLDHAM - SALFORD</title>
+    <desc lang="hr">OLDHAM - SALFORD</desc>
+    <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260924210000 +0000" stop="20260924230000 +0000" channel="ArenaSport2.hr.scraper">
     <title lang="hr">EUROPSKO PRVENSTVO M: ITALIJA - SLOVENIJA</title>
@@ -323,80 +273,80 @@
     <desc lang="hr">BRISTOL - WATFORD</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260923220000 +0000" stop="20260924000000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">FRANCUSKA LIGA: LYON - RENNES</title>
-    <desc lang="hr">LYON - RENNES</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924000000 +0000" stop="20260924010000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">CHAMPIONSHIP: PREGLED KOLA</title>
-    <desc lang="hr">PREGLED KOLA</desc>
-    <category lang="hr">Studio</category>
-  </programme>
-  <programme start="20260924010000 +0000" stop="20260924030000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EUROPSKO PRVENSTVO Ž: 1/2 FINALA</title>
-    <desc lang="hr">1/2 FINALA</desc>
-    <category lang="hr">Odbojka</category>
-  </programme>
-  <programme start="20260924030000 +0000" stop="20260924050000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: FINALE</title>
-    <desc lang="hr">FINALE</desc>
-    <category lang="hr">Košarka</category>
-  </programme>
-  <programme start="20260924050000 +0000" stop="20260924070000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">TALIJANSKA LIGA: VENEZIA - LAZIO</title>
-    <desc lang="hr">VENEZIA - LAZIO</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924070000 +0000" stop="20260924073000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EMISIJA: SPORT BEZ GRANICA</title>
-    <desc lang="hr">SPORT BEZ GRANICA</desc>
-    <category lang="hr">Emisija</category>
-  </programme>
-  <programme start="20260924073000 +0000" stop="20260924080000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">RED BULL: FLIGHT PLAN EP.4</title>
-    <desc lang="hr">FLIGHT PLAN EP.4</desc>
-    <category lang="hr">Dokumentarni film</category>
-  </programme>
-  <programme start="20260924080000 +0000" stop="20260924100000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">PREMIER LEAGUE: BRIGHTON - ARSENAL</title>
-    <desc lang="hr">BRIGHTON - ARSENAL</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924100000 +0000" stop="20260924120000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">MLB: TBD</title>
-    <desc lang="hr">TBD</desc>
-    <category lang="hr">Baseball</category>
-  </programme>
-  <programme start="20260924120000 +0000" stop="20260924140000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EUROPSKO PRVENSTVO M: SRBIJA - BELGIJA</title>
-    <desc lang="hr">SRBIJA - BELGIJA</desc>
-    <category lang="hr">Odbojka</category>
-  </programme>
-  <programme start="20260924140000 +0000" stop="20260924160000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">POLJSKA LIGA: WISLA KRAKOW - SLASK</title>
-    <desc lang="hr">WISLA KRAKOW - SLASK</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924160000 +0000" stop="20260924170000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">RED BULL: ONEKOTAN - THE LOST ISLAND</title>
-    <desc lang="hr">ONEKOTAN - THE LOST ISLAND</desc>
-    <category lang="hr">Dokumentarni film</category>
-  </programme>
-  <programme start="20260924170000 +0000" stop="20260924190000 +0000" channel="ArenaSport3.hr.scraper">
+  <programme start="20260925200000 +0000" stop="20260925230000 +0000" channel="ArenaSport2.hr.scraper">
     <title lang="hr">CHAMPIONSHIP: BRISTOL - WATFORD</title>
     <desc lang="hr">BRISTOL - WATFORD</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924190000 +0000" stop="20260924210000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: NAPOLI - ARSENAL</title>
-    <desc lang="hr">NAPOLI - ARSENAL</desc>
+  <programme start="20260925230000 +0000" stop="20260926003000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">LIGA PRVAKA Ž: KRIM LJUBLJANA - ESBJERG</title>
+    <desc lang="hr">KRIM LJUBLJANA - ESBJERG</desc>
+    <category lang="hr">Rukomet</category>
+  </programme>
+  <programme start="20260926003000 +0000" stop="20260926020000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: UTAKMICA ZA 3. MJESTO</title>
+    <desc lang="hr">UTAKMICA ZA 3. MJESTO</desc>
+    <category lang="hr">Vaterpolo</category>
+  </programme>
+  <programme start="20260926020000 +0000" stop="20260926040000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">SVJETSKO PRVENSTVO: FINALE</title>
+    <desc lang="hr">FINALE</desc>
+    <category lang="hr">Hokej na ledu</category>
+  </programme>
+  <programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">MAGAZIN: MAGAZIN LIGE PRVAKA</title>
+    <desc lang="hr">MAGAZIN LIGE PRVAKA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
-    <desc lang="hr">NEUSPJEH PRVAKA</desc>
+  <programme start="20260926050000 +0000" stop="20260926070000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">PREMIER LEAGUE: BOURNEMOUTH - LIVERPOOL</title>
+    <desc lang="hr">BOURNEMOUTH - LIVERPOOL</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926070000 +0000" stop="20260926090000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">DIJAMANTNA LIGA: ZURICH</title>
+    <desc lang="hr">ZURICH</desc>
+    <category lang="hr">Atletika</category>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926110000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">TALIJANSKA LIGA: FIORENTINA - NAPOLI</title>
+    <desc lang="hr">FIORENTINA - NAPOLI</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926110000 +0000" stop="20260926140000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">NFL: BUFFALO - DETROIT</title>
+    <desc lang="hr">BUFFALO - DETROIT</desc>
+    <category lang="hr">Američki nogomet</category>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926160000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">ARGENTINSKA LIGA: SAN LORENZO - BOCA JUNIORS</title>
+    <desc lang="hr">SAN LORENZO - BOCA JUNIORS</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">RED BULL: GAMES OF STRANGE S02EP01</title>
+    <desc lang="hr">GAMES OF STRANGE S02EP01</desc>
+    <category lang="hr">Dokumentarni film</category>
+  </programme>
+  <programme start="20260926163000 +0000" stop="20260926183000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">ABA LIGA: BORAC - CRVENA ZVEZDA</title>
+    <desc lang="hr">BORAC - CRVENA ZVEZDA</desc>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20260926183000 +0000" stop="20260926203000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">ABA LIGA: STUDENTSKI CENTAR - SPARTAK</title>
+    <desc lang="hr">STUDENTSKI CENTAR - SPARTAK</desc>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20260926203000 +0000" stop="20260926210000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">EMISIJA: MI ŽIVIMO ZA NOGOMET</title>
+    <desc lang="hr">MI ŽIVIMO ZA NOGOMET</desc>
     <category lang="hr">Emisija</category>
+  </programme>
+  <programme start="20260926210000 +0000" stop="20260926230000 +0000" channel="ArenaSport2.hr.scraper">
+    <title lang="hr">EUROPA LIGA: HAPOEL BEER SHEVA - DINAMO</title>
+    <desc lang="hr">HAPOEL BEER SHEVA - DINAMO</desc>
+    <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
@@ -478,70 +428,90 @@
     <desc lang="hr">NEUSPJEH PRVAKA</desc>
     <category lang="hr">Emisija</category>
   </programme>
-  <programme start="20260923220000 +0000" stop="20260924000000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">ABA LIGA: FINALE G4</title>
+  <programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
+    <desc lang="hr">NEUSPJEH PRVAKA</desc>
+    <category lang="hr">Emisija</category>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260926000000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">FRANCUSKA LIGA: MONACO - LENS</title>
+    <desc lang="hr">MONACO - LENS</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926010000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">EUROPA LIGA: SAŽETAK</title>
+    <desc lang="hr">SAŽETAK</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926010000 +0000" stop="20260926030000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">EUROPSKO PRVENSTVO Ž: UTAKMICA ZA 3. MJESTO</title>
+    <desc lang="hr">UTAKMICA ZA 3. MJESTO</desc>
+    <category lang="hr">Odbojka</category>
+  </programme>
+  <programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">TALIJANSKA LIGA: FINALE G4</title>
     <desc lang="hr">FINALE G4</desc>
     <category lang="hr">Košarka</category>
   </programme>
-  <programme start="20260924000000 +0000" stop="20260924020000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">COPPA ITALIA: TORINO - MONZA</title>
-    <desc lang="hr">TORINO - MONZA</desc>
+  <programme start="20260926050000 +0000" stop="20260926070000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">TALIJANSKA LIGA: FROSINONE - COMO</title>
+    <desc lang="hr">FROSINONE - COMO</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924020000 +0000" stop="20260924040000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">RUMUNJSKA LIGA: RAPID B. - ARGES</title>
-    <desc lang="hr">RAPID B. - ARGES</desc>
-    <category lang="hr">Nogomet</category>
+  <programme start="20260926070000 +0000" stop="20260926073000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">EMISIJA: ONE ŽIVE ZA SPORT</title>
+    <desc lang="hr">ONE ŽIVE ZA SPORT</desc>
+    <category lang="hr">Emisija</category>
   </programme>
-  <programme start="20260924040000 +0000" stop="20260924060000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">POLJSKA LIGA: ZAGLEBIE - WISLA PLOCK</title>
-    <desc lang="hr">ZAGLEBIE - WISLA PLOCK</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924060000 +0000" stop="20260924070000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">DOKUMENTARNI FILM: MNR: ČEŠ/SLO</title>
-    <desc lang="hr">MNR: ČEŠ/SLO</desc>
+  <programme start="20260926073000 +0000" stop="20260926080000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">RED BULL: CHASING WINTER</title>
+    <desc lang="hr">CHASING WINTER</desc>
     <category lang="hr">Dokumentarni film</category>
   </programme>
-  <programme start="20260924070000 +0000" stop="20260924090000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">EUROPSKO PRVENSTVO Ž: FINALE</title>
-    <desc lang="hr">FINALE</desc>
+  <programme start="20260926080000 +0000" stop="20260926100000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">PREMIER LEAGUE: NEWCASTLE - HULL</title>
+    <desc lang="hr">NEWCASTLE - HULL</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926120000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">MLB: NY YANKEES - TAMPA BAY</title>
+    <desc lang="hr">NY YANKEES - TAMPA BAY</desc>
+    <category lang="hr">Baseball</category>
+  </programme>
+  <programme start="20260926120000 +0000" stop="20260926140000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">EUROPSKO PRVENSTVO M: POLJSKA - BUGARSKA</title>
+    <desc lang="hr">POLJSKA - BUGARSKA</desc>
     <category lang="hr">Odbojka</category>
   </programme>
-  <programme start="20260924090000 +0000" stop="20260924110000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: BARCELONA - FEYENOORD</title>
-    <desc lang="hr">BARCELONA - FEYENOORD</desc>
+  <programme start="20260926140000 +0000" stop="20260926160000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">POLJSKA LIGA: JAGIELLONIA - LEGIA</title>
+    <desc lang="hr">JAGIELLONIA - LEGIA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924110000 +0000" stop="20260924130000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">FRANCUSKA LIGA: MARSEILLE - PSG</title>
-    <desc lang="hr">MARSEILLE - PSG</desc>
+  <programme start="20260926160000 +0000" stop="20260926163000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">RED BULL: ULTIMATE RUSH</title>
+    <desc lang="hr">ULTIMATE RUSH</desc>
+    <category lang="hr">Dokumentarni film</category>
+  </programme>
+  <programme start="20260926163000 +0000" stop="20260926183000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">LEAGUE TWO: OLDHAM - SALFORD</title>
+    <desc lang="hr">OLDHAM - SALFORD</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924130000 +0000" stop="20260924150000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">COPA LIBERTADORES: FLAMENGO - IND. DEL VALLE</title>
-    <desc lang="hr">FLAMENGO - IND. DEL VALLE</desc>
+  <programme start="20260926183000 +0000" stop="20260926190000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">RED BULL: GAMES OF STRANGE</title>
+    <desc lang="hr">GAMES OF STRANGE</desc>
+    <category lang="hr">Dokumentarni film</category>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926210000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: PORTO - MANCHESTER CITY</title>
+    <desc lang="hr">PORTO - MANCHESTER CITY</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924150000 +0000" stop="20260924170000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">KVALIFIKACIJE ZA SP: BIH - ITALIJA</title>
-    <desc lang="hr">BIH - ITALIJA</desc>
-    <category lang="hr">Košarka</category>
-  </programme>
-  <programme start="20260924170000 +0000" stop="20260924190000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">PREMIER LEAGUE: MANCHESTER CITY - SUNDERLAND</title>
-    <desc lang="hr">MANCHESTER CITY - SUNDERLAND</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924190000 +0000" stop="20260924210000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">TALIJANSKA LIGA: ROMA - INTER</title>
-    <desc lang="hr">ROMA - INTER</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: BARCELONETA - FERENCVAROS</title>
-    <desc lang="hr">BARCELONETA - FERENCVAROS</desc>
-    <category lang="hr">Vaterpolo</category>
+  <programme start="20260926210000 +0000" stop="20260926220000 +0000" channel="ArenaSport3.hr.scraper">
+    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
+    <desc lang="hr">NEUSPJEH PRVAKA</desc>
+    <category lang="hr">Emisija</category>
   </programme>
   <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="ArenaSport4.hr.scraper">
     <title lang="hr">LIGA PRVAKA: BARCELONETA - FERENCVAROS</title>
@@ -613,35 +583,75 @@
     <desc lang="hr">UTAKMICA ZA 3. MJESTO</desc>
     <category lang="hr">Vaterpolo</category>
   </programme>
-  <programme start="20260923220000 +0000" stop="20260924130000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
-    <desc lang="hr">NAJAVA PROGRAMA</desc>
-    <category lang="hr">Najava programa</category>
+  <programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: UTAKMICA ZA 3. MJESTO</title>
+    <desc lang="hr">UTAKMICA ZA 3. MJESTO</desc>
+    <category lang="hr">Vaterpolo</category>
   </programme>
-  <programme start="20260924130000 +0000" stop="20260924150000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: TAPPARA - LIBEREC</title>
-    <desc lang="hr">TAPPARA - LIBEREC</desc>
-    <category lang="hr">Hokej na ledu</category>
+  <programme start="20260925220000 +0000" stop="20260926000000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">ABA LIGA: BUDUĆNOST - CIBONA</title>
+    <desc lang="hr">BUDUĆNOST - CIBONA</desc>
+    <category lang="hr">Košarka</category>
   </programme>
-  <programme start="20260924150000 +0000" stop="20260924170000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">DIJAMANTNA LIGA: DOHA</title>
-    <desc lang="hr">DOHA</desc>
-    <category lang="hr">Atletika</category>
-  </programme>
-  <programme start="20260924170000 +0000" stop="20260924190000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">ARGENTINSKA LIGA: RIVER PLATE - HURACAN</title>
-    <desc lang="hr">RIVER PLATE - HURACAN</desc>
+  <programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">COPPA ITALIA: SASSUOLO - FROSINOE</title>
+    <desc lang="hr">SASSUOLO - FROSINOE</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924190000 +0000" stop="20260924210000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">CARABAO: LIVERPOOL - TOTTENHAM</title>
-    <desc lang="hr">LIVERPOOL - TOTTENHAM</desc>
+  <programme start="20260926020000 +0000" stop="20260926040000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">RUMUNJSKA LIGA: PETROLUL - CORVINUL</title>
+    <desc lang="hr">PETROLUL - CORVINUL</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">RUMUNJSKA LIGA: OTELUL - CORVINUL</title>
-    <desc lang="hr">OTELUL - CORVINUL</desc>
+  <programme start="20260926040000 +0000" stop="20260926060000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">POLJSKA LIGA: KATOWICE - CRACOVIA</title>
+    <desc lang="hr">KATOWICE - CRACOVIA</desc>
     <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926060000 +0000" stop="20260926070000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">DOKUMENTARNI FILM: MNR: ČEŠ/SLO</title>
+    <desc lang="hr">MNR: ČEŠ/SLO</desc>
+    <category lang="hr">Dokumentarni film</category>
+  </programme>
+  <programme start="20260926070000 +0000" stop="20260926090000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">EUROPSKO PRVENSTVO M: TURKSA - NJEMAČKA</title>
+    <desc lang="hr">TURKSA - NJEMAČKA</desc>
+    <category lang="hr">Odbojka</category>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926110000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: BORUSSIA D - VILLAREAL</title>
+    <desc lang="hr">BORUSSIA D - VILLAREAL</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926110000 +0000" stop="20260926130000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">FRANCUSKA LIGA: NICE - LILLE</title>
+    <desc lang="hr">NICE - LILLE</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926150000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">COPA SUDAMERICANA: ATLETICO MG - SANTOS</title>
+    <desc lang="hr">ATLETICO MG - SANTOS</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926150000 +0000" stop="20260926170000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">ABA LIGA: CEDEVITA - KRKA</title>
+    <desc lang="hr">CEDEVITA - KRKA</desc>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926190000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">PREMIER LEAGUE: BRENTFORD - CHELSEA</title>
+    <desc lang="hr">BRENTFORD - CHELSEA</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926210000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">TALIJANSKA LIGA: JUVENTUS - ATALANTA</title>
+    <desc lang="hr">JUVENTUS - ATALANTA</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926210000 +0000" stop="20260926220000 +0000" channel="ArenaSport4.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: FINALE</title>
+    <desc lang="hr">FINALE</desc>
+    <category lang="hr">Vaterpolo</category>
   </programme>
   <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">RUMUNJSKA LIGA: OTELUL - CORVINUL</title>
@@ -678,34 +688,39 @@
     <desc lang="hr">RAPID B. - ARGES</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260923220000 +0000" stop="20260924130000 +0000" channel="ArenaSport6.hr.scraper">
+  <programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="ArenaSport5.hr.scraper">
+    <title lang="hr">RUMUNJSKA LIGA: RAPID B. - ARGES</title>
+    <desc lang="hr">RAPID B. - ARGES</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260926130000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20260924130000 +0000" stop="20260924150000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">FRANCUSKA LIGA: ANGERS - TROYES</title>
-    <desc lang="hr">ANGERS - TROYES</desc>
+  <programme start="20260926130000 +0000" stop="20260926150000 +0000" channel="ArenaSport5.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: SKELLEFTEA - DAVOS</title>
+    <desc lang="hr">SKELLEFTEA - DAVOS</desc>
+    <category lang="hr">Hokej na ledu</category>
+  </programme>
+  <programme start="20260926150000 +0000" stop="20260926170000 +0000" channel="ArenaSport5.hr.scraper">
+    <title lang="hr">DIJAMANTNA LIGA: RABAT</title>
+    <desc lang="hr">RABAT</desc>
+    <category lang="hr">Atletika</category>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926190000 +0000" channel="ArenaSport5.hr.scraper">
+    <title lang="hr">ARGENTINSKA LIGA: ROSARIO - ARGENTINOS JRS.</title>
+    <desc lang="hr">ROSARIO - ARGENTINOS JRS.</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924150000 +0000" stop="20260924170000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">PREMIER LEAGUE: TOTTENHAM - ASTON VILLA</title>
-    <desc lang="hr">TOTTENHAM - ASTON VILLA</desc>
-    <category lang="hr">Nogomet</category>
+  <programme start="20260926190000 +0000" stop="20260926210000 +0000" channel="ArenaSport5.hr.scraper">
+    <title lang="hr">MLB: CHICAGO CUBS - MIAMI</title>
+    <desc lang="hr">CHICAGO CUBS - MIAMI</desc>
+    <category lang="hr">Baseball</category>
   </programme>
-  <programme start="20260924170000 +0000" stop="20260924190000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">TALIJANSKA LIGA: MILAN - LECCE</title>
-    <desc lang="hr">MILAN - LECCE</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924190000 +0000" stop="20260924210000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">SVJETSKO PRVENSTVO Ž: KINA - FRANCUSKA</title>
-    <desc lang="hr">KINA - FRANCUSKA</desc>
-    <category lang="hr">Košarka</category>
-  </programme>
-  <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">POLJSKA LIGA: LODZ - WIECZYSTA KRAKOW</title>
-    <desc lang="hr">LODZ - WIECZYSTA KRAKOW</desc>
+  <programme start="20260926210000 +0000" stop="20260926220000 +0000" channel="ArenaSport5.hr.scraper">
+    <title lang="hr">RUMUNJSKA LIGA: CLUJ - OTELUL</title>
+    <desc lang="hr">CLUJ - OTELUL</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="ArenaSport6.hr.scraper">
@@ -743,79 +758,39 @@
     <desc lang="hr">ZAGLEBIE - WISLA PLOCK</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260923230000 +0000" stop="20260924010000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">EUROPA LIGA: ANDERLECHT - LYON</title>
-    <desc lang="hr">ANDERLECHT - LYON</desc>
+  <programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="ArenaSport6.hr.scraper">
+    <title lang="hr">POLJSKA LIGA: ZAGLEBIE - WISLA PLOCK</title>
+    <desc lang="hr">ZAGLEBIE - WISLA PLOCK</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924010000 +0000" stop="20260924030000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: CLUB BRUGGE - ASTON VILLA</title>
-    <desc lang="hr">CLUB BRUGGE - ASTON VILLA</desc>
+  <programme start="20260925220000 +0000" stop="20260926130000 +0000" channel="ArenaSport6.hr.scraper">
+    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
+    <desc lang="hr">NAJAVA PROGRAMA</desc>
+    <category lang="hr">Najava programa</category>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926150000 +0000" channel="ArenaSport6.hr.scraper">
+    <title lang="hr">FRANCUSKA LIGA: LYON - RENNES</title>
+    <desc lang="hr">LYON - RENNES</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924030000 +0000" stop="20260924050000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">KONFERENCIJSKA LIGA: STRASBOURG - MAINZ</title>
-    <desc lang="hr">STRASBOURG - MAINZ</desc>
+  <programme start="20260926150000 +0000" stop="20260926170000 +0000" channel="ArenaSport6.hr.scraper">
+    <title lang="hr">PREMIER LEAGUE: BRIGHTON - ARSENAL</title>
+    <desc lang="hr">BRIGHTON - ARSENAL</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924050000 +0000" stop="20260924060000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
-    <desc lang="hr">SAŽETAK</desc>
+  <programme start="20260926170000 +0000" stop="20260926190000 +0000" channel="ArenaSport6.hr.scraper">
+    <title lang="hr">TALIJANSKA LIGA: VENEZIA - LAZIO</title>
+    <desc lang="hr">VENEZIA - LAZIO</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924060000 +0000" stop="20260924080000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">EUROPA LIGA: BESIKTAS - MARSEILLLE</title>
-    <desc lang="hr">BESIKTAS - MARSEILLLE</desc>
-    <category lang="hr">Nogomet</category>
+  <programme start="20260926190000 +0000" stop="20260926210000 +0000" channel="ArenaSport6.hr.scraper">
+    <title lang="hr">SVJETSKO PRVENSTVO Ž: UTAKMICA ZA 3. MJESTO</title>
+    <desc lang="hr">UTAKMICA ZA 3. MJESTO</desc>
+    <category lang="hr">Košarka</category>
   </programme>
-  <programme start="20260924080000 +0000" stop="20260924083000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">EMISIJA: MAGAZIN LIGE PRVAKA</title>
-    <desc lang="hr">MAGAZIN LIGE PRVAKA</desc>
-    <category lang="hr">Emisija</category>
-  </programme>
-  <programme start="20260924083000 +0000" stop="20260924090000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">EMISIJA: GREATEST CLUB</title>
-    <desc lang="hr">GREATEST CLUB</desc>
-    <category lang="hr">Emisija</category>
-  </programme>
-  <programme start="20260924090000 +0000" stop="20260924100000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">EUROPA LIGA: SAŽETAK</title>
-    <desc lang="hr">SAŽETAK</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924100000 +0000" stop="20260924120000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">EUROPA LIGA: CELTIC - FERENCVAROS</title>
-    <desc lang="hr">CELTIC - FERENCVAROS</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924120000 +0000" stop="20260924130000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
-    <desc lang="hr">SAŽETAK</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924130000 +0000" stop="20260924150000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">KONFERENCIJSKA LIGA: FINALE</title>
-    <desc lang="hr">FINALE</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924150000 +0000" stop="20260924170000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: BORUSSIA D - VILLAREAL</title>
-    <desc lang="hr">BORUSSIA D - VILLAREAL</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924170000 +0000" stop="20260924190000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">EUROPA LIGA: MILAN - BENFICA</title>
-    <desc lang="hr">MILAN - BENFICA</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924190000 +0000" stop="20260924210000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">KONFERENCIJSKA LIGA: RIJEKA - OMONIA</title>
-    <desc lang="hr">RIJEKA - OMONIA</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20260924210000 +0000" stop="20260924230000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: REAL MADRID - INTER</title>
-    <desc lang="hr">REAL MADRID - INTER</desc>
+  <programme start="20260926210000 +0000" stop="20260926220000 +0000" channel="ArenaSport6.hr.scraper">
+    <title lang="hr">POLJSKA LIGA: WISLA KRAKOW - SLASK</title>
+    <desc lang="hr">WISLA KRAKOW - SLASK</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260924210000 +0000" stop="20260924230000 +0000" channel="ArenaSport7.hr.scraper">
@@ -898,70 +873,85 @@
     <desc lang="hr">PSG - SLOVAN</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260923220000 +0000" stop="20260924000000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">IBO SUPER FLYWEIGHT WORLD CHAMPIONSHIP: MALAJIKA - MAMA</title>
-    <desc lang="hr">MALAJIKA - MAMA</desc>
-    <category lang="hr">Boks</category>
-  </programme>
-  <programme start="20260924000000 +0000" stop="20260924020000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">MLB: CLEVELAND - SAN FRANCISCO</title>
-    <desc lang="hr">CLEVELAND - SAN FRANCISCO</desc>
-    <category lang="hr">Baseball</category>
-  </programme>
-  <programme start="20260924020000 +0000" stop="20260924040000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">DIJAMANTNA LIGA: MONACO</title>
-    <desc lang="hr">MONACO</desc>
-    <category lang="hr">Atletika</category>
-  </programme>
-  <programme start="20260924040000 +0000" stop="20260924070000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">NFL: KANSAS CITY - INDIANAPOLIS</title>
-    <desc lang="hr">KANSAS CITY - INDIANAPOLIS</desc>
-    <category lang="hr">Američki nogomet</category>
-  </programme>
-  <programme start="20260924070000 +0000" stop="20260924090000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">COPA SUDAMERICANA: TIGRE - NACIONAL</title>
-    <desc lang="hr">TIGRE - NACIONAL</desc>
+  <programme start="20260925210000 +0000" stop="20260925230000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: PSG - SLOVAN</title>
+    <desc lang="hr">PSG - SLOVAN</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924090000 +0000" stop="20260924093000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">EMISIJA: ARENA SPECIJAL</title>
-    <desc lang="hr">ARENA SPECIJAL</desc>
-    <category lang="hr">Emisija</category>
-  </programme>
-  <programme start="20260924093000 +0000" stop="20260924100000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">EMISIJA: SPORT BEZ GRANICA</title>
-    <desc lang="hr">SPORT BEZ GRANICA</desc>
-    <category lang="hr">Emisija</category>
-  </programme>
-  <programme start="20260924100000 +0000" stop="20260924120000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">NHL: FINALE G4</title>
-    <desc lang="hr">FINALE G4</desc>
-    <category lang="hr">Hokej na ledu</category>
-  </programme>
-  <programme start="20260924120000 +0000" stop="20260924140000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">MLB: TAMPA BAY - BOSTON</title>
-    <desc lang="hr">TAMPA BAY - BOSTON</desc>
-    <category lang="hr">Baseball</category>
-  </programme>
-  <programme start="20260924140000 +0000" stop="20260924170000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">NFL: BUFFALO - DETROIT</title>
-    <desc lang="hr">BUFFALO - DETROIT</desc>
-    <category lang="hr">Američki nogomet</category>
-  </programme>
-  <programme start="20260924170000 +0000" stop="20260924190000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">KVALIFIKACIJE ZA SP: HRVATSKA - LATVIJA</title>
-    <desc lang="hr">HRVATSKA - LATVIJA</desc>
-    <category lang="hr">Košarka</category>
-  </programme>
-  <programme start="20260924190000 +0000" stop="20260924210000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">COPA LIBERTADORES: ESTUDIANTES - CORINTHIANS</title>
-    <desc lang="hr">ESTUDIANTES - CORINTHIANS</desc>
+  <programme start="20260925230000 +0000" stop="20260926010000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">EUROPA LIGA: HAPOEL - DINAMO</title>
+    <desc lang="hr">HAPOEL - DINAMO</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">DOKUMENTARNI FILM: LET THEM WEAR TOWELS</title>
-    <desc lang="hr">LET THEM WEAR TOWELS</desc>
-    <category lang="hr">Dokumentarni film</category>
+  <programme start="20260926010000 +0000" stop="20260926030000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: COMO - LEIPZIG</title>
+    <desc lang="hr">COMO - LEIPZIG</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926030000 +0000" stop="20260926050000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">KONFERENCIJSKA LIGA: AEK - RAYO VALLECANO</title>
+    <desc lang="hr">AEK - RAYO VALLECANO</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926050000 +0000" stop="20260926060000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
+    <desc lang="hr">SAŽETAK</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926060000 +0000" stop="20260926080000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">EUROPA LIGA: MILAN - BENFICA</title>
+    <desc lang="hr">MILAN - BENFICA</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926080000 +0000" stop="20260926083000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">EMISIJA: MAGAZIN LIGE PRVAKA</title>
+    <desc lang="hr">MAGAZIN LIGE PRVAKA</desc>
+    <category lang="hr">Emisija</category>
+  </programme>
+  <programme start="20260926083000 +0000" stop="20260926090000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">EMISIJA: GREATEST CLUB</title>
+    <desc lang="hr">GREATEST CLUB</desc>
+    <category lang="hr">Emisija</category>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926100000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">EUROPA LIGA: SAŽETAK</title>
+    <desc lang="hr">SAŽETAK</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926120000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">EUROPA LIGA: JUVENTUS - NEC</title>
+    <desc lang="hr">JUVENTUS - NEC</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926120000 +0000" stop="20260926130000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
+    <desc lang="hr">SAŽETAK</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926130000 +0000" stop="20260926150000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">KONFERENCIJSKA LIGA: FINALE</title>
+    <desc lang="hr">FINALE</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926150000 +0000" stop="20260926170000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: REAL MADRID - INTER</title>
+    <desc lang="hr">REAL MADRID - INTER</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926190000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">EUROPA LIGA: OFI - HOFFENNHEIM</title>
+    <desc lang="hr">OFI - HOFFENNHEIM</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926210000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">KONFERENCIJSKA LIGA: RIJEKA - CELJE</title>
+    <desc lang="hr">RIJEKA - CELJE</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926210000 +0000" stop="20260926230000 +0000" channel="ArenaSport7.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: NAPOLI - ARSENAL</title>
+    <desc lang="hr">NAPOLI - ARSENAL</desc>
+    <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260924210000 +0000" stop="20260924220000 +0000" channel="ArenaSport8.hr.scraper">
     <title lang="hr">DOKUMENTARNI FILM: LET THEM WEAR TOWELS</title>
@@ -1033,10 +1023,75 @@
     <desc lang="hr">TOMMY</desc>
     <category lang="hr">Dokumentarni film</category>
   </programme>
-  <programme start="20260923220000 +0000" stop="20260924220000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
-    <desc lang="hr">NAJAVA PROGRAMA</desc>
-    <category lang="hr">Najava programa</category>
+  <programme start="20260925210000 +0000" stop="20260925220000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">DOKUMENTARNI FILM: TOMMY</title>
+    <desc lang="hr">TOMMY</desc>
+    <category lang="hr">Dokumentarni film</category>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260926000000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">IBO SUPER WELTERWEIGHT WORLD CHAMPIONSHIP: LIMA - KOOPMAN</title>
+    <desc lang="hr">LIMA - KOOPMAN</desc>
+    <category lang="hr">Boks</category>
+  </programme>
+  <programme start="20260926000000 +0000" stop="20260926020000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">MLB: WORLD SERIES G2</title>
+    <desc lang="hr">WORLD SERIES G2</desc>
+    <category lang="hr">Baseball</category>
+  </programme>
+  <programme start="20260926020000 +0000" stop="20260926040000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">COPA SUDAMERICANA: BRAGANTINO - RIVER PLATE</title>
+    <desc lang="hr">BRAGANTINO - RIVER PLATE</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926040000 +0000" stop="20260926070000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">NFL: NY GIANTS - DALLAS</title>
+    <desc lang="hr">NY GIANTS - DALLAS</desc>
+    <category lang="hr">Američki nogomet</category>
+  </programme>
+  <programme start="20260926070000 +0000" stop="20260926073000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">EMISIJA: ONE ŽIVE ZA SPORT</title>
+    <desc lang="hr">ONE ŽIVE ZA SPORT</desc>
+    <category lang="hr">Emisija</category>
+  </programme>
+  <programme start="20260926073000 +0000" stop="20260926080000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">EMISIJA: SPORT BEZ GRANICA</title>
+    <desc lang="hr">SPORT BEZ GRANICA</desc>
+    <category lang="hr">Emisija</category>
+  </programme>
+  <programme start="20260926080000 +0000" stop="20260926100000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">NHL: COLORADO - VEGAS G2</title>
+    <desc lang="hr">COLORADO - VEGAS G2</desc>
+    <category lang="hr">Hokej na ledu</category>
+  </programme>
+  <programme start="20260926100000 +0000" stop="20260926120000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">LIGA PRVAKA: RYTAS - TENERIFE</title>
+    <desc lang="hr">RYTAS - TENERIFE</desc>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20260926120000 +0000" stop="20260926140000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">MLB: NY YANKEES - NY METS</title>
+    <desc lang="hr">NY YANKEES - NY METS</desc>
+    <category lang="hr">Baseball</category>
+  </programme>
+  <programme start="20260926140000 +0000" stop="20260926170000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">NFL: BUFFALO - DETROIT</title>
+    <desc lang="hr">BUFFALO - DETROIT</desc>
+    <category lang="hr">Američki nogomet</category>
+  </programme>
+  <programme start="20260926170000 +0000" stop="20260926190000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">KVALIFIKACIJE ZA SP: SLOVENIJA - MAĐARSKA</title>
+    <desc lang="hr">SLOVENIJA - MAĐARSKA</desc>
+    <category lang="hr">Košarka</category>
+  </programme>
+  <programme start="20260926190000 +0000" stop="20260926210000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">COPA LIBERTADORES: CORINTHIANS - ESTUDIANTES</title>
+    <desc lang="hr">CORINTHIANS - ESTUDIANTES</desc>
+    <category lang="hr">Nogomet</category>
+  </programme>
+  <programme start="20260926210000 +0000" stop="20260926220000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">DOKUMENTARNI FILM: SON OF KONGO</title>
+    <desc lang="hr">SON OF KONGO</desc>
+    <category lang="hr">Dokumentarni film</category>
   </programme>
   <programme start="20260923220000 +0000" stop="20260924220000 +0000" channel="ArenaSport9.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
@@ -1048,7 +1103,12 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20260923220000 +0000" stop="20260924220000 +0000" channel="ArenaSport10.hr.scraper">
+  <programme start="20260924220000 +0000" stop="20260925220000 +0000" channel="ArenaSport9.hr.scraper">
+    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
+    <desc lang="hr">NAJAVA PROGRAMA</desc>
+    <category lang="hr">Najava programa</category>
+  </programme>
+  <programme start="20260925220000 +0000" stop="20260926220000 +0000" channel="ArenaSport9.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
@@ -1063,53 +1123,15 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20260924135000 +0000" stop="20260924154500 +0000" channel="La1.es.scraper">
-    <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
-    <episode-num system="xmltv_ns">0.188.0/1</episode-num>
-    <episode-num system="onscreen">S01E189</episode-num>
+  <programme start="20260924220000 +0000" stop="20260925220000 +0000" channel="ArenaSport10.hr.scraper">
+    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
+    <desc lang="hr">NAJAVA PROGRAMA</desc>
+    <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20260924154500 +0000" stop="20260924163500 +0000" channel="La1.es.scraper">
-    <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
-    <episode-num system="xmltv_ns">0.72.0/1</episode-num>
-    <episode-num system="onscreen">S01E73</episode-num>
-  </programme>
-  <programme start="20260924163500 +0000" stop="20260924173500 +0000" channel="La1.es.scraper">
-    <title lang="es">La Promesa</title>
-    <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
-    <episode-num system="xmltv_ns">0.912.0/1</episode-num>
-    <episode-num system="onscreen">S01E913</episode-num>
-  </programme>
-  <programme start="20260924173500 +0000" stop="20260924183500 +0000" channel="La1.es.scraper">
-    <title lang="es">Malas lenguas</title>
-    <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
-    <episode-num system="xmltv_ns">0.462.0/1</episode-num>
-    <episode-num system="onscreen">S01E463</episode-num>
-  </programme>
-  <programme start="20260924183500 +0000" stop="20260924204000 +0000" channel="La1.es.scraper">
-    <title lang="es">UEFA Nations League</title>
-    <desc lang="es">El duelo entre Países Bajos y Alemania abre la quinta edición de la UEFA Nations League. El gran atractivo estará en los banquillos de Ámsterdam, con el debut oficial de Xavi Hernández con la Oranje y Jürgen Klopp al frente de la 'Mannschaft'.</desc>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-  </programme>
-  <programme start="20260924204000 +0000" stop="20260924212000 +0000" channel="La1.es.scraper">
-    <title lang="es">La revuelta</title>
-    <desc lang="es">Las atípicas entrevistas de David Broncano, además de un plantel de cómicos sin prejuicios, son la bandera de un programa en el que nunca se sabe qué va a pasar. Jorge Ponce, Ricardo Castella y Grison ponen música y humor al programa.</desc>
-    <episode-num system="xmltv_ns">0.331.0/1</episode-num>
-    <episode-num system="onscreen">S01E332</episode-num>
-  </programme>
-  <programme start="20260924212000 +0000" stop="20260924230000 +0000" channel="La1.es.scraper">
-    <title lang="es">El perro andaluz</title>
-    <desc lang="es">Manu Sánchez presenta este espacio que combina humor, música, entrevistas y actualidad. Cada entrega construye un universo propio en el que el humor funciona como punto de encuentro y como herramienta para mirar la realidad desde la sátira y la crítica social.</desc>
-    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
-    <episode-num system="onscreen">S01E12</episode-num>
-  </programme>
-  <programme start="20260924230000 +0000" stop="20260925003500 +0000" channel="La1.es.scraper">
-    <title lang="es">El perro andaluz</title>
-    <desc lang="es">Manu Sánchez presenta este espacio que combina humor, música, entrevistas y actualidad. Cada entrega construye un universo propio en el que el humor funciona como punto de encuentro y como herramienta para mirar la realidad desde la sátira y la crítica social.</desc>
-    <episode-num system="xmltv_ns">0.10.0/1</episode-num>
-    <episode-num system="onscreen">S01E11</episode-num>
+  <programme start="20260925220000 +0000" stop="20260926220000 +0000" channel="ArenaSport10.hr.scraper">
+    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
+    <desc lang="hr">NAJAVA PROGRAMA</desc>
+    <category lang="hr">Najava programa</category>
   </programme>
   <programme start="20260925003500 +0000" stop="20260925040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -1122,10 +1144,14 @@
   <programme start="20260925055000 +0000" stop="20260925083500 +0000" channel="La1.es.scraper">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
     <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
+    <episode-num system="xmltv_ns">0.189.0/1</episode-num>
+    <episode-num system="onscreen">S01E190</episode-num>
   </programme>
   <programme start="20260925083500 +0000" stop="20260925125500 +0000" channel="La1.es.scraper">
     <title lang="es">Mañaneros 360</title>
     <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
+    <episode-num system="xmltv_ns">0.23.0/1</episode-num>
+    <episode-num system="onscreen">S01E24</episode-num>
   </programme>
   <programme start="20260925125500 +0000" stop="20260925133000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1</title>
@@ -1146,26 +1172,26 @@
   <programme start="20260925135000 +0000" stop="20260925154500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
     <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
-    <episode-num system="xmltv_ns">0.183.0/1</episode-num>
-    <episode-num system="onscreen">S01E184</episode-num>
-  </programme>
-  <programme start="20260925135000 +0000" stop="20260925154500 +0000" channel="La1.es.scraper">
-    <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
-    <episode-num system="xmltv_ns">0.183.0/1</episode-num>
-    <episode-num system="onscreen">S01E184</episode-num>
+    <episode-num system="xmltv_ns">0.189.0/1</episode-num>
+    <episode-num system="onscreen">S01E190</episode-num>
   </programme>
   <programme start="20260925154500 +0000" stop="20260925163500 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
     <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <episode-num system="xmltv_ns">0.73.0/1</episode-num>
+    <episode-num system="onscreen">S01E74</episode-num>
   </programme>
   <programme start="20260925163500 +0000" stop="20260925173500 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
     <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+    <episode-num system="xmltv_ns">0.913.0/1</episode-num>
+    <episode-num system="onscreen">S01E914</episode-num>
   </programme>
   <programme start="20260925173500 +0000" stop="20260925182500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <episode-num system="xmltv_ns">0.463.0/1</episode-num>
+    <episode-num system="onscreen">S01E464</episode-num>
   </programme>
   <programme start="20260925182500 +0000" stop="20260925185500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
@@ -1188,28 +1214,44 @@
   <programme start="20260925200000 +0000" stop="20260925205500 +0000" channel="La1.es.scraper">
     <title lang="es">Los archivos secretos del No-Do</title>
     <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
   </programme>
   <programme start="20260925205500 +0000" stop="20260925215500 +0000" channel="La1.es.scraper">
+    <title lang="es">Cuelgamuros. Entre lo difícil y lo imposible</title>
+    <desc lang="es">Por primera vez se graban las criptas de Cuelgamuros, ocultas tras las paredes de las capillas de la basílica. Allí reposan más de 33.800 personas, en la mayor fosa común de España. Entramos con el equipo forense que, desde 2023, intenta identificar a 214 de ellas.</desc>
+  </programme>
+  <programme start="20260925215500 +0000" stop="20260925224500 +0000" channel="La1.es.scraper">
+    <title lang="es">Muerte de Franco: La Foto</title>
+    <desc lang="es">Franco al borde de la muerte, en el hospital de La Paz. Rodeado de máquinas, electrodos y tubos, con la boca abierta, y suena el 'flash'. Uno de sus familiares le hace la que será su foto más polémica, la única que él no consintió, y que nueve años después vería la luz.</desc>
+  </programme>
+  <programme start="20260925224500 +0000" stop="20260925234000 +0000" channel="La1.es.scraper">
+    <title lang="es">Los archivos secretos del No-Do</title>
+    <desc lang="es">¿Qué contendrá una película inédita titulada 'Franco en la pesca del atún'? ¿Por qué quedaron sin emitir imágenes de Grace Kelly en España? ¿Cómo es posible que el NO-DO grabara la miseria en el Pozo del Tío Raimundo?.</desc>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
+  </programme>
+  <programme start="20260925234000 +0000" stop="20260926003500 +0000" channel="La1.es.scraper">
+    <title lang="es">Los archivos secretos del No-Do</title>
+    <desc lang="es">¿Qué historia se oculta bajo el título 'Agrupación de Hombres no Demasiados Altos'? ¿Por qué el NO-DO rodó una visita de Carmen Polo a Lisboa para luego no publicarla?.</desc>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
+  </programme>
+  <programme start="20260926003500 +0000" stop="20260926013000 +0000" channel="La1.es.scraper">
     <title lang="es">Los archivos secretos del No-Do</title>
     <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
   </programme>
-  <programme start="20260925215500 +0000" stop="20260925225000 +0000" channel="La1.es.scraper">
-    <title lang="es">Los archivos secretos del No-Do</title>
-    <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
-  </programme>
-  <programme start="20260925225000 +0000" stop="20260925234500 +0000" channel="La1.es.scraper">
-    <title lang="es">Los archivos secretos del No-Do</title>
-    <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
-  </programme>
-  <programme start="20260925234500 +0000" stop="20260926004500 +0000" channel="La1.es.scraper">
-    <title lang="es">Los archivos secretos del No-Do</title>
-    <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
-  </programme>
-  <programme start="20260926004500 +0000" stop="20260926022000 +0000" channel="La1.es.scraper">
+  <programme start="20260926013000 +0000" stop="20260926030500 +0000" channel="La1.es.scraper">
     <title lang="es">El gran hotel Budapest</title>
     <desc lang="es">Las aventuras del legendario recepcionista de un famoso hotel europeo en el período de entreguerras y de un botones que se convierte en su protegido. Juntos vivirán acontecimientos insólitos como el robo y la recuperación de una pintura renacentista o el enfrentamiento por una inmensa fortuna familiar. Wes Anderson dirige, escribe el guion y produce esta divertida, tierna y maliciosa farsa sobre los convulsos primeros años del siglo XX en Europa, una comedia que ganó el Gran Premio del Jurado en Berlín, el Globo de oro a la mejor comedia o musical y el David de Donatello a la mejor película extranjera, además de cinco BAFTA (guion original, producción, vestuario, música y maquillaje y peluquería) y cuatro Oscar (vestuario, maquillaje y peluquería, música original y dirección artística).</desc>
   </programme>
-  <programme start="20260926022000 +0000" stop="20260926040000 +0000" channel="La1.es.scraper">
+  <programme start="20260926013000 +0000" stop="20260926030500 +0000" channel="La1.es.scraper">
+    <title lang="es">El gran hotel Budapest</title>
+    <desc lang="es">Las aventuras del legendario recepcionista de un famoso hotel europeo en el período de entreguerras y de un botones que se convierte en su protegido. Juntos vivirán acontecimientos insólitos como el robo y la recuperación de una pintura renacentista o el enfrentamiento por una inmensa fortuna familiar. Wes Anderson dirige, escribe el guion y produce esta divertida, tierna y maliciosa farsa sobre los convulsos primeros años del siglo XX en Europa, una comedia que ganó el Gran Premio del Jurado en Berlín, el Globo de oro a la mejor comedia o musical y el David de Donatello a la mejor película extranjera, además de cinco BAFTA (guion original, producción, vestuario, música y maquillaje y peluquería) y cuatro Oscar (vestuario, maquillaje y peluquería, música original y dirección artística).</desc>
+  </programme>
+  <programme start="20260926030500 +0000" stop="20260926040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
@@ -1218,6 +1260,86 @@
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
   <programme start="20260926050000 +0000" stop="20260926080000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260926080000 +0000" stop="20260926083000 +0000" channel="La1.es.scraper">
+    <title lang="es">Audiencia abierta</title>
+    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.</desc>
+  </programme>
+  <programme start="20260926083000 +0000" stop="20260926090000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260926090000 +0000" stop="20260926100500 +0000" channel="La1.es.scraper">
+    <title lang="es">Viaje al centro de la tele</title>
+    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
+  </programme>
+  <programme start="20260926100500 +0000" stop="20260926110500 +0000" channel="La1.es.scraper">
+    <title lang="es">Viaje al centro de la tele</title>
+    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
+  </programme>
+  <programme start="20260926110500 +0000" stop="20260926125500 +0000" channel="La1.es.scraper">
+    <title lang="es">D Corazón</title>
+    <desc lang="es">Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+  </programme>
+  <programme start="20260926125500 +0000" stop="20260926134500 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario 1 Fin de Semana</title>
+    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
+  </programme>
+  <programme start="20260926134500 +0000" stop="20260926135000 +0000" channel="La1.es.scraper">
+    <title lang="es">Deportes 1</title>
+    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
+  </programme>
+  <programme start="20260926135000 +0000" stop="20260926135500 +0000" channel="La1.es.scraper">
+    <title lang="es">La suerte en tus manos</title>
+    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
+  </programme>
+  <programme start="20260926135500 +0000" stop="20260926153000 +0000" channel="La1.es.scraper">
+    <title lang="es">Cine</title>
+    <desc lang="es">Cine</desc>
+  </programme>
+  <programme start="20260926153000 +0000" stop="20260926171000 +0000" channel="La1.es.scraper">
+    <title lang="es">Cine</title>
+    <desc lang="es">Cine</desc>
+  </programme>
+  <programme start="20260926171000 +0000" stop="20260926185500 +0000" channel="La1.es.scraper">
+    <title lang="es">Cine</title>
+    <desc lang="es">Cine</desc>
+  </programme>
+  <programme start="20260926185500 +0000" stop="20260926192500 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario 2 Fin de Semana</title>
+    <desc lang="es">Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
+  </programme>
+  <programme start="20260926192500 +0000" stop="20260926193000 +0000" channel="La1.es.scraper">
+    <title lang="es">Deportes 2</title>
+    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
+  </programme>
+  <programme start="20260926193000 +0000" stop="20260926200500 +0000" channel="La1.es.scraper">
+    <title lang="es">Informe Semanal</title>
+    <desc lang="es">El programa más veterano de la televisión nacional, y el más antiguo de su género en Europa, ofrece la emisión de reportajes de la actualidad internacional, nacional, social o cultural. A veces, los reportajes pueden llegar a tener hasta media hora de duración.</desc>
+  </programme>
+  <programme start="20260926200500 +0000" stop="20260926210000 +0000" channel="La1.es.scraper">
+    <title lang="es">La amiga estupenda</title>
+    <desc lang="es">Elena Greco, una anciana inmersa en una casa llena de libros, comienza a escribir una historia de amistad cuando Raffaella Cerullo, su mejor amiga de la infancia a quien siempre ha llamado Lila, parece haber desaparecido. La historia, que tuvo lugar en la década de 1950, se sitúa en la ciudad de Nápoles y cubre más de sesenta años de vida para tratar de contar el misterio de Lila. De producción italiana, esta serie dirigida por Saverio Costanzo adapta la exitosa tetralogía literaria "Dos amigas", compuesta por "La amiga estupenda", "Un mal nombre", "Las deudas del cuerpo" y "La niña perdida", de la escritora Elena Ferrante. La ficción se hizo con el Globo de Oro de Italia 2019 en la categoría de mejor actriz revelación, premiando a la joven Ludovica Nasti por su papel de Lila, así como la nominación a mejor serie de televisión, y con el premio a mejor serie de drama en el Festival de Televisión de Montecarlo.</desc>
+  </programme>
+  <programme start="20260926210000 +0000" stop="20260926215500 +0000" channel="La1.es.scraper">
+    <title lang="es">La amiga estupenda</title>
+    <desc lang="es">Elena Greco, una anciana inmersa en una casa llena de libros, comienza a escribir una historia de amistad cuando Raffaella Cerullo, su mejor amiga de la infancia a quien siempre ha llamado Lila, parece haber desaparecido. La historia, que tuvo lugar en la década de 1950, se sitúa en la ciudad de Nápoles y cubre más de sesenta años de vida para tratar de contar el misterio de Lila. De producción italiana, esta serie dirigida por Saverio Costanzo adapta la exitosa tetralogía literaria "Dos amigas", compuesta por "La amiga estupenda", "Un mal nombre", "Las deudas del cuerpo" y "La niña perdida", de la escritora Elena Ferrante. La ficción se hizo con el Globo de Oro de Italia 2019 en la categoría de mejor actriz revelación, premiando a la joven Ludovica Nasti por su papel de Lila, así como la nominación a mejor serie de televisión, y con el premio a mejor serie de drama en el Festival de Televisión de Montecarlo.</desc>
+  </programme>
+  <programme start="20260926215500 +0000" stop="20260926230000 +0000" channel="La1.es.scraper">
+    <title lang="es">La amiga estupenda</title>
+    <desc lang="es">Elena Greco, una anciana inmersa en una casa llena de libros, comienza a escribir una historia de amistad cuando Raffaella Cerullo, su mejor amiga de la infancia a quien siempre ha llamado Lila, parece haber desaparecido. La historia, que tuvo lugar en la década de 1950, se sitúa en la ciudad de Nápoles y cubre más de sesenta años de vida para tratar de contar el misterio de Lila. De producción italiana, esta serie dirigida por Saverio Costanzo adapta la exitosa tetralogía literaria "Dos amigas", compuesta por "La amiga estupenda", "Un mal nombre", "Las deudas del cuerpo" y "La niña perdida", de la escritora Elena Ferrante. La ficción se hizo con el Globo de Oro de Italia 2019 en la categoría de mejor actriz revelación, premiando a la joven Ludovica Nasti por su papel de Lila, así como la nominación a mejor serie de televisión, y con el premio a mejor serie de drama en el Festival de Televisión de Montecarlo.</desc>
+  </programme>
+  <programme start="20260926230000 +0000" stop="20260926235000 +0000" channel="La1.es.scraper">
+    <title lang="es">La amiga estupenda</title>
+    <desc lang="es">Elena Greco, una anciana inmersa en una casa llena de libros, comienza a escribir una historia de amistad cuando Raffaella Cerullo, su mejor amiga de la infancia a quien siempre ha llamado Lila, parece haber desaparecido. La historia, que tuvo lugar en la década de 1950, se sitúa en la ciudad de Nápoles y cubre más de sesenta años de vida para tratar de contar el misterio de Lila. De producción italiana, esta serie dirigida por Saverio Costanzo adapta la exitosa tetralogía literaria "Dos amigas", compuesta por "La amiga estupenda", "Un mal nombre", "Las deudas del cuerpo" y "La niña perdida", de la escritora Elena Ferrante. La ficción se hizo con el Globo de Oro de Italia 2019 en la categoría de mejor actriz revelación, premiando a la joven Ludovica Nasti por su papel de Lila, así como la nominación a mejor serie de televisión, y con el premio a mejor serie de drama en el Festival de Televisión de Montecarlo.</desc>
+  </programme>
+  <programme start="20260926235000 +0000" stop="20260927005500 +0000" channel="La1.es.scraper">
+    <title lang="es">La amiga estupenda</title>
+    <desc lang="es">Elena Greco, una anciana inmersa en una casa llena de libros, comienza a escribir una historia de amistad cuando Raffaella Cerullo, su mejor amiga de la infancia a quien siempre ha llamado Lila, parece haber desaparecido. La historia, que tuvo lugar en la década de 1950, se sitúa en la ciudad de Nápoles y cubre más de sesenta años de vida para tratar de contar el misterio de Lila. De producción italiana, esta serie dirigida por Saverio Costanzo adapta la exitosa tetralogía literaria "Dos amigas", compuesta por "La amiga estupenda", "Un mal nombre", "Las deudas del cuerpo" y "La niña perdida", de la escritora Elena Ferrante. La ficción se hizo con el Globo de Oro de Italia 2019 en la categoría de mejor actriz revelación, premiando a la joven Ludovica Nasti por su papel de Lila, así como la nominación a mejor serie de televisión, y con el premio a mejor serie de drama en el Festival de Televisión de Montecarlo.</desc>
+  </programme>
+  <programme start="20260927005500 +0000" stop="20260927040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
