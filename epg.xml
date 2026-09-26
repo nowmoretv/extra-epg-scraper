@@ -79,8 +79,8 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260926113000 +0000" stop="20260926133000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">LEAGUE TWO: CRAWLEY - BARNET</title>
-    <desc lang="hr">CRAWLEY - BARNET</desc>
+    <title lang="hr">EUROPA LIGA: HAPOEL - DINAMO</title>
+    <desc lang="hr">HAPOEL - DINAMO</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260926133000 +0000" stop="20260926150000 +0000" channel="ArenaSport1.hr.scraper">
@@ -1128,60 +1128,6 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20260926013000 +0000" stop="20260926030500 +0000" channel="La1.es.scraper">
-    <title lang="es">El gran hotel Budapest</title>
-    <desc lang="es">Las aventuras del legendario recepcionista de un famoso hotel europeo en el período de entreguerras y de un botones que se convierte en su protegido. Juntos vivirán acontecimientos insólitos como el robo y la recuperación de una pintura renacentista o el enfrentamiento por una inmensa fortuna familiar. Wes Anderson dirige, escribe el guion y produce esta divertida, tierna y maliciosa farsa sobre los convulsos primeros años del siglo XX en Europa, una comedia que ganó el Gran Premio del Jurado en Berlín, el Globo de oro a la mejor comedia o musical y el David de Donatello a la mejor película extranjera, además de cinco BAFTA (guion original, producción, vestuario, música y maquillaje y peluquería) y cuatro Oscar (vestuario, maquillaje y peluquería, música original y dirección artística).</desc>
-  </programme>
-  <programme start="20260926030500 +0000" stop="20260926040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260926040000 +0000" stop="20260926050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260926050000 +0000" stop="20260926080000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260926080000 +0000" stop="20260926083000 +0000" channel="La1.es.scraper">
-    <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.</desc>
-  </programme>
-  <programme start="20260926083000 +0000" stop="20260926090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260926090000 +0000" stop="20260926100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
-    <episode-num system="onscreen">S01E09</episode-num>
-  </programme>
-  <programme start="20260926100000 +0000" stop="20260926110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-  </programme>
-  <programme start="20260926110500 +0000" stop="20260926125500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.274.0/1</episode-num>
-    <episode-num system="onscreen">S01E275</episode-num>
-  </programme>
-  <programme start="20260926125500 +0000" stop="20260926134500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20260926134500 +0000" stop="20260926135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20260926135000 +0000" stop="20260926135500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
   <programme start="20260926135500 +0000" stop="20260926153000 +0000" channel="La1.es.scraper">
     <title lang="es">Jefa por accidente</title>
     <desc lang="es">Maya Davilla es una mujer inteligente que ha trabajado diligentemente en una tienda local, solo para que un puesto directivo le sea negado por falta de un título universitario. Después de un caso de identidad equivocada, Maya impresiona al CEO de una de las mayores corporaciones en Nueva York y consigue un trabajo en su compañía. Ante la increíble oportunidad de tener la carrera y el estilo de vida que siempre soñó, debe demostrar que su inteligencia puede ser tan valiosa como un título universitario y que nunca es demasiado tarde para una segunda oportunidad.</desc>
@@ -1234,10 +1180,6 @@
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20260927011500 +0000" stop="20260927040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
   <programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
@@ -1280,6 +1222,10 @@
     <title lang="es">Gladiator (El gladiador)</title>
     <desc lang="es">El general romano Máximo ha vuelto victorioso del campo de batalla. Ahora sólo sueña con el regreso al hogar junto a su esposa e hijo, pero el agonizante emperador Marco Aurelio tiene una nueva misión para él: heredar su corona. Cómodo, el hijo del emperador, celoso del favor que Máximo recibe de su padre, ordena la ejecución de Máximo y de su familia. Tras cuatro décadas sin que el mundo del celuloide se ocupase de la época clásica romana, el realizador estadounidense Ridley Scott decidió embarcarse en un proyecto espectacular en el que las viejas cuadrigas y las legiones imperiales volvían a la carga en un largometraje enriquecido con increíbles efectos digitales. Así, "Gladiator (El gladiador)" se convirtió en la película más premiada en la edición de los Oscar del año 2001, obteniendo los premios de mejor película, actor principal (Russell Crowe), efectos especiales, diseño de vestuario y sonido.</desc>
   </programme>
+  <programme start="20260927135500 +0000" stop="20260927162000 +0000" channel="La1.es.scraper">
+    <title lang="es">Gladiator (El gladiador)</title>
+    <desc lang="es">El general romano Máximo ha vuelto victorioso del campo de batalla. Ahora sólo sueña con el regreso al hogar junto a su esposa e hijo, pero el agonizante emperador Marco Aurelio tiene una nueva misión para él: heredar su corona. Cómodo, el hijo del emperador, celoso del favor que Máximo recibe de su padre, ordena la ejecución de Máximo y de su familia. Tras cuatro décadas sin que el mundo del celuloide se ocupase de la época clásica romana, el realizador estadounidense Ridley Scott decidió embarcarse en un proyecto espectacular en el que las viejas cuadrigas y las legiones imperiales volvían a la carga en un largometraje enriquecido con increíbles efectos digitales. Así, "Gladiator (El gladiador)" se convirtió en la película más premiada en la edición de los Oscar del año 2001, obteniendo los premios de mejor película, actor principal (Russell Crowe), efectos especiales, diseño de vestuario y sonido.</desc>
+  </programme>
   <programme start="20260927162000 +0000" stop="20260927183500 +0000" channel="La1.es.scraper">
     <title lang="es">El reino de los cielos</title>
     <desc lang="es">Corre el año 1186. Godofredo de Ibelin, caballero comprometido con el mantenimiento de la paz en Tierra Santa, emprende la búsqueda de su hijo ilegítimo Balian, joven herrero francés, al que encuentra roto de dolor por la muerte de su mujer y su hijo. El director británico Ridley Scott dirige al galán Orlando Bloom y a un reparto de lujo, con Jeremy Irons y Liam Neeson a la cabeza, en esta superproducción épica ambientada en la época de las Cruzadas. Orlando Bloom encarna en esta cinta de aventuras al joven Balian, un papel pensado inicialmente para Russell Crowe. Junto a él, Liam Neeson como Godofredo, el padre de Balian; Edward Norton como el leproso rey Balduino; Jeremy Irons como Tiberias, su consejero; y Eva Green como la esposa del monarca. El holgado presupuesto con el que contó Scott (120 millones de euros) le permitió recrear con veracidad la grandeza de un periodo histórico y, a la vez, hacer un alegato a favor de la pacífica convivencia de culturas y religiones.</desc>
@@ -1305,5 +1251,15 @@
   <programme start="20260928021000 +0000" stop="20260928040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260928040000 +0000" stop="20260928055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20260928055000 +0000" stop="20260928083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
+    <episode-num system="xmltv_ns">0.190.0/1</episode-num>
+    <episode-num system="onscreen">S01E191</episode-num>
   </programme>
 </tv>
