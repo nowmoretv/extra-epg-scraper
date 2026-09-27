@@ -79,8 +79,8 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20260927100000 +0000" stop="20260927120000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">EUROPSKO PRVENSTVO M: UTAKMICA ZA 3.MJESTO</title>
-    <desc lang="hr">UTAKMICA ZA 3.MJESTO</desc>
+    <title lang="hr">EUROPSKO PRVENSTVO M: UTAKMICA ZA 3. MJESTO</title>
+    <desc lang="hr">UTAKMICA ZA 3. MJESTO</desc>
     <category lang="hr">Odbojka</category>
   </programme>
   <programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="ArenaSport1.hr.scraper">
@@ -89,9 +89,9 @@
     <category lang="hr">Emisija</category>
   </programme>
   <programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">RED BULL: GAMES OF STRANGE S02EP02</title>
-    <desc lang="hr">GAMES OF STRANGE S02EP02</desc>
-    <category lang="hr">Dokumentarni film</category>
+    <title lang="hr">SPORTSKE IGRE MLADIH: SPORTSKE IGRE MLADIH EP.6</title>
+    <desc lang="hr">SPORTSKE IGRE MLADIH EP.6</desc>
+    <category lang="hr">Emisija</category>
   </programme>
   <programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="ArenaSport1.hr.scraper">
     <title lang="hr">TALIJANSKA LIGA: PREGLED KOLA</title>
@@ -663,48 +663,6 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20260927011500 +0000" stop="20260927040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260927040000 +0000" stop="20260927050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260927050000 +0000" stop="20260927090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20260927090000 +0000" stop="20260927095500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
-    <episode-num system="onscreen">S01E13</episode-num>
-  </programme>
-  <programme start="20260927095500 +0000" stop="20260927110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20260927110500 +0000" stop="20260927125500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.275.0/1</episode-num>
-    <episode-num system="onscreen">S01E276</episode-num>
-  </programme>
-  <programme start="20260927125500 +0000" stop="20260927134500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20260927134500 +0000" stop="20260927135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20260927135000 +0000" stop="20260927135500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
   <programme start="20260927135500 +0000" stop="20260927162000 +0000" channel="La1.es.scraper">
     <title lang="es">Gladiator (El gladiador)</title>
     <desc lang="es">El general romano Máximo ha vuelto victorioso del campo de batalla. Ahora sólo sueña con el regreso al hogar junto a su esposa e hijo, pero el agonizante emperador Marco Aurelio tiene una nueva misión para él: heredar su corona. Cómodo, el hijo del emperador, celoso del favor que Máximo recibe de su padre, ordena la ejecución de Máximo y de su familia. Tras cuatro décadas sin que el mundo del celuloide se ocupase de la época clásica romana, el realizador estadounidense Ridley Scott decidió embarcarse en un proyecto espectacular en el que las viejas cuadrigas y las legiones imperiales volvían a la carga en un largometraje enriquecido con increíbles efectos digitales. Así, "Gladiator (El gladiador)" se convirtió en la película más premiada en la edición de los Oscar del año 2001, obteniendo los premios de mejor película, actor principal (Russell Crowe), efectos especiales, diseño de vestuario y sonido.</desc>
@@ -730,10 +688,6 @@
   <programme start="20260928003500 +0000" stop="20260928021000 +0000" channel="La1.es.scraper">
     <title lang="es">Haven</title>
     <desc lang="es">Frank E. Flowers dirigió con gran maestría este thriller, del que también escribió el guión. Cuando Carl Ridley (Bill Paxton), un corrupto hombre de negocios de Miami, huye a las islas Caimán junto con su hija Pippa (Agnes Bruckner) y un millón de dólares de dinero sucio, el infierno resultante amenaza con acabar con el padre, la hija y algunos inocentes desprevenidos. En el reparto también figuran Orlando Bloom (trilogías de "El señor de los anillos" y "Piratas del Caribe") y Zoe Saldana, que interpretan a una pareja de jóvenes amantes en secreto; Stephen Dillane, un corrupto agente financiero al que Carl recurre para blanquear su dinero; y Victor Rasuk, un ladrón nativo de la isla que provocará una cadena de violencia. La película presenta de forma ingeniosa la historia de cómo las vidas de todos estos personajes se entrecruzan, manteniendo el interés del espectador de principio a fin.</desc>
-  </programme>
-  <programme start="20260928021000 +0000" stop="20260928040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
   <programme start="20260928021000 +0000" stop="20260928040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -770,6 +724,12 @@
   <programme start="20260928134000 +0000" stop="20260928135000 +0000" channel="La1.es.scraper">
     <title lang="es">Informativo territorial 2</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
+  </programme>
+  <programme start="20260928135000 +0000" stop="20260928154500 +0000" channel="La1.es.scraper">
+    <title lang="es">Directo al grano</title>
+    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <episode-num system="xmltv_ns">0.190.0/1</episode-num>
+    <episode-num system="onscreen">S01E191</episode-num>
   </programme>
   <programme start="20260928135000 +0000" stop="20260928154500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
@@ -826,5 +786,17 @@
     <desc lang="es">Pepe Rodríguez, Jordi Cruz y Marta Sanahuja dan una segunda oportunidad a participantes famosos de las ediciones anteriores.</desc>
     <episode-num system="xmltv_ns">0.2.0/1</episode-num>
     <episode-num system="onscreen">S01E03</episode-num>
+  </programme>
+  <programme start="20260929030500 +0000" stop="20260929040000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20260929040000 +0000" stop="20260929055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20260929055000 +0000" stop="20260929083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
   </programme>
 </tv>
