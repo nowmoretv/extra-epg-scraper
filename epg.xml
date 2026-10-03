@@ -1118,44 +1118,6 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261003011000 +0000" stop="20261003025500 +0000" channel="La1.es.scraper">
-    <title lang="es">La crónica francesa del Liberty, Kansas Evening Sun</title>
-    <desc lang="es">En "La crónica francesa", el visionario director Wes Anderson da vida a los artículos del último número de una revista estadounidense publicada en Ennui-sur-Blasé, una ciudad francesa ficticia del siglo XX. En esta declaración de amor al periodismo, brillan con luz propia las estrellas internacionales Benicio Del Toro, Adrien Brody, Tilda Swinton, Timothée Chalamet, Jeffrey Wright, Frances McDormand, Léa Seydoux, Stephen Park, Owen Wilson, Willem Dafoe, Lyna Khoudri, Mathieu Amalric, Christoph Waltz, Edward Norton, Jason Schwartzman, Henry Winkler, Anjelica Huston y Bill Murray.</desc>
-  </programme>
-  <programme start="20261003025500 +0000" stop="20261003040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261003040000 +0000" stop="20261003050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261003050000 +0000" stop="20261003090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261003090000 +0000" stop="20261003110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261003110500 +0000" stop="20261003125500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.276.0/1</episode-num>
-    <episode-num system="onscreen">S01E277</episode-num>
-  </programme>
-  <programme start="20261003125500 +0000" stop="20261003134500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20261003134500 +0000" stop="20261003135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261003135000 +0000" stop="20261003135500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
   <programme start="20261003135500 +0000" stop="20261003154000 +0000" channel="La1.es.scraper">
     <title lang="es">Lo mejor de mí</title>
     <desc lang="es">Tras varias décadas separados, Amanda y Dawson se reencuentran en su pueblo natal para acudir al funeral de un amigo común.</desc>
@@ -1185,10 +1147,6 @@
   <programme start="20261004000000 +0000" stop="20261004014500 +0000" channel="La1.es.scraper">
     <title lang="es">El imperio de la luz</title>
     <desc lang="es">Sam Mendes, guionista y director ganador de varios premios Óscar, nos ofrece "El imperio de la luz", un emocionante drama sobre el poder de la conexión humana en tiempos turbulentos. La película, que tiene lugar en torno a un cine en decadencia de una población costera inglesa de principios de los años 80, sigue los pasos de Hilary, la encargada, que sufre problemas de salud mental, y Stephen, un nuevo empleado que ansía escapar de ese lugar tan provinciano en el que tiene problemas a diario. Tanto Hilary como Stephen acaban sintiéndose más cómodos gracias a su improbable y conmovedora relación, y viven el poder curativo de la música, el cine y la comunidad.</desc>
-  </programme>
-  <programme start="20261004014500 +0000" stop="20261004040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
   <programme start="20261004014500 +0000" stop="20261004040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -1238,6 +1196,10 @@
     <title lang="es">Sígueme el rollo</title>
     <desc lang="es">Un cirujano plástico, que mantiene un romance con una maestra de escuela mucho menor que él, convence a su leal asistente para que finja ser su futura exmujer y cubrir una mentira tonta. Pero una mentira lleva a otra, y hasta los hijos de la asistente terminan involucrados en la trama. Finalmente, todos terminan viajando a Hawái durante un fin de semana que les cambiará por completo la vida. Comedia, amor y enredos en este 'remake' de la película "Flor de cactus", dirigida en 1969 por Gene Saks y protagonizada por Walter Matthau, Ingrid Bergman y Goldie Hawn, a su vez basada en la obra de teatro de Pierre Barillet y Jean-Pierre Grédy. En esta ocasión son Adam Sandler, Jennifer Aniston y Nicole Kidman, a las órdenes del director Dennis Dugan, los encargados de dar vida a esta comedia romántica llena de enredos.</desc>
   </programme>
+  <programme start="20261004135500 +0000" stop="20261004154500 +0000" channel="La1.es.scraper">
+    <title lang="es">Sígueme el rollo</title>
+    <desc lang="es">Un cirujano plástico, que mantiene un romance con una maestra de escuela mucho menor que él, convence a su leal asistente para que finja ser su futura exmujer y cubrir una mentira tonta. Pero una mentira lleva a otra, y hasta los hijos de la asistente terminan involucrados en la trama. Finalmente, todos terminan viajando a Hawái durante un fin de semana que les cambiará por completo la vida. Comedia, amor y enredos en este 'remake' de la película "Flor de cactus", dirigida en 1969 por Gene Saks y protagonizada por Walter Matthau, Ingrid Bergman y Goldie Hawn, a su vez basada en la obra de teatro de Pierre Barillet y Jean-Pierre Grédy. En esta ocasión son Adam Sandler, Jennifer Aniston y Nicole Kidman, a las órdenes del director Dennis Dugan, los encargados de dar vida a esta comedia romántica llena de enredos.</desc>
+  </programme>
   <programme start="20261004154500 +0000" stop="20261004170000 +0000" channel="La1.es.scraper">
     <title lang="es">Mi segunda vez</title>
     <desc lang="es">Sandy, una sexy madre de 40 años, descubre que su marido la engaña y su mundo, aparentemente perfecto, se viene abajo. Sin pensárselo dos veces, se traslada a Nueva York con sus dos hijos con ánimo de rehacer su vida. Allí, conoce a Aram, un encantador licenciado universitario de 24 años que trabaja en la cafetería bajo el apartamento que alquila Sandy. Cuando Sandy encuentra trabajo, le pide a Aram que haga de canguro de sus hijos. La carrera de Sandy empieza a despegar y Aram se va convirtiendo en una parte cada vez más importante de su vida. Es divertido y sus hijos lo adoran. Muy pronto, esta improvisada familia va tomando forma y, aunque hay una larga lista de razones por las que no deberían estar juntos, se enamoran. Sandy y Aram se topan con la resistencia de familiares y amigos a su nueva relación y ambos tendrán que decidir si lo que tienen es algo simplemente divertido y temporal o puede tratarse de algo realmente duradero.</desc>
@@ -1269,5 +1231,15 @@
   <programme start="20261005020500 +0000" stop="20261005040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261005040000 +0000" stop="20261005055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20261005055000 +0000" stop="20261005083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
+    <episode-num system="xmltv_ns">0.195.0/1</episode-num>
+    <episode-num system="onscreen">S01E196</episode-num>
   </programme>
 </tv>
