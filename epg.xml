@@ -461,7 +461,7 @@
   <programme start="20261006163000 +0000" stop="20261006173000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">LEN LIGA PRVAKA: JADRAN HN - SABADELL</title>
     <desc lang="hr">JADRAN HN - SABADELL</desc>
-    <category lang="hr">vaterpolo</category>
+    <category lang="hr">Vaterpolo</category>
   </programme>
   <programme start="20261006173000 +0000" stop="20261006183000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">RED BULL: THE UNRIDEABLES</title>
@@ -469,9 +469,9 @@
     <category lang="hr">Dokumentarni film</category>
   </programme>
   <programme start="20261006183000 +0000" stop="20261006200000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">LEN LIGA PRVAKA: ORADEA - RADNIČKI</title>
-    <desc lang="hr">ORADEA - RADNIČKI</desc>
-    <category lang="hr">vaterpolo</category>
+    <title lang="hr">TALIJANSKA LIGA: FIORENTINA - NAPOLI</title>
+    <desc lang="hr">FIORENTINA - NAPOLI</desc>
+    <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261006200000 +0000" stop="20261006220000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">LIGA PRVAKA: COMO - LEIPZIG</title>
@@ -723,15 +723,15 @@
     <desc lang="hr">PARIS FC - STRASBOURG</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261006150000 +0000" stop="20261006170000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">PREMIER LEAGUE: BOURNEMOUTH - LIVERPOOL</title>
-    <desc lang="hr">BOURNEMOUTH - LIVERPOOL</desc>
-    <category lang="hr">Nogomet</category>
+  <programme start="20261006150000 +0000" stop="20261006163000 +0000" channel="ArenaSport6.hr.scraper">
+    <title lang="hr">DOKUMENTARNI FILM: ANGRY SKY</title>
+    <desc lang="hr">ANGRY SKY</desc>
+    <category lang="hr">Dokumentarni film</category>
   </programme>
-  <programme start="20261006170000 +0000" stop="20261006190000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">TALIJANSKA LIGA: FIORENTINA - NAPOLI</title>
-    <desc lang="hr">FIORENTINA - NAPOLI</desc>
-    <category lang="hr">Nogomet</category>
+  <programme start="20261006163000 +0000" stop="20261006190000 +0000" channel="ArenaSport6.hr.scraper">
+    <title lang="hr">LEN LIGA PRVAKA: ORADEA - RADNIČKI</title>
+    <desc lang="hr">ORADEA - RADNIČKI</desc>
+    <category lang="hr">Vaterpolo</category>
   </programme>
   <programme start="20261006190000 +0000" stop="20261006210000 +0000" channel="ArenaSport6.hr.scraper">
     <title lang="hr">SVJETSKO PRVENSTVO Ž: FINALE</title>
@@ -1063,60 +1063,6 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261005021000 +0000" stop="20261005040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261005040000 +0000" stop="20261005055000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261005055000 +0000" stop="20261005083500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.195.0/1</episode-num>
-    <episode-num system="onscreen">S01E196</episode-num>
-  </programme>
-  <programme start="20261005083500 +0000" stop="20261005125500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-    <episode-num system="xmltv_ns">0.30.0/1</episode-num>
-    <episode-num system="onscreen">S01E31</episode-num>
-  </programme>
-  <programme start="20261005125500 +0000" stop="20261005133000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261005133000 +0000" stop="20261005133500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261005133500 +0000" stop="20261005134000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261005134000 +0000" stop="20261005135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
-  <programme start="20261005135000 +0000" stop="20261005154500 +0000" channel="La1.es.scraper">
-    <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
-    <episode-num system="xmltv_ns">0.195.0/1</episode-num>
-    <episode-num system="onscreen">S01E196</episode-num>
-  </programme>
-  <programme start="20261005154500 +0000" stop="20261005163500 +0000" channel="La1.es.scraper">
-    <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Manuela se recrea ante Luisa tras la ruptura con Alejo. Mientras, José Luis acusa a su hijo de buscar a Adriana en Rosalía. Y, viendo sufrir a Mercedes, Victoria toma una decisión que puede cambiarlo todo… ¿pero mantendrá su palabra?.</desc>
-    <episode-num system="xmltv_ns">0.78.0/1</episode-num>
-    <episode-num system="onscreen">S01E79</episode-num>
-  </programme>
-  <programme start="20261005163500 +0000" stop="20261005173500 +0000" channel="La1.es.scraper">
-    <title lang="es">La Promesa</title>
-    <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
-    <episode-num system="xmltv_ns">0.920.0/1</episode-num>
-    <episode-num system="onscreen">S01E921</episode-num>
-  </programme>
   <programme start="20261005173500 +0000" stop="20261005182500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
@@ -1148,12 +1094,6 @@
     <desc lang="es">Los aspirantes probarán su puntería con el juego Food pong para conseguir alimentos y utensilios con los que cocinar. El mejor ganará el pin de la inmunidad. En el Real Club Náutico de Madrid, realizarán un servicio de Ramón Freixa.</desc>
     <episode-num system="xmltv_ns">0.4.0/1</episode-num>
     <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20261006001000 +0000" stop="20261006032000 +0000" channel="La1.es.scraper">
-    <title lang="es">MasterChef Celebrity Legends</title>
-    <desc lang="es">Los aspirantes jugarán a ''Lobos'', una partida en la que algunos sabotearán a sus compañeros en secreto. El mejor ganará el pin de la inmunidad infiel.</desc>
-    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
-    <episode-num system="onscreen">S01E04</episode-num>
   </programme>
   <programme start="20261006001000 +0000" stop="20261006032000 +0000" channel="La1.es.scraper">
     <title lang="es">MasterChef Celebrity Legends</title>
@@ -1209,6 +1149,10 @@
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
   </programme>
+  <programme start="20261006173500 +0000" stop="20261006182500 +0000" channel="La1.es.scraper">
+    <title lang="es">Malas lenguas</title>
+    <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+  </programme>
   <programme start="20261006182500 +0000" stop="20261006185500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
@@ -1236,5 +1180,13 @@
   <programme start="20261007011500 +0000" stop="20261007040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261007040000 +0000" stop="20261007055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20261007055000 +0000" stop="20261007083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
   </programme>
 </tv>
