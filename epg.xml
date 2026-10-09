@@ -1183,57 +1183,23 @@
     <desc lang="hr">JAGIELLONIA - GORNIK Z.</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261009005900 +0000" stop="20261009040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261009040000 +0000" stop="20261009055000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261009055000 +0000" stop="20261009083500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.199.0/1</episode-num>
-    <episode-num system="onscreen">S01E200</episode-num>
-  </programme>
-  <programme start="20261009083500 +0000" stop="20261009125500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-  </programme>
-  <programme start="20261009125500 +0000" stop="20261009133000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261009133000 +0000" stop="20261009133500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261009133500 +0000" stop="20261009134000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261009134000 +0000" stop="20261009135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
-  <programme start="20261009135000 +0000" stop="20261009154500 +0000" channel="La1.es.scraper">
-    <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
-    <episode-num system="xmltv_ns">0.199.0/1</episode-num>
-    <episode-num system="onscreen">S01E200</episode-num>
-  </programme>
   <programme start="20261009154500 +0000" stop="20261009163500 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc lang="es">Manuela se queda sin salida ante la dura reacción de su padre. Mientras, ajenos a todo, Alejo propone a Luisa adelantar su boda. Y Rosalía, desbordada por lo que siente por Rafael, se rompe con su hermana… ¿qué decisión tomará ahora?.</desc>
+    <episode-num system="xmltv_ns">0.82.0/1</episode-num>
+    <episode-num system="onscreen">S01E83</episode-num>
   </programme>
   <programme start="20261009163500 +0000" stop="20261009173500 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
-    <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+    <desc lang="es">Ángela, preocupada, llama a Manuel desde Lisboa: Curro está muy raro y no sabe por qué. El heredero del marquesado también lo notó la última vez que vio al muchacho y pide a la joven que aguante: ¡va para allá!.</desc>
+    <episode-num system="xmltv_ns">0.924.0/1</episode-num>
+    <episode-num system="onscreen">S01E925</episode-num>
   </programme>
   <programme start="20261009173500 +0000" stop="20261009182500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <episode-num system="xmltv_ns">0.473.0/1</episode-num>
+    <episode-num system="onscreen">S01E474</episode-num>
   </programme>
   <programme start="20261009182500 +0000" stop="20261009185500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
@@ -1255,7 +1221,9 @@
   </programme>
   <programme start="20261009200000 +0000" stop="20261009205500 +0000" channel="La1.es.scraper">
     <title lang="es">Los archivos secretos del No-Do</title>
-    <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
+    <desc lang="es">¿Cómo eran las vacaciones de Felipe VI de niño? ¿Qué le ocurrió al torero Jaime Ostos? ¿Cómo fue la retirada española del Sáhara? ¿Cómo se anunciaban las rebajas en los años 60?.</desc>
+    <episode-num system="xmltv_ns">0.10.0/1</episode-num>
+    <episode-num system="onscreen">S01E11</episode-num>
   </programme>
   <programme start="20261009205500 +0000" stop="20261009224000 +0000" channel="La1.es.scraper">
     <title lang="es">Colón ADN. Su verdadero origen</title>
@@ -1272,10 +1240,6 @@
     <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
     <episode-num system="xmltv_ns">0.4.0/1</episode-num>
     <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20261010003500 +0000" stop="20261010040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
   <programme start="20261010003500 +0000" stop="20261010040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -1307,7 +1271,7 @@
   </programme>
   <programme start="20261010110500 +0000" stop="20261010125500 +0000" channel="La1.es.scraper">
     <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
   </programme>
   <programme start="20261010125500 +0000" stop="20261010134500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
@@ -1327,7 +1291,11 @@
   </programme>
   <programme start="20261010154500 +0000" stop="20261010171000 +0000" channel="La1.es.scraper">
     <title lang="es">Dúplex</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">Alex y Nancy son una joven y dinámica pareja neoyorquina con un futuro prometedor. Nancy trabaja para una prestigiosa revista, y Alex escribe su segundo libro; y lo que es más importante, se tienen el uno al otro. Sin embargo, hay algo de lo que no disponen: un hogar propio. Un buen día un agente inmobiliario les lleva a Brooklyn, donde inesperadamente dan con la casa de sus sueños: un encantador dúplex.</desc>
+  </programme>
+  <programme start="20261010154500 +0000" stop="20261010171000 +0000" channel="La1.es.scraper">
+    <title lang="es">Dúplex</title>
+    <desc lang="es">Alex y Nancy son una joven y dinámica pareja neoyorquina con un futuro prometedor. Nancy trabaja para una prestigiosa revista, y Alex escribe su segundo libro; y lo que es más importante, se tienen el uno al otro. Sin embargo, hay algo de lo que no disponen: un hogar propio. Un buen día un agente inmobiliario les lleva a Brooklyn, donde inesperadamente dan con la casa de sus sueños: un encantador dúplex.</desc>
   </programme>
   <programme start="20261010171000 +0000" stop="20261010185500 +0000" channel="La1.es.scraper">
     <title lang="es">Cosas nuestras</title>
@@ -1350,6 +1318,14 @@
     <desc lang="es">Jesús Cintora presenta este magacín de actualidad en su versión nocturna y de fin de semana, donde, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
   </programme>
   <programme start="20261011000000 +0000" stop="20261011040000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261011040000 +0000" stop="20261011050000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261011050000 +0000" stop="20261011090500 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
