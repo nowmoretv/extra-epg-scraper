@@ -1223,54 +1223,6 @@
     <desc lang="hr">ČELIK - SARAJEVO</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261010004100 +0000" stop="20261010040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261010040000 +0000" stop="20261010050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261010050000 +0000" stop="20261010080000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261010080000 +0000" stop="20261010083000 +0000" channel="La1.es.scraper">
-    <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.</desc>
-  </programme>
-  <programme start="20261010083000 +0000" stop="20261010090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261010090000 +0000" stop="20261010100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <episode-num system="xmltv_ns">0.16.0/1</episode-num>
-    <episode-num system="onscreen">S01E17</episode-num>
-  </programme>
-  <programme start="20261010100000 +0000" stop="20261010110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <episode-num system="xmltv_ns">0.14.0/1</episode-num>
-    <episode-num system="onscreen">S01E15</episode-num>
-  </programme>
-  <programme start="20261010110500 +0000" stop="20261010125500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-  </programme>
-  <programme start="20261010125500 +0000" stop="20261010134500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20261010134500 +0000" stop="20261010135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261010135000 +0000" stop="20261010135500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
   <programme start="20261010135500 +0000" stop="20261010154500 +0000" channel="La1.es.scraper">
     <title lang="es">Familia al instante</title>
     <desc lang="es">Pete y Ellie son una joven y acomodada pareja que busca ampliar su familia. Cargados de esperanza e ilusión, acuden a una agencia de adopción en la que son preparados para convertirse en padres de acogida. Divertida comedia con tintes dramáticos basada en la propia experiencia del director Sean Anders, quien se convirtió en padre adoptivo de tres niños hispanos. El cineasta, experto en abordar con humor y soltura los conflictos derivados de las relaciones familiares, también se hizo cargo del guion de la cinta junto a su socio habitual John Morris, con el que colaboró en títulos como ''Sex Drive'' o ''Cómo acabar sin tu jefe 2'', entre otros. Para los papeles principales confió en la vis cómica de Rose Byrne (''Insidious'') y Mark Wahlberg, con el que ya había trabajado en ''Padres por desigual'' y su posterior continuación. Completa el reparto la carismática Octavia Spencer (''Criadas y señoras'') e Isabela Moner (''Dora y la ciudad perdida'').</desc>
@@ -1282,6 +1234,8 @@
   <programme start="20261010170000 +0000" stop="20261010185500 +0000" channel="La1.es.scraper">
     <title lang="es">Cosas nuestras</title>
     <desc lang="es">Formato presentado por Aida Bao y Aitor Albizua que quiere convertirse en una cita imprescindible para los espectadores en la que encontrarán actualidad y entretenimiento de calidad. Un punto de encuentro para descubrir y entender lo que ocurre a nuestro alrededor.</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
   </programme>
   <programme start="20261010185500 +0000" stop="20261010192500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2 Fin de Semana</title>
@@ -1302,10 +1256,6 @@
     <desc lang="es">Jesús Cintora presenta este magacín de actualidad en su versión nocturna y de fin de semana, donde, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
     <episode-num system="xmltv_ns">0.24.0/1</episode-num>
     <episode-num system="onscreen">S01E25</episode-num>
-  </programme>
-  <programme start="20261011000000 +0000" stop="20261011040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
   <programme start="20261011000000 +0000" stop="20261011040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -1351,11 +1301,15 @@
   </programme>
   <programme start="20261011135500 +0000" stop="20261011152000 +0000" channel="La1.es.scraper">
     <title lang="es">Una villa en la Toscana</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">Liam Neeson y su hijo Micheál Richardson vuelven a interpretar sus roles en la vida real (ya lo hicieron en "Venganza bajo cero") en esta tierna y amable comedia dramática familiar. Neeson da vida a Robert, un artista bohemio de Londres que viaja a la Toscana para vender una villa que heredó tras la muerte de su esposa. En la operación también participa su hijo Jack (Richardson), en pleno proceso de divorcio, con quien Robert nunca ha llegado a entenderse. Debut como director y guionista de largometrajes del actor James D'Arcy, Neeson define "Una villa en la Toscana" como "una gran historia sobre la familia y el amor... y la compasión y la pérdida, y el humor...".</desc>
+  </programme>
+  <programme start="20261011135500 +0000" stop="20261011152000 +0000" channel="La1.es.scraper">
+    <title lang="es">Una villa en la Toscana</title>
+    <desc lang="es">Liam Neeson y su hijo Micheál Richardson vuelven a interpretar sus roles en la vida real (ya lo hicieron en "Venganza bajo cero") en esta tierna y amable comedia dramática familiar. Neeson da vida a Robert, un artista bohemio de Londres que viaja a la Toscana para vender una villa que heredó tras la muerte de su esposa. En la operación también participa su hijo Jack (Richardson), en pleno proceso de divorcio, con quien Robert nunca ha llegado a entenderse. Debut como director y guionista de largometrajes del actor James D'Arcy, Neeson define "Una villa en la Toscana" como "una gran historia sobre la familia y el amor... y la compasión y la pérdida, y el humor...".</desc>
   </programme>
   <programme start="20261011152000 +0000" stop="20261011170000 +0000" channel="La1.es.scraper">
     <title lang="es">Noche de fin de año</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">Es Nochevieja y varias vidas se cruzan: la de una madre soltera que aún ve a su hija como una niña, la de una mujer encargada de hacer caer la 'Bola de Año Nuevo' de Times Square, la de un hombre hospitalizado que padece cáncer, la de una mujer de negocios que trata de alcanzar sus propósitos antes de que acabe el año y la de un hombre que odia las fiestas navideñas. ¿Cómo seguirán sus vidas? Varias historias se cruzan la noche de fin de año en esta comedia romántica protagonizada por una larga lista de estrellas, entre ellas, Michelle Pfeiffer, Zac Efron, Robert De Niro, Halle Berry, Jessica Biel, Ashton Kutcher, Sarah Jessica Parker, Katherine Heigl, James Belushi, Jon Bon Jovi, Hilary Swank, Cary Elwes, Alyssa Milano, Carla Gugino o Sofía Vergara.</desc>
   </programme>
   <programme start="20261011170000 +0000" stop="20261011183000 +0000" channel="La1.es.scraper">
     <title lang="es">Cosas nuestras</title>
@@ -1379,18 +1333,28 @@
   </programme>
   <programme start="20261011200000 +0000" stop="20261011215000 +0000" channel="La1.es.scraper">
     <title lang="es">Aquaman y el reino perdido</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">El actor Jason Momoa ("Fast &amp; Furious X", "Dune", "Juego de tronos") y el director James Wan (sagas "Insidious" y "Expediente Warren") vuelven a unirse en esta segunda entrega de las aventuras en solitario de Aquaman, el superhéroe de DC mitad humano, mitad atlante. En "Aquaman y el reino perdido", Arthur Curry/Aquaman, convertido en rey de la Atlántida, vive agobiado por sus responsabilidades: proteger los mares, atender la burocracia del reino submarino y cuidar del maravilloso bebé que ha tenido junto a Mera. Y eso no es nada: ahora se le viene encima David Kane/Black Manta, dispuesto a vengar la muerte de su padre sin tener en cuenta la destrucción que sus acciones están dejando en mares y tierra. Patrick Wilson, Amber Heard, Yahya Abdul-Mateen II, Nicole Kidman, Randall Park, Temuera Morrison y Dolph Lundgren completan el reparto de "Aquaman y el reino perdido".</desc>
   </programme>
   <programme start="20261011215000 +0000" stop="20261012000500 +0000" channel="La1.es.scraper">
     <title lang="es">Marte (The Martian)</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">Cuando solo llevan 18 jornadas en Marte, envueltos en una violenta y peligrosa tormenta, los miembros de la tripulación del Ares III de la NASA se ven obligados a abortar su misión y abandonar el planeta. Ridley Scott dirige "Marte (The Martian)", ganadora del Globo de oro a la mejor comedia o musical y al mejor actor (Matt Damon) en 2016 y nominada a siete óscares, entre ellos, película, actor protagonista y guion adaptado. Para Ridley Scott, esta es "una historia de supervivencia extrema, algo así como la versión en ciencia ficción de "Robinson Crusoe". Marte no es un planeta precisamente acogedor: su temperatura varía entre 153ºC bajo cero y 22ºC, el aire está compuesto en un 95% por dióxido de carbono, el suelo no tiene las bacterias necesarias para que crezca nada y el agua existe, pero solo en forma de hielo. El protagonista es botánico y tratará de encontrar el modo de hacer que el suelo de Marte sea fértil... aunque ése será sólo uno de sus problemas".</desc>
   </programme>
   <programme start="20261012000500 +0000" stop="20261012014000 +0000" channel="La1.es.scraper">
     <title lang="es">Tú la letra, yo la música</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">Alex Fletcher es una vieja gloria de la música pop de la década de 1980 del que ya nadie se acuerda. Mientras su compañero de banda triunfa en su carrera en solitario, él debe conformarse con aparecer en un 'reality show' sobre cantantes acabados si quiere volver a escena. Allí, la gran diva Cora Corman lo invita a componer y grabar un dúo con ella, pero Alex sufre un enorme bloqueo creativo y se ve incapaz de escribir ninguna canción. Comedia romántica protagonizada por Hugh Grant y Drew Barrymore y dirigida y escrita por el especialista en el género Marc Lawrence, director de comedias románticas como "¿Cómo se escribe amor?" o "¿Qué fue de los Morgan?", ambas también protagonizadas por Hugh Grant. La estupenda banda sonora de la cinta, que incluye temas pop de la década de 1980, corre a cargo de Adam Schlesinger, bajista del grupo "Fountains of Wayne", quien ya había hecho un trabajo similar con la música de los sesenta para la película "The Wonders", de Tom Hanks.</desc>
   </programme>
   <programme start="20261012014000 +0000" stop="20261012040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261012040000 +0000" stop="20261012055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20261012055000 +0000" stop="20261012080000 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
+    <episode-num system="xmltv_ns">0.200.0/1</episode-num>
+    <episode-num system="onscreen">S01E201</episode-num>
   </programme>
 </tv>
