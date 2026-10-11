@@ -733,52 +733,6 @@
     <desc lang="hr">ČELIK - SARAJEVO</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261011000000 +0000" stop="20261011040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261011040000 +0000" stop="20261011050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261011050000 +0000" stop="20261011090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261011090000 +0000" stop="20261011100500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un variopinto viaje musical por los grupos y solistas de las distintas tribus urbanas como los rockeros, los mods, los heavys, los punks, los siniestros, los nuevos románticos, los grupos Ska, los del hip-hop, los ''pijos'', los grupos de música tecno o los reguetoneros.</desc>
-    <episode-num system="xmltv_ns">0.21.0/1</episode-num>
-    <episode-num system="onscreen">S01E22</episode-num>
-  </programme>
-  <programme start="20261011100500 +0000" stop="20261011110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un viaje musical a través de las canciones melódicas que han formado parte de nuestra vida. Con grupos e intérpretes como Alejandro Sanz, Adamo, Alex Ubago, Ana Belén, Albert Hammond, Armando Manzanero, Aute, Sergio Dalma o David Bisbal, entre muchos otros.</desc>
-    <episode-num system="xmltv_ns">0.20.0/1</episode-num>
-    <episode-num system="onscreen">S01E21</episode-num>
-  </programme>
-  <programme start="20261011110500 +0000" stop="20261011125500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.279.0/1</episode-num>
-    <episode-num system="onscreen">S01E280</episode-num>
-  </programme>
-  <programme start="20261011125500 +0000" stop="20261011134500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20261011134500 +0000" stop="20261011135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261011135000 +0000" stop="20261011135500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
-  <programme start="20261011135500 +0000" stop="20261011152000 +0000" channel="La1.es.scraper">
-    <title lang="es">Una villa en la Toscana</title>
-    <desc lang="es">Liam Neeson y su hijo Micheál Richardson vuelven a interpretar sus roles en la vida real (ya lo hicieron en "Venganza bajo cero") en esta tierna y amable comedia dramática familiar. Neeson da vida a Robert, un artista bohemio de Londres que viaja a la Toscana para vender una villa que heredó tras la muerte de su esposa. En la operación también participa su hijo Jack (Richardson), en pleno proceso de divorcio, con quien Robert nunca ha llegado a entenderse. Debut como director y guionista de largometrajes del actor James D'Arcy, Neeson define "Una villa en la Toscana" como "una gran historia sobre la familia y el amor... y la compasión y la pérdida, y el humor...".</desc>
-  </programme>
   <programme start="20261011152000 +0000" stop="20261011170000 +0000" channel="La1.es.scraper">
     <title lang="es">Noche de fin de año</title>
     <desc lang="es">Es Nochevieja y varias vidas se cruzan: la de una madre soltera que aún ve a su hija como una niña, la de una mujer encargada de hacer caer la 'Bola de Año Nuevo' de Times Square, la de un hombre hospitalizado que padece cáncer, la de una mujer de negocios que trata de alcanzar sus propósitos antes de que acabe el año y la de un hombre que odia las fiestas navideñas. ¿Cómo seguirán sus vidas? Varias historias se cruzan la noche de fin de año en esta comedia romántica protagonizada por una larga lista de estrellas, entre ellas, Michelle Pfeiffer, Zac Efron, Robert De Niro, Halle Berry, Jessica Biel, Ashton Kutcher, Sarah Jessica Parker, Katherine Heigl, James Belushi, Jon Bon Jovi, Hilary Swank, Cary Elwes, Alyssa Milano, Carla Gugino o Sofía Vergara.</desc>
@@ -819,10 +773,6 @@
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261012014000 +0000" stop="20261012040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
   <programme start="20261012040000 +0000" stop="20261012055000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
@@ -850,6 +800,10 @@
   <programme start="20261012135000 +0000" stop="20261012135500 +0000" channel="La1.es.scraper">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
+  </programme>
+  <programme start="20261012135500 +0000" stop="20261012165000 +0000" channel="La1.es.scraper">
+    <title lang="es">Sonrisas y lágrimas</title>
+    <desc lang="es">En Austria, en las fechas previas a la Segunda Guerra Mundial, una joven novicia abandona el convento en el que ha vivido recluida para servir como institutriz en la casa del capitán Trap. El hombre, que enviudó hace años y es padre de siete traviesos hijos, educa a sus hijos con una disciplina férrea. Pero con la llegada de María a la casa, la situación pronto va cambiando. La institutriz descubre que, en realidad, lo único que necesitan los niños para cambiar de actitud es recibir un poco de cariño. Poco a poco, y gracias a la música, María es capaz de conquistar los corazones de los pequeños. Pero cuando una amiga de la familia le dice que también ha conquistado el corazón del capitán, ella decide regresar al convento.</desc>
   </programme>
   <programme start="20261012135500 +0000" stop="20261012165000 +0000" channel="La1.es.scraper">
     <title lang="es">Sonrisas y lágrimas</title>
@@ -886,5 +840,15 @@
   <programme start="20261013022000 +0000" stop="20261013040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261013040000 +0000" stop="20261013055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20261013055000 +0000" stop="20261013083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
+    <episode-num system="xmltv_ns">0.201.0/1</episode-num>
+    <episode-num system="onscreen">S01E202</episode-num>
   </programme>
 </tv>
