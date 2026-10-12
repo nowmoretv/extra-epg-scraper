@@ -464,8 +464,8 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261013160000 +0000" stop="20261013164500 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EMISIJA: XTREME COLLXTION EP.4</title>
-    <desc lang="hr">XTREME COLLXTION EP.4</desc>
+    <title lang="hr">EMISIJA: XTREME COLLXTION EP. 4</title>
+    <desc lang="hr">XTREME COLLXTION EP. 4</desc>
     <category lang="hr">Emisija</category>
   </programme>
   <programme start="20261013164500 +0000" stop="20261013190000 +0000" channel="ArenaSport3.hr.scraper">
@@ -549,8 +549,8 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261012203000 +0000" stop="20261012210000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">EMISIJA: XTREME COLLXTION EP.3</title>
-    <desc lang="hr">XTREME COLLXTION EP.3</desc>
+    <title lang="hr">EMISIJA: XTREME COLLXTION EP. 3</title>
+    <desc lang="hr">XTREME COLLXTION EP. 3</desc>
     <category lang="hr">Emisija</category>
   </programme>
   <programme start="20261012210000 +0000" stop="20261012220000 +0000" channel="ArenaSport4.hr.scraper">
@@ -1093,46 +1093,6 @@
     <desc lang="hr">STOKE - MIDDLESBROUGH</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261012014600 +0000" stop="20261012040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261012040000 +0000" stop="20261012055000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261012055000 +0000" stop="20261012080000 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.200.0/1</episode-num>
-    <episode-num system="onscreen">S01E201</episode-num>
-  </programme>
-  <programme start="20261012080000 +0000" stop="20261012103000 +0000" channel="La1.es.scraper">
-    <title lang="es">Día de la Fiesta Nacional 2026</title>
-    <desc lang="es">Los servicios informativos de Televisión Española realizarán un especial conducido por Xabier Fortes para retransmitir las celebraciones institucionales del 12 de octubre. El acto central será el desfile militar aéreo y terrestre que tendrá lugar en Madrid. Presidido por los Reyes, junto a la princesa de Asturias y la infanta Sofía, discurrirá entre la Plaza del Emperador Carlos V y la Plaza de Colón. Participarán cerca de 4.400 integrantes de las Fuerzas Armadas, las Fuerzas y Cuerpos de Seguridad del Estado y otras instituciones públicas de carácter civil.</desc>
-  </programme>
-  <programme start="20261012103000 +0000" stop="20261012125500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-    <episode-num system="xmltv_ns">0.35.0/1</episode-num>
-    <episode-num system="onscreen">S01E36</episode-num>
-  </programme>
-  <programme start="20261012125500 +0000" stop="20261012135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261012135000 +0000" stop="20261012135500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261012135500 +0000" stop="20261012165000 +0000" channel="La1.es.scraper">
-    <title lang="es">Sonrisas y lágrimas</title>
-    <desc lang="es">En Austria, en las fechas previas a la Segunda Guerra Mundial, una joven novicia abandona el convento en el que ha vivido recluida para servir como institutriz en la casa del capitán Trap. El hombre, que enviudó hace años y es padre de siete traviesos hijos, educa a sus hijos con una disciplina férrea. Pero con la llegada de María a la casa, la situación pronto va cambiando. La institutriz descubre que, en realidad, lo único que necesitan los niños para cambiar de actitud es recibir un poco de cariño. Poco a poco, y gracias a la música, María es capaz de conquistar los corazones de los pequeños. Pero cuando una amiga de la familia le dice que también ha conquistado el corazón del capitán, ella decide regresar al convento.</desc>
-  </programme>
-  <programme start="20261012165000 +0000" stop="20261012185500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mejor... imposible</title>
-    <desc lang="es">Jack Nicholson y Helen Hunt protagonizan esta comedia romántica que les valió un Oscar y un Globo de oro a cada uno de ellos. Además, el filme -lleno de diálogos ingeniosos, situaciones comprometidas e hilarantes y personajes perfectamente definidos (y magistralmente interpretados)- logró otro Globo de oro en la categoría de mejor comedia o musical. En "Mejor... imposible", Nicholson da vida a Melvin Udall, un escritor de novelas románticas obsesivo compulsivo al que nadie soporta. Sus manías, su total falta de empatía y su lengua viperina lo mantienen alejado de cualquier otro ser humano. Sin embargo, cuando su vecino Simon es hospitalizado, debe hacerse cargo del cuidado de su perro, una inesperada amabilidad que, unida a su incipiente amistad con Carol -la camarera del bar en el que come todos los días-, cambia de pronto la vida del insoportable y egoísta Melvin.</desc>
-  </programme>
   <programme start="20261012185500 +0000" stop="20261012194500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.</desc>
@@ -1156,10 +1116,6 @@
     <desc lang="es">Los aspirantes probarán su puntería con el juego Food pong para conseguir alimentos y utensilios con los que cocinar. El mejor ganará el pin de la inmunidad. En el Real Club Náutico de Madrid, realizarán un servicio de Ramón Freixa.</desc>
     <episode-num system="xmltv_ns">0.4.0/1</episode-num>
     <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20261013022000 +0000" stop="20261013040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
   <programme start="20261013022000 +0000" stop="20261013040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -1231,6 +1187,10 @@
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.</desc>
   </programme>
+  <programme start="20261013185500 +0000" stop="20261013194000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario 2</title>
+    <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.</desc>
+  </programme>
   <programme start="20261013194000 +0000" stop="20261013194500 +0000" channel="La1.es.scraper">
     <title lang="es">Deportes 2</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
@@ -1260,5 +1220,13 @@
   <programme start="20261014025000 +0000" stop="20261014040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261014040000 +0000" stop="20261014055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20261014055000 +0000" stop="20261014083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
   </programme>
 </tv>
