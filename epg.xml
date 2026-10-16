@@ -33,11 +33,6 @@
   <channel id="La1.es.scraper">
     <display-name>La 1</display-name>
   </channel>
-  <programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">EUROPA LIGA: SALZBURG - MILAN</title>
-    <desc lang="hr">SALZBURG - MILAN</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20261015230000 +0000" stop="20261016001500 +0000" channel="ArenaSport1.hr.scraper">
     <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
     <desc lang="hr">SAŽETAK</desc>
@@ -128,15 +123,15 @@
     <desc lang="hr">STUDIO</desc>
     <category lang="hr">Studio</category>
   </programme>
-  <programme start="20261016220000 +0000" stop="20261017000000 +0000" channel="ArenaSport1.hr.scraper">
+  <programme start="20261016220000 +0000" stop="20261017003000 +0000" channel="ArenaSport1.hr.scraper">
     <title lang="hr">COPA LIBERTADORES: ESTUDIANTES - FLAMENGO</title>
     <desc lang="hr">ESTUDIANTES - FLAMENGO</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261017000000 +0000" stop="20261017030000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">NFL: LA RAMS - BUFFALO</title>
-    <desc lang="hr">LA RAMS - BUFFALO</desc>
-    <category lang="hr">Američki nogomet</category>
+  <programme start="20261017003000 +0000" stop="20261017030000 +0000" channel="ArenaSport1.hr.scraper">
+    <title lang="hr">ARGENTINSKA LIGA: BOCA JUNIORS - TALLERES</title>
+    <desc lang="hr">BOCA JUNIORS - TALLERES</desc>
+    <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261017030000 +0000" stop="20261017050000 +0000" channel="ArenaSport1.hr.scraper">
     <title lang="hr">LIGA PRVAKA: ARSENAL - LILLE</title>
@@ -204,14 +199,9 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261017210000 +0000" stop="20261017230000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">ARGENTINSKA LIGA: TBD</title>
-    <desc lang="hr">TBD</desc>
+    <title lang="hr">ARGENTINSKA LIGA: BOCA JUNIORS - TALLERES</title>
+    <desc lang="hr">BOCA JUNIORS - TALLERES</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">NOGOMET: EUROPA LIGA</title>
-    <desc lang="hr">EUROPA LIGA</desc>
-    <category lang="hr">Studio</category>
   </programme>
   <programme start="20261015230000 +0000" stop="20261016003000 +0000" channel="ArenaSport2.hr.scraper">
     <title lang="hr">EUROPSKA LIGA M: SESVETE - BERGISCHER</title>
@@ -357,11 +347,6 @@
     <title lang="hr">PREMIER LEAGUE: FULHAM - HULL</title>
     <desc lang="hr">FULHAM - HULL</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
-    <desc lang="hr">NEUSPJEH PRVAKA</desc>
-    <category lang="hr">Emisija</category>
   </programme>
   <programme start="20261015220000 +0000" stop="20261016000000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">FRANCUSKA LIGA: LENS - LYON</title>
@@ -513,11 +498,6 @@
     <desc lang="hr">TAMPA BAY - VANCOUVER</desc>
     <category lang="hr">Hokej na ledu</category>
   </programme>
-  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: MLADOST - PRO RECCO</title>
-    <desc lang="hr">MLADOST - PRO RECCO</desc>
-    <category lang="hr">Vaterpolo</category>
-  </programme>
   <programme start="20261015220000 +0000" stop="20261016000000 +0000" channel="ArenaSport4.hr.scraper">
     <title lang="hr">ABA LIGA: CIBONA - SLOVAN B</title>
     <desc lang="hr">CIBONA - SLOVAN B</desc>
@@ -663,11 +643,6 @@
     <desc lang="hr">FINALE</desc>
     <category lang="hr">Vaterpolo</category>
   </programme>
-  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">RUMUNJSKA LIGA: SEPSI - DINAMO B.</title>
-    <desc lang="hr">SEPSI - DINAMO B.</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20261015220000 +0000" stop="20261016130000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -743,11 +718,6 @@
     <desc lang="hr">DINAMO B. - BOTOSANI</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">POLJSKA LIGA: POGON - KORONA</title>
-    <desc lang="hr">POGON - KORONA</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20261015220000 +0000" stop="20261016130000 +0000" channel="ArenaSport6.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -821,11 +791,6 @@
   <programme start="20261017210000 +0000" stop="20261017220000 +0000" channel="ArenaSport6.hr.scraper">
     <title lang="hr">POLJSKA LIGA: KATOWICE - POGON</title>
     <desc lang="hr">KATOWICE - POGON</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261015210000 +0000" stop="20261015230000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: ASTON VILLA - FENERBAHCE</title>
-    <desc lang="hr">ASTON VILLA - FENERBAHCE</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261015230000 +0000" stop="20261016010000 +0000" channel="ArenaSport7.hr.scraper">
@@ -964,9 +929,9 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261017160000 +0000" stop="20261017181500 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA Ž: KRIM LJUBLJANA - BUDUĆNOST</title>
-    <desc lang="hr">KRIM LJUBLJANA - BUDUĆNOST</desc>
-    <category lang="hr">Rukomet</category>
+    <title lang="hr">EUROPA LIGA: DINAMO - ANDERLECHT</title>
+    <desc lang="hr">DINAMO - ANDERLECHT</desc>
+    <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261017181500 +0000" stop="20261017201500 +0000" channel="ArenaSport7.hr.scraper">
     <title lang="hr">POLJSKA LIGA: CRACOVIA - LEGIA</title>
@@ -982,11 +947,6 @@
     <title lang="hr">LIGA PRVAKA: MANCHESTER CITY - PSG</title>
     <desc lang="hr">MANCHESTER CITY - PSG</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261015210000 +0000" stop="20261015220000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">DOKUMENTARNI FILM: TOMMY</title>
-    <desc lang="hr">TOMMY</desc>
-    <category lang="hr">Dokumentarni film</category>
   </programme>
   <programme start="20261015220000 +0000" stop="20261016000000 +0000" channel="ArenaSport8.hr.scraper">
     <title lang="hr">WBC WELTERWEIGHT WORLD CHAMPIONSHIP: PACQUIAO - BARRIOS</title>
@@ -1128,29 +1088,29 @@
     <desc lang="hr">LDU QUITO - PALMEIRAS</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261015190000 +0000" stop="20261015220000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">EUROPA LIGA: MARSEILLE - OLYMPIACOS</title>
-    <desc lang="hr">MARSEILLE - OLYMPIACOS</desc>
+  <programme start="20261015220000 +0000" stop="20261016220000 +0000" channel="ArenaSport9.hr.scraper">
+    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
+    <desc lang="hr">NAJAVA PROGRAMA</desc>
+    <category lang="hr">Najava programa</category>
+  </programme>
+  <programme start="20261015220000 +0000" stop="20261016220000 +0000" channel="ArenaSport9.hr.scraper">
+    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
+    <desc lang="hr">NAJAVA PROGRAMA</desc>
+    <category lang="hr">Najava programa</category>
+  </programme>
+  <programme start="20261016220000 +0000" stop="20261017110000 +0000" channel="ArenaSport9.hr.scraper">
+    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
+    <desc lang="hr">NAJAVA PROGRAMA</desc>
+    <category lang="hr">Najava programa</category>
+  </programme>
+  <programme start="20261017110000 +0000" stop="20261017140000 +0000" channel="ArenaSport9.hr.scraper">
+    <title lang="hr">WWIN LIGA BIH: BSK - ŽELJEZNIČAR</title>
+    <desc lang="hr">BSK - ŽELJEZNIČAR</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261015220000 +0000" stop="20261016220000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
-    <desc lang="hr">NAJAVA PROGRAMA</desc>
-    <category lang="hr">Najava programa</category>
-  </programme>
-  <programme start="20261015220000 +0000" stop="20261016220000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
-    <desc lang="hr">NAJAVA PROGRAMA</desc>
-    <category lang="hr">Najava programa</category>
-  </programme>
-  <programme start="20261016220000 +0000" stop="20261017220000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
-    <desc lang="hr">NAJAVA PROGRAMA</desc>
-    <category lang="hr">Najava programa</category>
-  </programme>
-  <programme start="20261015190000 +0000" stop="20261015220000 +0000" channel="ArenaSport10.hr.scraper">
-    <title lang="hr">EUROPA LIGA: BOURNEMOUTH - STURM GRAZ</title>
-    <desc lang="hr">BOURNEMOUTH - STURM GRAZ</desc>
+  <programme start="20261017140000 +0000" stop="20261017220000 +0000" channel="ArenaSport9.hr.scraper">
+    <title lang="hr">WWIN LIGA BIH: RADNIK - SARAJEVO</title>
+    <desc lang="hr">RADNIK - SARAJEVO</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261015220000 +0000" stop="20261016220000 +0000" channel="ArenaSport10.hr.scraper">
@@ -1163,62 +1123,50 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261016220000 +0000" stop="20261017220000 +0000" channel="ArenaSport10.hr.scraper">
+  <programme start="20261016220000 +0000" stop="20261017130000 +0000" channel="ArenaSport10.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261016005500 +0000" stop="20261016040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  <programme start="20261017130000 +0000" stop="20261017150000 +0000" channel="ArenaSport10.hr.scraper">
+    <title lang="hr">SUPER LIGA SRBIJE: ČUKARIČKI - ZEMUN</title>
+    <desc lang="hr">ČUKARIČKI - ZEMUN</desc>
+    <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261016040000 +0000" stop="20261016055000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261016055000 +0000" stop="20261016083500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-  </programme>
-  <programme start="20261016083500 +0000" stop="20261016125500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-  </programme>
-  <programme start="20261016125500 +0000" stop="20261016133000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261016133000 +0000" stop="20261016133500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261016133500 +0000" stop="20261016134000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261016134000 +0000" stop="20261016135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
+  <programme start="20261017150000 +0000" stop="20261017220000 +0000" channel="ArenaSport10.hr.scraper">
+    <title lang="hr">SUPER LIGA SRBIJE: VOJVODINA - RADNIČKI</title>
+    <desc lang="hr">VOJVODINA - RADNIČKI</desc>
+    <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261016135000 +0000" stop="20261016154500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
     <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <episode-num system="xmltv_ns">0.204.0/1</episode-num>
+    <episode-num system="onscreen">S01E205</episode-num>
   </programme>
   <programme start="20261016154500 +0000" stop="20261016163500 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc lang="es">Manuela estalla contra Alejo y Luisa, que ya no saben cómo conducirla. Más tarde, la de Guzmán se desahoga con Braulio. Y Victoria, decidida a no ocultar nada a Mercedes, decide hacerle la confesión de las confesiones. Mientras, la vida de Lucas peligra….</desc>
+    <episode-num system="xmltv_ns">0.85.0/1</episode-num>
+    <episode-num system="onscreen">S01E86</episode-num>
   </programme>
   <programme start="20261016163500 +0000" stop="20261016173500 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
-    <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+    <desc lang="es">Manuel se queda en shock tras la gran revelación de Curro. Le cuesta asimilar la verdad. Sin embargo, toman una determinación: de momento, no contarán nada a Ángela, pero los dos hermanos regresarán juntos a La Promesa para enfrentarse a Leocadia.</desc>
+    <episode-num system="xmltv_ns">0.928.0/1</episode-num>
+    <episode-num system="onscreen">S01E929</episode-num>
   </programme>
   <programme start="20261016173500 +0000" stop="20261016182500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <episode-num system="xmltv_ns">0.478.0/1</episode-num>
+    <episode-num system="onscreen">S01E479</episode-num>
   </programme>
   <programme start="20261016182500 +0000" stop="20261016185500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
   </programme>
   <programme start="20261016185500 +0000" stop="20261016195000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2</title>
@@ -1234,27 +1182,31 @@
   </programme>
   <programme start="20261016200000 +0000" stop="20261016205500 +0000" channel="La1.es.scraper">
     <title lang="es">Los archivos secretos del No-Do</title>
-    <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
+    <desc lang="es">¿Qué hizo el público en una final europea en Barcelona? ¿Por qué había un ministro en un acto falangista en 1974? ¿Y por qué, ese mismo año, salieron los niños a la calle en manifestación? ¿Qué polémica desató Camilo Sesto?.</desc>
+    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+    <episode-num system="onscreen">S01E12</episode-num>
   </programme>
-  <programme start="20261016205500 +0000" stop="20261016214500 +0000" channel="La1.es.scraper">
+  <programme start="20261016205500 +0000" stop="20261016215500 +0000" channel="La1.es.scraper">
+    <title lang="es">Los archivos secretos del No-Do</title>
+    <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
+    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+    <episode-num system="onscreen">S01E07</episode-num>
+  </programme>
+  <programme start="20261016215500 +0000" stop="20261016225000 +0000" channel="La1.es.scraper">
     <title lang="es">17 fugas</title>
     <desc lang="es">Rafael Bueno Latorre, un joven que creció en los barrios obreros de de Barcelona, acabó convirtiéndose en el enemigo público número uno para las fuerzas de seguridad. Su participación en los episodios más violentos de la delincuencia española marcaron una época.</desc>
   </programme>
-  <programme start="20261016214500 +0000" stop="20261016224000 +0000" channel="La1.es.scraper">
+  <programme start="20261016225000 +0000" stop="20261016234000 +0000" channel="La1.es.scraper">
     <title lang="es">Los archivos secretos del No-Do</title>
     <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
   </programme>
-  <programme start="20261016224000 +0000" stop="20261016233500 +0000" channel="La1.es.scraper">
+  <programme start="20261016234000 +0000" stop="20261017003500 +0000" channel="La1.es.scraper">
     <title lang="es">Los archivos secretos del No-Do</title>
     <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
-  </programme>
-  <programme start="20261016233500 +0000" stop="20261017003500 +0000" channel="La1.es.scraper">
-    <title lang="es">Los archivos secretos del No-Do</title>
-    <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
-  </programme>
-  <programme start="20261017003500 +0000" stop="20261017020500 +0000" channel="La1.es.scraper">
-    <title lang="es">50/50</title>
-    <desc lang="es">Adam, un joven de 27 años, recibe un terrible diagnóstico: padece cáncer. Su mejor amigo ve el lado positivo de la enfermedad, pues el cáncer puede ser genial para conquistar chicas; su novia trata de cuidarlo, sin poder evitar que su carácter egoísta salga a flote; y su madre lo asfixia con sus llamadas. Para lidiar con su nueva situación, Adam asiste a terapia con la joven e inexperta Katherine, con quien compartirá momentos incómodos, así como un inapropiado coqueteo. Una comedia sobre la vida y la muerte basada en la propia experiencia del guionista, Will Reiser, quien padeció una extraña forma de cáncer. Con dos nominaciones a los Globos de oro, la película plantea una historia honesta y nada pretenciosa en torno a un joven y su manera de afrontar el cáncer.</desc>
+    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+    <episode-num system="onscreen">S01E07</episode-num>
   </programme>
   <programme start="20261017003500 +0000" stop="20261017020500 +0000" channel="La1.es.scraper">
     <title lang="es">50/50</title>
@@ -1280,17 +1232,17 @@
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261017090000 +0000" stop="20261017100500 +0000" channel="La1.es.scraper">
+  <programme start="20261017090000 +0000" stop="20261017100000 +0000" channel="La1.es.scraper">
     <title lang="es">Viaje al centro de la tele</title>
     <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
   </programme>
-  <programme start="20261017100500 +0000" stop="20261017110500 +0000" channel="La1.es.scraper">
+  <programme start="20261017100000 +0000" stop="20261017110500 +0000" channel="La1.es.scraper">
     <title lang="es">Viaje al centro de la tele</title>
     <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
   </programme>
   <programme start="20261017110500 +0000" stop="20261017125500 +0000" channel="La1.es.scraper">
     <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
   </programme>
   <programme start="20261017125500 +0000" stop="20261017134500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
@@ -1304,17 +1256,21 @@
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
   </programme>
-  <programme start="20261017135500 +0000" stop="20261017153000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261017135500 +0000" stop="20261017153500 +0000" channel="La1.es.scraper">
+    <title lang="es">Querido John</title>
+    <desc lang="es">Un joven rebelde abandona sus estudios y se alista en el ejército, sin saber qué hacer con su vida. En uno de sus permisos conoce a la chica de sus sueños, Savannah, con la que mantendrá una irregular relación marcada por los acontecimientos. Drama romántico dirigido por el sueco Lasse Hallström, que adapta la novela de Nicholas Sparks "Dear John".</desc>
   </programme>
-  <programme start="20261017153000 +0000" stop="20261017171000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261017135500 +0000" stop="20261017153500 +0000" channel="La1.es.scraper">
+    <title lang="es">Querido John</title>
+    <desc lang="es">Un joven rebelde abandona sus estudios y se alista en el ejército, sin saber qué hacer con su vida. En uno de sus permisos conoce a la chica de sus sueños, Savannah, con la que mantendrá una irregular relación marcada por los acontecimientos. Drama romántico dirigido por el sueco Lasse Hallström, que adapta la novela de Nicholas Sparks "Dear John".</desc>
   </programme>
-  <programme start="20261017171000 +0000" stop="20261017185500 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261017153500 +0000" stop="20261017170000 +0000" channel="La1.es.scraper">
+    <title lang="es">Más allá del amor</title>
+    <desc lang="es">Jade, una chica de buena familia, y David, un carismático joven de inferior clase social, comienza una historia de amor en contra de los deseos de los padres de ella... una relación que se vuelve cada vez más temeraria. Shana Feste dirige y coescribe el guión (junto a Joshua Safran) de este drama romántico, 'remake' de "Amor sin fin", dirigida por Franco Zeffirelli en 1981. Ambas están basadas en el libro "Amor eterno", de Scott Spencer, la historia de un primer amor cuya fuerza hace que se vuelva peligroso tanto para los chicos como para sus familias. Alex Pettyfer y Gabriella Wilde dan vida a los jóvenes amantes, mientras que el resto del reparto está compuesto por Robert Patrick, Bruce Greenwood, Joely Richardson y Rhys Wakefield.</desc>
+  </programme>
+  <programme start="20261017170000 +0000" stop="20261017185500 +0000" channel="La1.es.scraper">
+    <title lang="es">Cosas nuestras</title>
+    <desc lang="es">Formato presentado por Aida Bao y Aitor Albizua que quiere convertirse en una cita imprescindible para los espectadores en la que encontrarán actualidad y entretenimiento de calidad. Un punto de encuentro para descubrir y entender lo que ocurre a nuestro alrededor.</desc>
   </programme>
   <programme start="20261017185500 +0000" stop="20261017192500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2 Fin de Semana</title>
@@ -1324,31 +1280,27 @@
     <title lang="es">Deportes 2</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
   </programme>
-  <programme start="20261017193000 +0000" stop="20261017200500 +0000" channel="La1.es.scraper">
+  <programme start="20261017193000 +0000" stop="20261017200000 +0000" channel="La1.es.scraper">
     <title lang="es">Informe Semanal</title>
     <desc lang="es">El programa más veterano de la televisión nacional, y el más antiguo de su género en Europa, ofrece la emisión de reportajes de la actualidad internacional, nacional, social o cultural. A veces, los reportajes pueden llegar a tener hasta media hora de duración.</desc>
   </programme>
-  <programme start="20261017200500 +0000" stop="20261017210000 +0000" channel="La1.es.scraper">
-    <title lang="es">La amiga estupenda</title>
-    <desc lang="es">Elena Greco, una anciana inmersa en una casa llena de libros, comienza a escribir una historia de amistad cuando Raffaella Cerullo, su mejor amiga de la infancia a quien siempre ha llamado Lila, parece haber desaparecido. La historia, que tuvo lugar en la década de 1950, se sitúa en la ciudad de Nápoles y cubre más de sesenta años de vida para tratar de contar el misterio de Lila. De producción italiana, esta serie dirigida por Saverio Costanzo adapta la exitosa tetralogía literaria "Dos amigas", compuesta por "La amiga estupenda", "Un mal nombre", "Las deudas del cuerpo" y "La niña perdida", de la escritora Elena Ferrante. La ficción se hizo con el Globo de Oro de Italia 2019 en la categoría de mejor actriz revelación, premiando a la joven Ludovica Nasti por su papel de Lila, así como la nominación a mejor serie de televisión, y con el premio a mejor serie de drama en el Festival de Televisión de Montecarlo.</desc>
+  <programme start="20261017200000 +0000" stop="20261018000000 +0000" channel="La1.es.scraper">
+    <title lang="es">Malas lenguas Noche</title>
+    <desc lang="es">Jesús Cintora presenta este magacín de actualidad en su versión nocturna y de fin de semana, donde, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
   </programme>
-  <programme start="20261017210000 +0000" stop="20261017215500 +0000" channel="La1.es.scraper">
-    <title lang="es">La amiga estupenda</title>
-    <desc lang="es">Elena Greco, una anciana inmersa en una casa llena de libros, comienza a escribir una historia de amistad cuando Raffaella Cerullo, su mejor amiga de la infancia a quien siempre ha llamado Lila, parece haber desaparecido. La historia, que tuvo lugar en la década de 1950, se sitúa en la ciudad de Nápoles y cubre más de sesenta años de vida para tratar de contar el misterio de Lila. De producción italiana, esta serie dirigida por Saverio Costanzo adapta la exitosa tetralogía literaria "Dos amigas", compuesta por "La amiga estupenda", "Un mal nombre", "Las deudas del cuerpo" y "La niña perdida", de la escritora Elena Ferrante. La ficción se hizo con el Globo de Oro de Italia 2019 en la categoría de mejor actriz revelación, premiando a la joven Ludovica Nasti por su papel de Lila, así como la nominación a mejor serie de televisión, y con el premio a mejor serie de drama en el Festival de Televisión de Montecarlo.</desc>
+  <programme start="20261018000000 +0000" stop="20261018020000 +0000" channel="La1.es.scraper">
+    <title lang="es">El vicio del poder</title>
+    <desc lang="es">En 1963, Dick Cheney trabaja en la instalación del tendido eléctrico de Wyoming tras ser expulsado de la Universidad de Yale por beber mucho y estudiar poco. El fatídico 11 de septiembre de 2001 es el todopoderoso vicepresidente de Estados Unidos. Christian Bale da vida al político estadounidense Dick Cheney en este drama biográfico (con toques de comedia) que disecciona las cloacas del poder político en Estados Unidos contando cómo este oscuro burócrata de Washington terminó convirtiéndose en vicepresidente del país con George W. Bush. Dirigido y escrito por Adam McKay y coprotagonizado por Amy Adams, Steve Carell y Sam Rockwell, el filme ganó el Oscar 2019 al mejor maquillaje y peluquería y estuvo nominado a siete Oscar más (película, dirección, guion, actor protagonista, montaje y actriz y actor de reparto). Además, Bale obtuvo el Globo de oro al mejor actor en comedia o musical por su interpretación de Dick Cheney.</desc>
   </programme>
-  <programme start="20261017215500 +0000" stop="20261017230000 +0000" channel="La1.es.scraper">
-    <title lang="es">La amiga estupenda</title>
-    <desc lang="es">Elena Greco, una anciana inmersa en una casa llena de libros, comienza a escribir una historia de amistad cuando Raffaella Cerullo, su mejor amiga de la infancia a quien siempre ha llamado Lila, parece haber desaparecido. La historia, que tuvo lugar en la década de 1950, se sitúa en la ciudad de Nápoles y cubre más de sesenta años de vida para tratar de contar el misterio de Lila. De producción italiana, esta serie dirigida por Saverio Costanzo adapta la exitosa tetralogía literaria "Dos amigas", compuesta por "La amiga estupenda", "Un mal nombre", "Las deudas del cuerpo" y "La niña perdida", de la escritora Elena Ferrante. La ficción se hizo con el Globo de Oro de Italia 2019 en la categoría de mejor actriz revelación, premiando a la joven Ludovica Nasti por su papel de Lila, así como la nominación a mejor serie de televisión, y con el premio a mejor serie de drama en el Festival de Televisión de Montecarlo.</desc>
+  <programme start="20261018020000 +0000" stop="20261018040000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261017230000 +0000" stop="20261017235000 +0000" channel="La1.es.scraper">
-    <title lang="es">La amiga estupenda</title>
-    <desc lang="es">Elena Greco, una anciana inmersa en una casa llena de libros, comienza a escribir una historia de amistad cuando Raffaella Cerullo, su mejor amiga de la infancia a quien siempre ha llamado Lila, parece haber desaparecido. La historia, que tuvo lugar en la década de 1950, se sitúa en la ciudad de Nápoles y cubre más de sesenta años de vida para tratar de contar el misterio de Lila. De producción italiana, esta serie dirigida por Saverio Costanzo adapta la exitosa tetralogía literaria "Dos amigas", compuesta por "La amiga estupenda", "Un mal nombre", "Las deudas del cuerpo" y "La niña perdida", de la escritora Elena Ferrante. La ficción se hizo con el Globo de Oro de Italia 2019 en la categoría de mejor actriz revelación, premiando a la joven Ludovica Nasti por su papel de Lila, así como la nominación a mejor serie de televisión, y con el premio a mejor serie de drama en el Festival de Televisión de Montecarlo.</desc>
+  <programme start="20261018040000 +0000" stop="20261018050000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261017235000 +0000" stop="20261018005500 +0000" channel="La1.es.scraper">
-    <title lang="es">La amiga estupenda</title>
-    <desc lang="es">Elena Greco, una anciana inmersa en una casa llena de libros, comienza a escribir una historia de amistad cuando Raffaella Cerullo, su mejor amiga de la infancia a quien siempre ha llamado Lila, parece haber desaparecido. La historia, que tuvo lugar en la década de 1950, se sitúa en la ciudad de Nápoles y cubre más de sesenta años de vida para tratar de contar el misterio de Lila. De producción italiana, esta serie dirigida por Saverio Costanzo adapta la exitosa tetralogía literaria "Dos amigas", compuesta por "La amiga estupenda", "Un mal nombre", "Las deudas del cuerpo" y "La niña perdida", de la escritora Elena Ferrante. La ficción se hizo con el Globo de Oro de Italia 2019 en la categoría de mejor actriz revelación, premiando a la joven Ludovica Nasti por su papel de Lila, así como la nominación a mejor serie de televisión, y con el premio a mejor serie de drama en el Festival de Televisión de Montecarlo.</desc>
-  </programme>
-  <programme start="20261018005500 +0000" stop="20261018040000 +0000" channel="La1.es.scraper">
+  <programme start="20261018050000 +0000" stop="20261018090500 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
