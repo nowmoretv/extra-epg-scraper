@@ -1223,42 +1223,6 @@
     <desc lang="hr">ILIRIJA - MEGA</desc>
     <category lang="hr">Košarka</category>
   </programme>
-  <programme start="20261017003500 +0000" stop="20261017020500 +0000" channel="La1.es.scraper">
-    <title lang="es">50/50</title>
-    <desc lang="es">Adam, un joven de 27 años, recibe un terrible diagnóstico: padece cáncer. Su mejor amigo ve el lado positivo de la enfermedad, pues el cáncer puede ser genial para conquistar chicas; su novia trata de cuidarlo, sin poder evitar que su carácter egoísta salga a flote; y su madre lo asfixia con sus llamadas. Para lidiar con su nueva situación, Adam asiste a terapia con la joven e inexperta Katherine, con quien compartirá momentos incómodos, así como un inapropiado coqueteo. Una comedia sobre la vida y la muerte basada en la propia experiencia del guionista, Will Reiser, quien padeció una extraña forma de cáncer. Con dos nominaciones a los Globos de oro, la película plantea una historia honesta y nada pretenciosa en torno a un joven y su manera de afrontar el cáncer.</desc>
-  </programme>
-  <programme start="20261017020500 +0000" stop="20261017040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261017040000 +0000" stop="20261017050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261017050000 +0000" stop="20261017080000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261017080000 +0000" stop="20261017083000 +0000" channel="La1.es.scraper">
-    <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.</desc>
-  </programme>
-  <programme start="20261017083000 +0000" stop="20261017090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261017090000 +0000" stop="20261017100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-  </programme>
-  <programme start="20261017100000 +0000" stop="20261017110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-  </programme>
-  <programme start="20261017110500 +0000" stop="20261017125500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-  </programme>
   <programme start="20261017125500 +0000" stop="20261017134500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
@@ -1282,6 +1246,8 @@
   <programme start="20261017170000 +0000" stop="20261017185500 +0000" channel="La1.es.scraper">
     <title lang="es">Cosas nuestras</title>
     <desc lang="es">Formato presentado por Aida Bao y Aitor Albizua que quiere convertirse en una cita imprescindible para los espectadores en la que encontrarán actualidad y entretenimiento de calidad. Un punto de encuentro para descubrir y entender lo que ocurre a nuestro alrededor.</desc>
+    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
+    <episode-num system="onscreen">S01E05</episode-num>
   </programme>
   <programme start="20261017185500 +0000" stop="20261017192500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2 Fin de Semana</title>
@@ -1294,14 +1260,14 @@
   <programme start="20261017193000 +0000" stop="20261017200000 +0000" channel="La1.es.scraper">
     <title lang="es">Informe Semanal</title>
     <desc lang="es">El programa más veterano de la televisión nacional, y el más antiguo de su género en Europa, ofrece la emisión de reportajes de la actualidad internacional, nacional, social o cultural. A veces, los reportajes pueden llegar a tener hasta media hora de duración.</desc>
+    <episode-num system="xmltv_ns">0.35.0/1</episode-num>
+    <episode-num system="onscreen">S01E36</episode-num>
   </programme>
   <programme start="20261017200000 +0000" stop="20261018000000 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas Noche</title>
     <desc lang="es">Jesús Cintora presenta este magacín de actualidad en su versión nocturna y de fin de semana, donde, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
-  </programme>
-  <programme start="20261018000000 +0000" stop="20261018020000 +0000" channel="La1.es.scraper">
-    <title lang="es">El vicio del poder</title>
-    <desc lang="es">En 1963, Dick Cheney trabaja en la instalación del tendido eléctrico de Wyoming tras ser expulsado de la Universidad de Yale por beber mucho y estudiar poco. El fatídico 11 de septiembre de 2001 es el todopoderoso vicepresidente de Estados Unidos. Christian Bale da vida al político estadounidense Dick Cheney en este drama biográfico (con toques de comedia) que disecciona las cloacas del poder político en Estados Unidos contando cómo este oscuro burócrata de Washington terminó convirtiéndose en vicepresidente del país con George W. Bush. Dirigido y escrito por Adam McKay y coprotagonizado por Amy Adams, Steve Carell y Sam Rockwell, el filme ganó el Oscar 2019 al mejor maquillaje y peluquería y estuvo nominado a siete Oscar más (película, dirección, guion, actor protagonista, montaje y actriz y actor de reparto). Además, Bale obtuvo el Globo de oro al mejor actor en comedia o musical por su interpretación de Dick Cheney.</desc>
+    <episode-num system="xmltv_ns">0.25.0/1</episode-num>
+    <episode-num system="onscreen">S01E26</episode-num>
   </programme>
   <programme start="20261018000000 +0000" stop="20261018020000 +0000" channel="La1.es.scraper">
     <title lang="es">El vicio del poder</title>
@@ -1315,21 +1281,31 @@
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261018050000 +0000" stop="20261018090500 +0000" channel="La1.es.scraper">
+  <programme start="20261018050000 +0000" stop="20261018090000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261018090500 +0000" stop="20261018101000 +0000" channel="La1.es.scraper">
+  <programme start="20261018090000 +0000" stop="20261018100000 +0000" channel="La1.es.scraper">
     <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
+    <desc lang="es">Un viaje en el tiempo y el archivo para recordar los mejores momentos que nos dejaron Los Payasos de la Tele. Con sus programas los niños entraban en un mundo lleno de color, ilusión, alegría y emoción. Y con ellos recordaremos sus canciones inmortales.</desc>
+    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
+    <episode-num system="onscreen">S01E03</episode-num>
   </programme>
-  <programme start="20261018101000 +0000" stop="20261018110500 +0000" channel="La1.es.scraper">
+  <programme start="20261018100000 +0000" stop="20261018110500 +0000" channel="La1.es.scraper">
     <title lang="es">Viaje al centro de la tele</title>
     <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
+    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
+    <episode-num system="onscreen">S01E13</episode-num>
   </programme>
   <programme start="20261018110500 +0000" stop="20261018125500 +0000" channel="La1.es.scraper">
     <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <episode-num system="xmltv_ns">0.281.0/1</episode-num>
+    <episode-num system="onscreen">S01E282</episode-num>
+  </programme>
+  <programme start="20261018125500 +0000" stop="20261018134500 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario 1 Fin de Semana</title>
+    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
   </programme>
   <programme start="20261018125500 +0000" stop="20261018134500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
@@ -1343,21 +1319,25 @@
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
   </programme>
-  <programme start="20261018135500 +0000" stop="20261018154000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261018135500 +0000" stop="20261018152500 +0000" channel="La1.es.scraper">
+    <title lang="es">La llamada de lo salvaje</title>
+    <desc lang="es">Durante la Fiebre del oro de finales del siglo XIX, un bondadoso y tenaz perro es arrancado de su feliz vida en California para acabar en las duras tierras de Alaska. Allí conoce al solitario John Thornton. Harrison Ford interpreta al célebre protagonista del libro de Jack London "La llamada de lo salvaje" (1903) en esta adaptación dirigida por Chris Sanders, que se adentra por primera vez en el cine en imagen real tras dirigir cintas de animación como "Los Croods" o "Cómo entrenar a tu dragón". Con guion de Michael Green ("Asesinato en el Orient Express", "Blade Runner 2049"), cuenta también con la participación de Omar Sy, Karen Gilla... y el perro Buckley, una mezcla de san bernardo y pastor (como en el libro), que tras pasar por la animación CGI, se convirtió en el perro protagonista del filme. Con una maravillosa fotografía de Janusz Kaminski (Oscar por "Salvar al soldado Ryan" y "La lista de Schindler") y unos estupendos efectos especiales.</desc>
   </programme>
-  <programme start="20261018154000 +0000" stop="20261018171000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261018152500 +0000" stop="20261018170000 +0000" channel="La1.es.scraper">
+    <title lang="es">Morning Glory</title>
+    <desc lang="es">La productora de noticias locales, Becky Fuller, por fin ha conseguido el trabajo de sus sueños en la gran ciudad: encargarse del programa matinal de noticias Daybreak en Nueva York. Sin embargo, ya desde el primer día, el sueño amenaza con convertirse en una pesadilla. Tiene el coraje, las agallas y la destreza que pueda necesitar una mujer para triunfar, pero un gran obstáculo se interpone entre Becky y su ascenso a la cumbre: el legendario Mike Pomeroy, un estrafalario, chulo y nada cooperativo presentador que está a punto de convertirse en la peor lacra para ella... y en su única esperanza para poder cambiar el destino del programa matinal de noticias con menos audiencia de Norteamérica.</desc>
   </programme>
-  <programme start="20261018171000 +0000" stop="20261018184000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261018170000 +0000" stop="20261018183000 +0000" channel="La1.es.scraper">
+    <title lang="es">Cosas nuestras</title>
+    <desc lang="es">Formato presentado por Aida Bao y Aitor Albizua que quiere convertirse en una cita imprescindible para los espectadores en la que encontrarán actualidad y entretenimiento de calidad. Un punto de encuentro para descubrir y entender lo que ocurre a nuestro alrededor.</desc>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
   </programme>
-  <programme start="20261018184000 +0000" stop="20261018185500 +0000" channel="La1.es.scraper">
+  <programme start="20261018183000 +0000" stop="20261018185500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
+    <episode-num system="xmltv_ns">0.855.0/1</episode-num>
+    <episode-num system="onscreen">S01E856</episode-num>
   </programme>
   <programme start="20261018185500 +0000" stop="20261018195000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2 Fin de Semana</title>
@@ -1367,20 +1347,30 @@
     <title lang="es">Deportes 2</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
   </programme>
-  <programme start="20261018200000 +0000" stop="20261018215000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261018200000 +0000" stop="20261018220000 +0000" channel="La1.es.scraper">
+    <title lang="es">Aguas oscuras</title>
+    <desc lang="es">Un abogado ambientalista de Ohio se embarca en un juicio contra una empresa química que está contaminando el agua potable de una pequeña ciudad. En 1998, el abogado Robert Bilott recibió la llamada de un granjero cuyo ganado había empezado a morir en extrañas circunstancias. Dos años después, el hombre tomó una de las decisiones más trascendentales de su vida: demandar a la todopoderosa empresa DuPont, de la que sospechaba que era la causante de dichas muertes. Bilott acabó destapando un caso de contaminación que abarcaba varias décadas y se convirtió en un referente para una sociedad cada vez más preocupada por la ecología.</desc>
   </programme>
-  <programme start="20261018215000 +0000" stop="20261018233000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261018220000 +0000" stop="20261019000000 +0000" channel="La1.es.scraper">
+    <title lang="es">Spotlight</title>
+    <desc lang="es">Boston, Massachusetts, 2001. Tras hacerse cargo de la dirección del "Boston Globe", Marty Baron solicita a la unidad de investigación del periódico, Spotlight, que indague sobre el caso de un cura acusado de haber abusado de 80 niños durante los últimos 30 años. Ganadora en 2016 del Oscar a la mejor película y al mejor guion original, "Spotlight" cuenta la historia real de cómo los periodistas del equipo de investigación del diario "Boston Globe" destaparon los abusos a menores cometidos durante años por sacerdotes católicos y su ocultación sistemática por parte de la jerarquía de la Archidiócesis de Boston. El escándalo que destaparon los periodistas de Spotlight no sólo tuvo una enorme repercusión en Boston, sino que provocó una reacción en cadena en el resto de Estados Unidos y en todo el mundo, obligando a la Iglesia Católica a tomar medidas. En el año 2003, el "Boston Globe" ganó el Premio Pulitzer al servicio público por sacar a la luz esta trama.</desc>
   </programme>
-  <programme start="20261018233000 +0000" stop="20261019012500 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261019000000 +0000" stop="20261019015500 +0000" channel="La1.es.scraper">
+    <title lang="es">Tienes un e-mail</title>
+    <desc lang="es">Kathleen Kelly es la dueña de una encantadora librería infantil, un verdadero tesoro cultural en el Upper West Side de Manhattan. Un negocio familiar heredado de su madre, que ve con horror como Joe Fox III, el propietario de una gigantesca cadena de librerías, está dispuesto a abrir una gran sucursal de varias plantas justo enfrente de su comercio. Temiendo el fin de su negocio, Kathleen hará todo lo posible por paralizar las intenciones del magnate. La chica, que pasa largas noches aburridas junto a su novio Frank, un escritor frustrado que tiene una columna en un periódico, se apasiona intercambiando mensajes mediante correo electrónico con un hombre al que solo conoce por su seudónimo y que, sin saberlo, resulta ser su terrible enemigo Joe Fox III.</desc>
   </programme>
-  <programme start="20261019012500 +0000" stop="20261019040000 +0000" channel="La1.es.scraper">
+  <programme start="20261019015500 +0000" stop="20261019040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261019040000 +0000" stop="20261019055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20261019055000 +0000" stop="20261019083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.</desc>
+    <episode-num system="xmltv_ns">0.210.0/1</episode-num>
+    <episode-num system="onscreen">S01E211</episode-num>
   </programme>
 </tv>
