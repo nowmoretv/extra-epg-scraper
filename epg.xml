@@ -728,40 +728,6 @@
     <desc lang="hr">ILIRIJA - MEGA</desc>
     <category lang="hr">Košarka</category>
   </programme>
-  <programme start="20261018000000 +0000" stop="20261018020000 +0000" channel="La1.es.scraper">
-    <title lang="es">El vicio del poder</title>
-    <desc lang="es">En 1963, Dick Cheney trabaja en la instalación del tendido eléctrico de Wyoming tras ser expulsado de la Universidad de Yale por beber mucho y estudiar poco. El fatídico 11 de septiembre de 2001 es el todopoderoso vicepresidente de Estados Unidos. Christian Bale da vida al político estadounidense Dick Cheney en este drama biográfico (con toques de comedia) que disecciona las cloacas del poder político en Estados Unidos contando cómo este oscuro burócrata de Washington terminó convirtiéndose en vicepresidente del país con George W. Bush. Dirigido y escrito por Adam McKay y coprotagonizado por Amy Adams, Steve Carell y Sam Rockwell, el filme ganó el Oscar 2019 al mejor maquillaje y peluquería y estuvo nominado a siete Oscar más (película, dirección, guion, actor protagonista, montaje y actriz y actor de reparto). Además, Bale obtuvo el Globo de oro al mejor actor en comedia o musical por su interpretación de Dick Cheney.</desc>
-  </programme>
-  <programme start="20261018020000 +0000" stop="20261018040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261018040000 +0000" stop="20261018050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261018050000 +0000" stop="20261018090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261018090000 +0000" stop="20261018100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un viaje en el tiempo y el archivo para recordar los mejores momentos que nos dejaron Los Payasos de la Tele. Con sus programas los niños entraban en un mundo lleno de color, ilusión, alegría y emoción. Y con ellos recordaremos sus canciones inmortales.</desc>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-  </programme>
-  <programme start="20261018100000 +0000" stop="20261018110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <episode-num system="xmltv_ns">0.12.0/1</episode-num>
-    <episode-num system="onscreen">S01E13</episode-num>
-  </programme>
-  <programme start="20261018110500 +0000" stop="20261018125500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.281.0/1</episode-num>
-    <episode-num system="onscreen">S01E282</episode-num>
-  </programme>
   <programme start="20261018125500 +0000" stop="20261018134500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
@@ -814,10 +780,6 @@
     <title lang="es">Tienes un e-mail</title>
     <desc lang="es">Kathleen Kelly es la dueña de una encantadora librería infantil, un verdadero tesoro cultural en el Upper West Side de Manhattan. Un negocio familiar heredado de su madre, que ve con horror como Joe Fox III, el propietario de una gigantesca cadena de librerías, está dispuesto a abrir una gran sucursal de varias plantas justo enfrente de su comercio. Temiendo el fin de su negocio, Kathleen hará todo lo posible por paralizar las intenciones del magnate. La chica, que pasa largas noches aburridas junto a su novio Frank, un escritor frustrado que tiene una columna en un periódico, se apasiona intercambiando mensajes mediante correo electrónico con un hombre al que solo conoce por su seudónimo y que, sin saberlo, resulta ser su terrible enemigo Joe Fox III.</desc>
   </programme>
-  <programme start="20261019000000 +0000" stop="20261019015500 +0000" channel="La1.es.scraper">
-    <title lang="es">Tienes un e-mail</title>
-    <desc lang="es">Kathleen Kelly es la dueña de una encantadora librería infantil, un verdadero tesoro cultural en el Upper West Side de Manhattan. Un negocio familiar heredado de su madre, que ve con horror como Joe Fox III, el propietario de una gigantesca cadena de librerías, está dispuesto a abrir una gran sucursal de varias plantas justo enfrente de su comercio. Temiendo el fin de su negocio, Kathleen hará todo lo posible por paralizar las intenciones del magnate. La chica, que pasa largas noches aburridas junto a su novio Frank, un escritor frustrado que tiene una columna en un periódico, se apasiona intercambiando mensajes mediante correo electrónico con un hombre al que solo conoce por su seudónimo y que, sin saberlo, resulta ser su terrible enemigo Joe Fox III.</desc>
-  </programme>
   <programme start="20261019015500 +0000" stop="20261019040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
@@ -845,6 +807,10 @@
   <programme start="20261019133000 +0000" stop="20261019133500 +0000" channel="La1.es.scraper">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
+  </programme>
+  <programme start="20261019133500 +0000" stop="20261019134000 +0000" channel="La1.es.scraper">
+    <title lang="es">El tiempo</title>
+    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
   </programme>
   <programme start="20261019133500 +0000" stop="20261019134000 +0000" channel="La1.es.scraper">
     <title lang="es">El tiempo</title>
@@ -909,5 +875,17 @@
     <desc lang="es">Los aspirantes descubren el Plant Forward, tendencia que prioriza los alimentos vegetales con la ayuda del chef Andrés Benítez. En la almazara El Toro (Ronda) cocinarán un menú dedicado al oro líquido.</desc>
     <episode-num system="xmltv_ns">0.5.0/1</episode-num>
     <episode-num system="onscreen">S01E06</episode-num>
+  </programme>
+  <programme start="20261020025500 +0000" stop="20261020040000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261020040000 +0000" stop="20261020055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20261020055000 +0000" stop="20261020083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
   </programme>
 </tv>
