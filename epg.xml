@@ -1158,63 +1158,35 @@
     <desc lang="hr">SPORTING - LASK</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261020000000 +0000" stop="20261020025500 +0000" channel="La1.es.scraper">
-    <title lang="es">MasterChef Celebrity Legends</title>
-    <desc lang="es">Los aspirantes descubren el Plant Forward, tendencia que prioriza los alimentos vegetales con la ayuda del chef Andrés Benítez. En la almazara El Toro (Ronda) cocinarán un menú dedicado al oro líquido.</desc>
-    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
-    <episode-num system="onscreen">S01E06</episode-num>
-  </programme>
-  <programme start="20261020025500 +0000" stop="20261020040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261020040000 +0000" stop="20261020055000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261020055000 +0000" stop="20261020083500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-  </programme>
-  <programme start="20261020083500 +0000" stop="20261020125500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-  </programme>
-  <programme start="20261020125500 +0000" stop="20261020133000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261020133000 +0000" stop="20261020133500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261020133500 +0000" stop="20261020134000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261020134000 +0000" stop="20261020135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
   <programme start="20261020135000 +0000" stop="20261020154500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
     <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <episode-num system="xmltv_ns">0.206.0/1</episode-num>
+    <episode-num system="onscreen">S01E207</episode-num>
   </programme>
   <programme start="20261020154500 +0000" stop="20261020163500 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc lang="es">En 1763, una joven sueña con encontrar el amor verdadero, pero una inesperada tragedia le obliga a aceptar un misterioso matrimonio concertado en un palacio lejano.</desc>
+    <episode-num system="xmltv_ns">0.87.0/1</episode-num>
+    <episode-num system="onscreen">S01E88</episode-num>
   </programme>
   <programme start="20261020163500 +0000" stop="20261020173500 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
     <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+    <episode-num system="xmltv_ns">0.930.0/1</episode-num>
+    <episode-num system="onscreen">S01E931</episode-num>
   </programme>
   <programme start="20261020173500 +0000" stop="20261020182500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <episode-num system="xmltv_ns">0.480.0/1</episode-num>
+    <episode-num system="onscreen">S01E481</episode-num>
   </programme>
   <programme start="20261020182500 +0000" stop="20261020185500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
+    <episode-num system="xmltv_ns">0.857.0/1</episode-num>
+    <episode-num system="onscreen">S01E858</episode-num>
   </programme>
   <programme start="20261020185500 +0000" stop="20261020194000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2</title>
@@ -1226,21 +1198,27 @@
   </programme>
   <programme start="20261020194500 +0000" stop="20261020210000 +0000" channel="La1.es.scraper">
     <title lang="es">La revuelta</title>
-    <desc lang="es">David Broncano conduce La revuelta, un programa de atípicas entrevistas a famosos.</desc>
+    <desc lang="es">David Broncano y su equipo reciben a todo tipo de personalidades en este irreverente programa en el que el público es protagonista.</desc>
+    <episode-num system="xmltv_ns">0.347.0/1</episode-num>
+    <episode-num system="onscreen">S01E348</episode-num>
   </programme>
-  <programme start="20261020210000 +0000" stop="20261020231000 +0000" channel="La1.es.scraper">
-    <title lang="es">Dog House</title>
-    <desc lang="es">El programa nos adentra en el día a día de un albergue de adopción de perros, donde un equipo comprometido trabaja con dedicación para encontrar el hogar perfecto para cada perro.</desc>
+  <programme start="20261020210000 +0000" stop="20261020223500 +0000" channel="La1.es.scraper">
+    <title lang="es">Al cielo con ella</title>
+    <desc lang="es">El programa se suma a las celebraciones de los 70 años de TVE con la visita de Paloma del Río. María León y Ana Torrent presentan la segunda temporada de ''Furia''; y, finalmente, entra al plató el guionista y director Javier Giner.</desc>
+    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
+    <episode-num system="onscreen">S01E04</episode-num>
   </programme>
-  <programme start="20261020231000 +0000" stop="20261021011500 +0000" channel="La1.es.scraper">
-    <title lang="es">Dog House</title>
-    <desc lang="es">El programa nos adentra en el día a día de un albergue de adopción de perros, donde un equipo comprometido trabaja con dedicación para encontrar el hogar perfecto para cada perro.</desc>
+  <programme start="20261020223500 +0000" stop="20261021000000 +0000" channel="La1.es.scraper">
+    <title lang="es">Al cielo con ella</title>
+    <desc lang="es">La cómica y escritora Henar Álvarez presenta desde su trono un programa de entrevistas gamberras y reivindicativas en el que se escuchan voces de mujeres que tienen mucho que contar. Manny Calavera es la banda de música encargada de poner ritmo al show.</desc>
+    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
+    <episode-num system="onscreen">S01E02</episode-num>
   </programme>
-  <programme start="20261021011500 +0000" stop="20261021040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  <programme start="20261021000000 +0000" stop="20261021023000 +0000" channel="La1.es.scraper">
+    <title lang="es">La noche en 24 horas</title>
+    <desc lang="es">Informativo diario que incluye entrevistas y debates sobre diversas cuestiones de actualidad. El programa ofrece la posibilidad de que los espectadores participen opinando sobre las cuestiones debatidas mediante un foro en la web de RTVE.</desc>
   </programme>
-  <programme start="20261021011500 +0000" stop="20261021040000 +0000" channel="La1.es.scraper">
+  <programme start="20261021023000 +0000" stop="20261021040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
@@ -1276,6 +1254,10 @@
     <title lang="es">Directo al grano</title>
     <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
   </programme>
+  <programme start="20261021135000 +0000" stop="20261021154500 +0000" channel="La1.es.scraper">
+    <title lang="es">Directo al grano</title>
+    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+  </programme>
   <programme start="20261021154500 +0000" stop="20261021163500 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
     <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
@@ -1304,16 +1286,28 @@
     <title lang="es">La revuelta</title>
     <desc lang="es">David Broncano conduce La revuelta, un programa de atípicas entrevistas a famosos.</desc>
   </programme>
-  <programme start="20261021210000 +0000" stop="20261021223000 +0000" channel="La1.es.scraper">
+  <programme start="20261021210000 +0000" stop="20261021224000 +0000" channel="La1.es.scraper">
     <title lang="es">El Túnel: avanza y gana</title>
     <desc lang="es">Concurso presentado por Jesús Vázquez que combina cultura general, estrategia, tensión y emoción en una competición en la que cada respuesta y, sobre todo, cada decisión pueden cambiar el rumbo del juego y en el que saber más no siempre significa ganar.</desc>
   </programme>
-  <programme start="20261021223000 +0000" stop="20261021235500 +0000" channel="La1.es.scraper">
-    <title lang="es">The Floor</title>
-    <desc lang="es">Chenoa actúa como maestra de ceremonias de este concurso en el que cien participantes compiten por dominar un gigantesco tablero digital divido en cien casillas, cada una de las cuales representa una categoría de conocimiento distinta.</desc>
+  <programme start="20261021224000 +0000" stop="20261022001500 +0000" channel="La1.es.scraper">
+    <title lang="es">El Túnel: avanza y gana</title>
+    <desc lang="es">Concurso presentado por Jesús Vázquez que combina cultura general, estrategia, tensión y emoción en una competición en la que cada respuesta y, sobre todo, cada decisión pueden cambiar el rumbo del juego y en el que saber más no siempre significa ganar.</desc>
   </programme>
-  <programme start="20261021235500 +0000" stop="20261022023000 +0000" channel="La1.es.scraper">
+  <programme start="20261022001500 +0000" stop="20261022024500 +0000" channel="La1.es.scraper">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Informativo diario que incluye entrevistas y debates sobre diversas cuestiones de actualidad. El programa ofrece la posibilidad de que los espectadores participen opinando sobre las cuestiones debatidas mediante un foro en la web de RTVE.</desc>
+  </programme>
+  <programme start="20261022024500 +0000" stop="20261022040000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261022040000 +0000" stop="20261022055000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
+  </programme>
+  <programme start="20261022055000 +0000" stop="20261022083500 +0000" channel="La1.es.scraper">
+    <title lang="es">La hora de La 1: La hora de la actualidad</title>
+    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
   </programme>
 </tv>
