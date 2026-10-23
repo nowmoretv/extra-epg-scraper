@@ -33,11 +33,6 @@
   <channel id="La1.es.scraper">
     <display-name>La 1</display-name>
   </channel>
-  <programme start="20261022210000 +0000" stop="20261022230000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">KONFERENCIJSKA LIGA: JABLONEC - BRIGHTON</title>
-    <desc lang="hr">JABLONEC - BRIGHTON</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20261022230000 +0000" stop="20261023001500 +0000" channel="ArenaSport1.hr.scraper">
     <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
     <desc lang="hr">SAŽETAK</desc>
@@ -208,11 +203,6 @@
     <desc lang="hr">NAPOLI - ROMA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261022210000 +0000" stop="20261022220000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">KONFERENCIJSKA LIGA: EMISIJA</title>
-    <desc lang="hr">EMISIJA</desc>
-    <category lang="hr">Studio</category>
-  </programme>
   <programme start="20261022220000 +0000" stop="20261022230000 +0000" channel="ArenaSport2.hr.scraper">
     <title lang="hr">RED BULL: OFFLINE</title>
     <desc lang="hr">OFFLINE</desc>
@@ -357,11 +347,6 @@
     <title lang="hr">PREMIER LEAGUE: CHELSEA - TOTTENHAM</title>
     <desc lang="hr">CHELSEA - TOTTENHAM</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261022210000 +0000" stop="20261022220000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
-    <desc lang="hr">NEUSPJEH PRVAKA</desc>
-    <category lang="hr">Emisija</category>
   </programme>
   <programme start="20261022220000 +0000" stop="20261023000000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">FRANCUSKA LIGA: TROYES - LENS</title>
@@ -523,11 +508,6 @@
     <desc lang="hr">NEW JERSEY - LA KINGS</desc>
     <category lang="hr">Hokej na ledu</category>
   </programme>
-  <programme start="20261022210000 +0000" stop="20261022220000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: BARCELONETA - NOVI BEOGRAD</title>
-    <desc lang="hr">BARCELONETA - NOVI BEOGRAD</desc>
-    <category lang="hr">Vaterpolo</category>
-  </programme>
   <programme start="20261022220000 +0000" stop="20261023000000 +0000" channel="ArenaSport4.hr.scraper">
     <title lang="hr">ABA LIGA: DUBAI - STUDENTSKI CENTAR</title>
     <desc lang="hr">DUBAI - STUDENTSKI CENTAR</desc>
@@ -683,11 +663,6 @@
     <desc lang="hr">MLADOST - JADRAN ST</desc>
     <category lang="hr">Vaterpolo</category>
   </programme>
-  <programme start="20261022210000 +0000" stop="20261022220000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">RUMUNJSKA LIGA: VOLUNTARI - FCSB</title>
-    <desc lang="hr">VOLUNTARI - FCSB</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20261022220000 +0000" stop="20261023130000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -748,19 +723,19 @@
     <desc lang="hr">IGOKEA - ZVEZDA</desc>
     <category lang="hr">Košarka</category>
   </programme>
-  <programme start="20261024180000 +0000" stop="20261024200000 +0000" channel="ArenaSport5.hr.scraper">
+  <programme start="20261024180000 +0000" stop="20261024184500 +0000" channel="ArenaSport5.hr.scraper">
+    <title lang="hr">NFL: NFL GAMEDAY</title>
+    <desc lang="hr">NFL GAMEDAY</desc>
+    <category lang="hr">Emisija</category>
+  </programme>
+  <programme start="20261024184500 +0000" stop="20261024210000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">FRANCUSKA 2.LIGA: ST.ETIENNE - NANTES</title>
     <desc lang="hr">ST.ETIENNE - NANTES</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261024200000 +0000" stop="20261024220000 +0000" channel="ArenaSport5.hr.scraper">
+  <programme start="20261024210000 +0000" stop="20261024220000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">RUMUNJSKA LIGA: ARGES - ARAD</title>
     <desc lang="hr">ARGES - ARAD</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261022210000 +0000" stop="20261022220000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">POLJSKA LIGA: CRACOVIA - LEGIA</title>
-    <desc lang="hr">CRACOVIA - LEGIA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261022220000 +0000" stop="20261023130000 +0000" channel="ArenaSport6.hr.scraper">
@@ -833,11 +808,6 @@
     <desc lang="hr">POGON - RADOMIAK</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261022210000 +0000" stop="20261022230000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: LIVERPOOL - VILLARREAL</title>
-    <desc lang="hr">LIVERPOOL - VILLARREAL</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20261022230000 +0000" stop="20261023010000 +0000" channel="ArenaSport7.hr.scraper">
     <title lang="hr">EUROPA LIGA: JUVENTUS - RENNES</title>
     <desc lang="hr">JUVENTUS - RENNES</desc>
@@ -894,9 +864,9 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261023150000 +0000" stop="20261023160000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: NAPOLI - BODO GLIMT</title>
-    <desc lang="hr">NAPOLI - BODO GLIMT</desc>
-    <category lang="hr">Nogomet</category>
+    <title lang="hr">DOK.FILM: MNR:ENG/ARG</title>
+    <desc lang="hr">MNR:ENG/ARG</desc>
+    <category lang="hr">dok.film</category>
   </programme>
   <programme start="20261023160000 +0000" stop="20261023180000 +0000" channel="ArenaSport7.hr.scraper">
     <title lang="hr">SUPER LIGA SRBIJE: IMT - ŽELEZNIČAR</title>
@@ -992,11 +962,6 @@
     <title lang="hr">LIGA PRVAKA: BAYERN - ARSENAL</title>
     <desc lang="hr">BAYERN - ARSENAL</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261022210000 +0000" stop="20261022220000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">DOKUMENTARNI FILM: LET THEM WEAR TOWELS</title>
-    <desc lang="hr">LET THEM WEAR TOWELS</desc>
-    <category lang="hr">Dokumentarni film</category>
   </programme>
   <programme start="20261022220000 +0000" stop="20261023000000 +0000" channel="ArenaSport8.hr.scraper">
     <title lang="hr">WBC SUPER MIDDLEWEIGHT WORLD CHAMPIONSHIP: MBILI - SULECKI</title>
@@ -1138,11 +1103,6 @@
     <desc lang="hr">LDU QUITO - PALMEIRAS</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261022190000 +0000" stop="20261022220000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">EUROPA LIGA: CELTIC - CELTA VIGO</title>
-    <desc lang="hr">CELTIC - CELTA VIGO</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20261022220000 +0000" stop="20261023220000 +0000" channel="ArenaSport9.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -1163,11 +1123,6 @@
     <desc lang="hr">ARGES - UTA ARAD</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261022180000 +0000" stop="20261022220000 +0000" channel="ArenaSport10.hr.scraper">
-    <title lang="hr">ABA LIGA: ŠIROKI - SLOVAN BRATISLAVA</title>
-    <desc lang="hr">ŠIROKI - SLOVAN BRATISLAVA</desc>
-    <category lang="hr">košarka</category>
-  </programme>
   <programme start="20261022220000 +0000" stop="20261023220000 +0000" channel="ArenaSport10.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -1183,14 +1138,9 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261024140000 +0000" stop="20261024151500 +0000" channel="ArenaSport10.hr.scraper">
+  <programme start="20261024140000 +0000" stop="20261024160000 +0000" channel="ArenaSport10.hr.scraper">
     <title lang="hr">SUPER LIGA SRBIJE: PARTIZAN - ČUKARIČKI</title>
     <desc lang="hr">PARTIZAN - ČUKARIČKI</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261024151500 +0000" stop="20261024160000 +0000" channel="ArenaSport10.hr.scraper">
-    <title lang="hr">FRANCUSKA LIGA: TOULOUSE - TROYES</title>
-    <desc lang="hr">TOULOUSE - TROYES</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261024160000 +0000" stop="20261024180000 +0000" channel="ArenaSport10.hr.scraper">
@@ -1199,45 +1149,15 @@
     <category lang="hr">Košarka</category>
   </programme>
   <programme start="20261024180000 +0000" stop="20261024220000 +0000" channel="ArenaSport10.hr.scraper">
-    <title lang="hr">WWIN LIGA BIH: VELEŽ - BSK</title>
-    <desc lang="hr">VELEŽ - BSK</desc>
+    <title lang="hr">RUMUNJSKA LIGA: FCSB - RAPID B</title>
+    <desc lang="hr">FCSB - RAPID B</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261023004000 +0000" stop="20261023040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261023040000 +0000" stop="20261023055000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261023055000 +0000" stop="20261023083500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-  </programme>
-  <programme start="20261023083500 +0000" stop="20261023125500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-  </programme>
-  <programme start="20261023125500 +0000" stop="20261023133000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261023133000 +0000" stop="20261023133500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261023133500 +0000" stop="20261023134000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261023134000 +0000" stop="20261023135000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
   </programme>
   <programme start="20261023135000 +0000" stop="20261023161500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <desc lang="es">Magacine de actualidad social y política con secciones de humor y de verificación de noticias falsas.</desc>
+    <episode-num system="xmltv_ns">0.209.0/1</episode-num>
+    <episode-num system="onscreen">S01E210</episode-num>
   </programme>
   <programme start="20261023161500 +0000" stop="20261023181500 +0000" channel="La1.es.scraper">
     <title lang="es">Premios Princesa de Asturias 2026</title>
@@ -1245,11 +1165,15 @@
   </programme>
   <programme start="20261023181500 +0000" stop="20261023183500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
-    <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc lang="es">Magacine de actualidad social y política y verificación de noticias falsas.</desc>
+    <episode-num system="xmltv_ns">0.483.0/1</episode-num>
+    <episode-num system="onscreen">S01E484</episode-num>
   </programme>
   <programme start="20261023183500 +0000" stop="20261023185500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
+    <desc lang="es">Magacine de naturaleza e información meteorológica.</desc>
+    <episode-num system="xmltv_ns">0.860.0/1</episode-num>
+    <episode-num system="onscreen">S01E861</episode-num>
   </programme>
   <programme start="20261023185500 +0000" stop="20261023195000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2</title>
@@ -1278,18 +1202,20 @@
   <programme start="20261023220000 +0000" stop="20261023225500 +0000" channel="La1.es.scraper">
     <title lang="es">Los archivos secretos del No-Do</title>
     <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
+    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
+    <episode-num system="onscreen">S01E08</episode-num>
   </programme>
   <programme start="20261023225500 +0000" stop="20261023235000 +0000" channel="La1.es.scraper">
     <title lang="es">Los archivos secretos del No-Do</title>
     <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
+    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+    <episode-num system="onscreen">S01E09</episode-num>
   </programme>
   <programme start="20261023235000 +0000" stop="20261024005000 +0000" channel="La1.es.scraper">
     <title lang="es">Los archivos secretos del No-Do</title>
     <desc lang="es">Serie documental que desvela imágenes inéditas nunca vistas en los cines españoles. Todo ello acompañado de los razonamientos de expertos que pueden dar una explicación del porqué de este ostracismo.</desc>
-  </programme>
-  <programme start="20261024005000 +0000" stop="20261024040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
+    <episode-num system="onscreen">S01E10</episode-num>
   </programme>
   <programme start="20261024005000 +0000" stop="20261024040000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -1307,21 +1233,19 @@
     <title lang="es">Audiencia abierta</title>
     <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.</desc>
   </programme>
-  <programme start="20261024083000 +0000" stop="20261024090000 +0000" channel="La1.es.scraper">
+  <programme start="20261024083000 +0000" stop="20261024090500 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261024090000 +0000" stop="20261024100500 +0000" channel="La1.es.scraper">
+  <programme start="20261024090500 +0000" stop="20261024100000 +0000" channel="La1.es.scraper">
     <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
+    <desc lang="es">Un divertido viaje al pasado por momentos televisivos sorprendentes, poco vistos y hasta inéditos de nuestros más queridos artistas y famosos. Con debuts televisivos, bodas de famosos, duetos insólitos, rodajes en España de películas americanas y otras curiosidades.</desc>
+    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+    <episode-num system="onscreen">S01E09</episode-num>
   </programme>
-  <programme start="20261024100500 +0000" stop="20261024110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-  </programme>
-  <programme start="20261024110500 +0000" stop="20261024125500 +0000" channel="La1.es.scraper">
+  <programme start="20261024100000 +0000" stop="20261024125500 +0000" channel="La1.es.scraper">
     <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
   </programme>
   <programme start="20261024125500 +0000" stop="20261024134500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
@@ -1335,35 +1259,47 @@
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
   </programme>
-  <programme start="20261024135500 +0000" stop="20261024153000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261024135500 +0000" stop="20261024155500 +0000" channel="La1.es.scraper">
+    <title lang="es">Oficial y caballero</title>
+    <desc lang="es">Tras una amarga infancia, Zack Mayo (Richard Gere) pasa su adolescencia en Filipinas donde está destinado su padre, Suboficial Jefe de la Marina (Robert Loggia), que desatiende la educación de su hijo. Zack tiene que abrirse paso estudiando por su cuenta para ingresar en la Escuela de Oficiales de Aviación Naval en Port Rainier. El ingreso pasa por una durísima prueba de trece semanas de entrenamiento a cargo del sargento Foley (Louis Gossett, Jr.), una verdadera pesadilla para los aspirantes. Zack, magníficamente preparado, va superando toda clase de pruebas, salvando las trampas que le tiende el sargento, pero sin llegar a integrarse entre los demás aspirantes. Su único amigo es Sid Worley (David Keith), un compañero con el que el día del Baile del Regimiento comparte una cita doble con dos chicas del pueblo. Zack se empareja con Paula Pokrifki (Debra Winger) y, aunque es reservado e introvertido, encuentra en Paula alguien que le ayuda a descargar la tensión acumulada en la escuela.</desc>
   </programme>
-  <programme start="20261024153000 +0000" stop="20261024173000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261024135500 +0000" stop="20261024155500 +0000" channel="La1.es.scraper">
+    <title lang="es">Oficial y caballero</title>
+    <desc lang="es">Tras una amarga infancia, Zack Mayo (Richard Gere) pasa su adolescencia en Filipinas donde está destinado su padre, Suboficial Jefe de la Marina (Robert Loggia), que desatiende la educación de su hijo. Zack tiene que abrirse paso estudiando por su cuenta para ingresar en la Escuela de Oficiales de Aviación Naval en Port Rainier. El ingreso pasa por una durísima prueba de trece semanas de entrenamiento a cargo del sargento Foley (Louis Gossett, Jr.), una verdadera pesadilla para los aspirantes. Zack, magníficamente preparado, va superando toda clase de pruebas, salvando las trampas que le tiende el sargento, pero sin llegar a integrarse entre los demás aspirantes. Su único amigo es Sid Worley (David Keith), un compañero con el que el día del Baile del Regimiento comparte una cita doble con dos chicas del pueblo. Zack se empareja con Paula Pokrifki (Debra Winger) y, aunque es reservado e introvertido, encuentra en Paula alguien que le ayuda a descargar la tensión acumulada en la escuela.</desc>
   </programme>
-  <programme start="20261024173000 +0000" stop="20261024183000 +0000" channel="La1.es.scraper">
+  <programme start="20261024155500 +0000" stop="20261024174000 +0000" channel="La1.es.scraper">
+    <title lang="es">Novia a la fuga</title>
+    <desc lang="es">Maggie es una chica impulsiva y algo neurótica a la que le entusiasman los enlaces matrimoniales, aunque le tiene pánico al matrimonio. Los habitantes del idílico pueblo donde vive ya están familiarizados con sus estampidas del altar, pero el caso impresiona a un periodista neoyorquino, Ike Graham, que busca inspiración para un artículo. Después de escribir una columna misógina cargada de errores en la que cuenta de oídas y critica la historia de Maggie, ésta escribe una carta de protesta a la jefa de Ike y el periodista decide, para contrastar la información y salvar su reputación, viajar hasta el pueblo de Maggie, donde prepara su próxima boda con un entrenador deportivo.</desc>
+  </programme>
+  <programme start="20261024174000 +0000" stop="20261024183000 +0000" channel="La1.es.scraper">
     <title lang="es">Cosas nuestras</title>
-    <desc lang="es">Formato presentado por Aida Bao y Aitor Albizua que quiere convertirse en una cita imprescindible para los espectadores en la que encontrarán actualidad y entretenimiento de calidad. Un punto de encuentro para descubrir y entender lo que ocurre a nuestro alrededor.</desc>
+    <desc lang="es">Formato presentado por Ana Hinestrosa y Aitor Albizua que quiere convertirse en una cita imprescindible para los espectadores en la que encontrarán actualidad y entretenimiento de calidad. Un punto de encuentro para compartir, descubrir y entender lo que ocurre a nuestro alrededor.</desc>
   </programme>
   <programme start="20261024183000 +0000" stop="20261024185500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana. Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
   </programme>
-  <programme start="20261024185500 +0000" stop="20261024193000 +0000" channel="La1.es.scraper">
+  <programme start="20261024185500 +0000" stop="20261024190000 +0000" channel="La1.es.scraper">
     <title lang="es">Deportes 2</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
   </programme>
-  <programme start="20261024193000 +0000" stop="20261024213000 +0000" channel="La1.es.scraper">
+  <programme start="20261024190000 +0000" stop="20261024212000 +0000" channel="La1.es.scraper">
     <title lang="es">Festival de Eurovisión Junior 2026</title>
     <desc lang="es">24ª Edición del concurso Eurovisión Júnior desde el MFCC de Ta' Qali de Malta. Lucas Paulano es el representante español, que, a través de ''Cuore Bello (Te quiero, te quiero)'', construye un relato en el que un recuerdo se vuelve un momento compartido con el público.</desc>
   </programme>
-  <programme start="20261024213000 +0000" stop="20261025021500 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261024212000 +0000" stop="20261025021500 +0000" channel="La1.es.scraper">
+    <title lang="es">Malas lenguas Noche</title>
+    <desc lang="es">Jesús Cintora presenta este magacín de actualidad en su versión nocturna y de fin de semana, donde, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
   </programme>
-  <programme start="20261025011500 +0000" stop="20261025050000 +0000" channel="La1.es.scraper">
+  <programme start="20261025011500 +0000" stop="20261025012700 +0000" channel="La1.es.scraper">
+    <title lang="es">La batalla de los sexos</title>
+    <desc lang="es">La carismática número uno del tenis femenino Billie Jean King lucha firmemente por la igualdad salarial entre deportistas de ambos sexos. Entonces, el extenista profesional, y autodeclarado machista, Bobby Riggs la desafía a un partido de exhibición para resolver de una vez por todas la batalla de los sexos. Esta película, dirigida por Jonathan Dayton y Valerie Faris, está basada en la historia real del partido que se disputó en 1973 entre la tenista profesional Billie Jean King y el extenista Bobby Riggs y que atrajo a más de cincuenta millones de espectadores en Estados Unidos. Esta conmovedora comedia dramática entremezcla eficazmente el romanticismo con el fuerte trasfondo político y cultural.</desc>
+  </programme>
+  <programme start="20261025012700 +0000" stop="20261025050000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261025050000 +0000" stop="20261025060000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
