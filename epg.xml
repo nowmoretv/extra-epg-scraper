@@ -1233,36 +1233,6 @@
     <desc lang="hr">VELEŽ - BSK</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261024005000 +0000" stop="20261024040000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261024040000 +0000" stop="20261024050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261024050000 +0000" stop="20261024080000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261024080000 +0000" stop="20261024083000 +0000" channel="La1.es.scraper">
-    <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.</desc>
-  </programme>
-  <programme start="20261024083000 +0000" stop="20261024090500 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261024090500 +0000" stop="20261024100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un divertido viaje al pasado por momentos televisivos sorprendentes, poco vistos y hasta inéditos de nuestros más queridos artistas y famosos. Con debuts televisivos, bodas de famosos, duetos insólitos, rodajes en España de películas americanas y otras curiosidades.</desc>
-    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
-    <episode-num system="onscreen">S01E09</episode-num>
-  </programme>
-  <programme start="20261024100000 +0000" stop="20261024125500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-  </programme>
   <programme start="20261024125500 +0000" stop="20261024134500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
     <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
@@ -1285,7 +1255,9 @@
   </programme>
   <programme start="20261024174000 +0000" stop="20261024183000 +0000" channel="La1.es.scraper">
     <title lang="es">Cosas nuestras</title>
-    <desc lang="es">Formato presentado por Ana Hinestrosa y Aitor Albizua que quiere convertirse en una cita imprescindible para los espectadores en la que encontrarán actualidad y entretenimiento de calidad. Un punto de encuentro para compartir, descubrir y entender lo que ocurre a nuestro alrededor.</desc>
+    <desc lang="es">Programa de entretenimiento para los fines de semana.</desc>
+    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
+    <episode-num system="onscreen">S01E07</episode-num>
   </programme>
   <programme start="20261024183000 +0000" stop="20261024185500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2 Fin de Semana</title>
@@ -1301,7 +1273,9 @@
   </programme>
   <programme start="20261024212000 +0000" stop="20261025021500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas Noche</title>
-    <desc lang="es">Jesús Cintora presenta este magacín de actualidad en su versión nocturna y de fin de semana, donde, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc lang="es">Magacine en directo de actualidad social y política. Echamos un vistazo a la semana.</desc>
+    <episode-num system="xmltv_ns">0.26.0/1</episode-num>
+    <episode-num system="onscreen">S01E27</episode-num>
   </programme>
   <programme start="20261025011500 +0000" stop="20261025012700 +0000" channel="La1.es.scraper">
     <title lang="es">La batalla de los sexos</title>
@@ -1311,29 +1285,35 @@
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261025012700 +0000" stop="20261025050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
   <programme start="20261025050000 +0000" stop="20261025060000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261025060000 +0000" stop="20261025100500 +0000" channel="La1.es.scraper">
+  <programme start="20261025060000 +0000" stop="20261025100000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261025100500 +0000" stop="20261025111000 +0000" channel="La1.es.scraper">
+  <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="La1.es.scraper">
     <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
+    <desc lang="es">Repaso a una de las sagas más emblemáticas y que más momentos han dado a la televisión en nuestro país. En Flores eternas se escuchan las mejores canciones de Lola Flores, Antonio Flores, Rosario y Lolita, y se repasa su vida profesional y personal.</desc>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
   </programme>
-  <programme start="20261025111000 +0000" stop="20261025120500 +0000" channel="La1.es.scraper">
+  <programme start="20261025110000 +0000" stop="20261025120500 +0000" channel="La1.es.scraper">
     <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
+    <desc lang="es">Capítulo dedicado a canciones que invitan al optimismo, a la superación, a ir de fiesta y bailar.</desc>
+    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
+    <episode-num system="onscreen">S01E01</episode-num>
   </programme>
   <programme start="20261025120500 +0000" stop="20261025135500 +0000" channel="La1.es.scraper">
     <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <desc lang="es">Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <episode-num system="xmltv_ns">0.283.0/1</episode-num>
+    <episode-num system="onscreen">S01E284</episode-num>
+  </programme>
+  <programme start="20261025135500 +0000" stop="20261025144500 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario 1 Fin de Semana</title>
+    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
   </programme>
   <programme start="20261025135500 +0000" stop="20261025144500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
@@ -1347,21 +1327,25 @@
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
   </programme>
-  <programme start="20261025145500 +0000" stop="20261025164000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261025145500 +0000" stop="20261025163500 +0000" channel="La1.es.scraper">
+    <title lang="es">La duquesa</title>
+    <desc lang="es">Hermosa, glamurosa y adorada por el pueblo, Georgiana Spencer fue, como su descendiente Diana de Gales, la mujer más fascinante de su época. Pero mientras que su belleza y su carisma le forjó un nombre en la historia, el amor siempre se le escapó. Casada muy joven con uno de los hombres más ricos de Inglaterra, el duque de Devonshire, fue confidente íntima de ministros y de la Casa Real, llegando a ser un icono de la moda, madre adorada e influyente política para el partido liberal. Sin embargo, en el núcleo de su historia está la búsqueda desesperada de afecto y amor. Desde el apasionado pero fatídico romance con Charles Grey hasta el complicado triángulo amoroso con su marido y su mejor amiga lady Foster.</desc>
   </programme>
-  <programme start="20261025164000 +0000" stop="20261025181000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261025163500 +0000" stop="20261025181500 +0000" channel="La1.es.scraper">
+    <title lang="es">Orgullo y prejuicio</title>
+    <desc lang="es">Los nervios y la agonía dominan por completo la casa de los Bennet, peculiar hogar donde cinco hermanas han sido criadas por su madre con una única preocupación: encontrar un buen marido. El director Joe Wright ("El instante más oscuro") debutaba en la gran pantalla con esta adaptación del universo literario de Jane Austen que estuvo nominada a cuatro Oscar: actriz protagonista (Keira Knightley), vestuario, música y dirección artística. Completan el reparto de este drama romántico de época, Matthew Macfadyen, Brenda Blethyn, Donald Sutherland, Tom Hollander, Rosamund Pike, Jena Malone, Judi Dench y Carey Mulligan. Una historia de amor, egos y malentendidos en el centro de esta emotiva película que vuelve a trasladar a la gran pantalla una célebre obra de Austen, como ya ocurriera en otras ocasiones con los clásicos "Sentido y sensibilidad" (1995), "Emma" (1996), "Mansfield Park" (1999) y "Persuasión" (2007).</desc>
   </programme>
-  <programme start="20261025181000 +0000" stop="20261025194000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261025181500 +0000" stop="20261025193500 +0000" channel="La1.es.scraper">
+    <title lang="es">Cosas nuestras</title>
+    <desc lang="es">Programa de entretenimiento para los fines de semana.</desc>
+    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
+    <episode-num system="onscreen">S01E08</episode-num>
   </programme>
-  <programme start="20261025194000 +0000" stop="20261025195500 +0000" channel="La1.es.scraper">
+  <programme start="20261025193500 +0000" stop="20261025195500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
+    <desc lang="es">Magacine de naturaleza e información meteorológica.</desc>
+    <episode-num system="xmltv_ns">0.861.0/1</episode-num>
+    <episode-num system="onscreen">S01E862</episode-num>
   </programme>
   <programme start="20261025195500 +0000" stop="20261025205000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2 Fin de Semana</title>
@@ -1371,20 +1355,24 @@
     <title lang="es">Deportes 2</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
   </programme>
-  <programme start="20261025210000 +0000" stop="20261025225000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261025210000 +0000" stop="20261025233500 +0000" channel="La1.es.scraper">
+    <title lang="es">Sin tiempo para morir</title>
+    <desc lang="es">Una misión para rescatar a un científico secuestrado resulta ser mucho más turbia de lo esperado, y lleva a Bond (Daniel Craig) tras la pista de un misterioso villano armado con una nueva y peligrosa tecnología.</desc>
   </programme>
-  <programme start="20261025225000 +0000" stop="20261026003000 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261025233500 +0000" stop="20261026014000 +0000" channel="La1.es.scraper">
+    <title lang="es">Goldeneye</title>
+    <desc lang="es">En 1986, James Bond -el agente 007 del servicio secreto británico- y Alec Trevelyan -agente 006-, se introducen en las instalaciones soviéticas de armas químicas de Arkangel para intentar destruirlas, pero 006 es apresado. Nueve años después, Bond se cruza en Montecarlo con Xenia Onatopp, expiloto soviética relacionada con un sindicato del crimen de San Petersburgo. Tras un descanso de seis años, las aventuras de James Bond, el agente secreto creado en 1953 por el escritor Ian Fleming, volvieron a la gran pantalla con "Goldeneye", decimoséptima película oficial (producida por Eon) de 007. Además, la franquicia volvía con un nuevo actor en el papel, Pierce Brosnan -protagonista también de las sucesivas "El mañana nunca muere" (1997), "El mundo nunca es suficiente" (1999) y "Muere otro día" (2002)-, iniciando una de las etapas más exitosas comercialmente de la franquicia Bond.</desc>
   </programme>
-  <programme start="20261026003000 +0000" stop="20261026022500 +0000" channel="La1.es.scraper">
-    <title lang="es">Cine</title>
-    <desc lang="es">Cine</desc>
+  <programme start="20261026014000 +0000" stop="20261026033000 +0000" channel="La1.es.scraper">
+    <title lang="es">Armas de mujer</title>
+    <desc lang="es">Tess McGill es una secretaria de origen humilde con un gran deseo de formarse y lanzarse al mundo de las altas finanzas y la bolsa neoyorquina. Su gran oportunidad le llega cuando su nueva jefa Katherine, una atractiva 'yuppie' capaz de todo con tal de no perder su poder, se va de vacaciones y Tess se ocupa de sus asuntos. Buscando documentos en su despacho, Tess descubre que su jefa está preparando un importante plan de negocio basado en un informe que ella misma había preparado y, que según le había manifestado Katherine, no tenía ningún interés. Ofendida por el descubrimiento, Tess decide suplantarla aprovechando que ésta ha sufrido un accidente que la obliga a convalecer en un hospital europeo.</desc>
   </programme>
-  <programme start="20261026022500 +0000" stop="20261026050000 +0000" channel="La1.es.scraper">
+  <programme start="20261026033000 +0000" stop="20261026050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261026050000 +0000" stop="20261026065000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
 </tv>
