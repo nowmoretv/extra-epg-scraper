@@ -723,40 +723,6 @@
     <desc lang="hr">VELEŽ - BSK</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261025012700 +0000" stop="20261025050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261025050000 +0000" stop="20261025060000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261025060000 +0000" stop="20261025100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261025100000 +0000" stop="20261025110000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Repaso a una de las sagas más emblemáticas y que más momentos han dado a la televisión en nuestro país. En Flores eternas se escuchan las mejores canciones de Lola Flores, Antonio Flores, Rosario y Lolita, y se repasa su vida profesional y personal.</desc>
-    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
-    <episode-num system="onscreen">S01E06</episode-num>
-  </programme>
-  <programme start="20261025110000 +0000" stop="20261025120500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Capítulo dedicado a canciones que invitan al optimismo, a la superación, a ir de fiesta y bailar.</desc>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-  </programme>
-  <programme start="20261025120500 +0000" stop="20261025135500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.283.0/1</episode-num>
-    <episode-num system="onscreen">S01E284</episode-num>
-  </programme>
-  <programme start="20261025135500 +0000" stop="20261025144500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
   <programme start="20261025144500 +0000" stop="20261025145000 +0000" channel="La1.es.scraper">
     <title lang="es">Deportes 1</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
@@ -805,10 +771,6 @@
     <title lang="es">Armas de mujer</title>
     <desc lang="es">Tess McGill es una secretaria de origen humilde con un gran deseo de formarse y lanzarse al mundo de las altas finanzas y la bolsa neoyorquina. Su gran oportunidad le llega cuando su nueva jefa Katherine, una atractiva 'yuppie' capaz de todo con tal de no perder su poder, se va de vacaciones y Tess se ocupa de sus asuntos. Buscando documentos en su despacho, Tess descubre que su jefa está preparando un importante plan de negocio basado en un informe que ella misma había preparado y, que según le había manifestado Katherine, no tenía ningún interés. Ofendida por el descubrimiento, Tess decide suplantarla aprovechando que ésta ha sufrido un accidente que la obliga a convalecer en un hospital europeo.</desc>
   </programme>
-  <programme start="20261026014000 +0000" stop="20261026033000 +0000" channel="La1.es.scraper">
-    <title lang="es">Armas de mujer</title>
-    <desc lang="es">Tess McGill es una secretaria de origen humilde con un gran deseo de formarse y lanzarse al mundo de las altas finanzas y la bolsa neoyorquina. Su gran oportunidad le llega cuando su nueva jefa Katherine, una atractiva 'yuppie' capaz de todo con tal de no perder su poder, se va de vacaciones y Tess se ocupa de sus asuntos. Buscando documentos en su despacho, Tess descubre que su jefa está preparando un importante plan de negocio basado en un informe que ella misma había preparado y, que según le había manifestado Katherine, no tenía ningún interés. Ofendida por el descubrimiento, Tess decide suplantarla aprovechando que ésta ha sufrido un accidente que la obliga a convalecer en un hospital europeo.</desc>
-  </programme>
   <programme start="20261026033000 +0000" stop="20261026050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
@@ -840,6 +802,10 @@
   <programme start="20261026143500 +0000" stop="20261026144000 +0000" channel="La1.es.scraper">
     <title lang="es">El tiempo</title>
     <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
+  </programme>
+  <programme start="20261026144000 +0000" stop="20261026145000 +0000" channel="La1.es.scraper">
+    <title lang="es">Informativo territorial 2</title>
+    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
   </programme>
   <programme start="20261026144000 +0000" stop="20261026145000 +0000" channel="La1.es.scraper">
     <title lang="es">Informativo territorial 2</title>
@@ -900,5 +866,13 @@
     <desc lang="es">Nueve aspirantes continúan en ''MasterChef Celebrity Legends'' y ha llegado el momento de descubrir cuánto saben realmente unos de otros. Con la ayuda del actor y director Eduardo Casanova, el jurado propondrá un juego que sacará a la luz muchos secretos culinarios.</desc>
     <episode-num system="xmltv_ns">0.6.0/1</episode-num>
     <episode-num system="onscreen">S01E07</episode-num>
+  </programme>
+  <programme start="20261027040000 +0000" stop="20261027050000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261027050000 +0000" stop="20261027065000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
 </tv>
