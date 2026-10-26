@@ -1093,61 +1093,15 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261026014000 +0000" stop="20261026033000 +0000" channel="La1.es.scraper">
-    <title lang="es">Armas de mujer</title>
-    <desc lang="es">Tess McGill es una secretaria de origen humilde con un gran deseo de formarse y lanzarse al mundo de las altas finanzas y la bolsa neoyorquina. Su gran oportunidad le llega cuando su nueva jefa Katherine, una atractiva 'yuppie' capaz de todo con tal de no perder su poder, se va de vacaciones y Tess se ocupa de sus asuntos. Buscando documentos en su despacho, Tess descubre que su jefa está preparando un importante plan de negocio basado en un informe que ella misma había preparado y, que según le había manifestado Katherine, no tenía ningún interés. Ofendida por el descubrimiento, Tess decide suplantarla aprovechando que ésta ha sufrido un accidente que la obliga a convalecer en un hospital europeo.</desc>
-  </programme>
-  <programme start="20261026033000 +0000" stop="20261026050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261026050000 +0000" stop="20261026065000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261026065000 +0000" stop="20261026093500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.210.0/1</episode-num>
-    <episode-num system="onscreen">S01E211</episode-num>
-  </programme>
-  <programme start="20261026093500 +0000" stop="20261026135500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.</desc>
-    <episode-num system="xmltv_ns">0.45.0/1</episode-num>
-    <episode-num system="onscreen">S01E46</episode-num>
-  </programme>
-  <programme start="20261026135500 +0000" stop="20261026143000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261026143000 +0000" stop="20261026143500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261026143500 +0000" stop="20261026144000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261026144000 +0000" stop="20261026145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
-  <programme start="20261026145000 +0000" stop="20261026164500 +0000" channel="La1.es.scraper">
-    <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacine de actualidad social y política con secciones de humor y de verificación de noticias falsas.</desc>
-    <episode-num system="xmltv_ns">0.210.0/1</episode-num>
-    <episode-num system="onscreen">S01E211</episode-num>
-  </programme>
-  <programme start="20261026164500 +0000" stop="20261026173500 +0000" channel="La1.es.scraper">
+  <programme start="20261026165500 +0000" stop="20261026174100 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc lang="es">Hernando deja claro a Alejo que la boda ya está en marcha y no piensa dar un paso atrás. Bárbara queda desconcertada al enterarse de algo inesperado sobre Genaro. Y, en mitad de la noche, José Luis aparece ante Victoria….</desc>
     <episode-num system="xmltv_ns">0.90.0/1</episode-num>
     <episode-num system="onscreen">S01E91</episode-num>
   </programme>
-  <programme start="20261026173500 +0000" stop="20261026183500 +0000" channel="La1.es.scraper">
+  <programme start="20261026174100 +0000" stop="20261026183500 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
-    <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+    <desc lang="es">Curro cuenta a Manuel todo lo relacionado con la habitación secreta: ahí era donde su padre y su madre se encontraban y él vivió de bebé. También donde Cruz movió el cuerpo de Tomás y donde él mantuvo secuestrado a Lorenzo.</desc>
     <episode-num system="xmltv_ns">0.933.0/1</episode-num>
     <episode-num system="onscreen">S01E934</episode-num>
   </programme>
@@ -1163,15 +1117,15 @@
     <episode-num system="xmltv_ns">0.862.0/1</episode-num>
     <episode-num system="onscreen">S01E863</episode-num>
   </programme>
-  <programme start="20261026195500 +0000" stop="20261026204000 +0000" channel="La1.es.scraper">
+  <programme start="20261026195500 +0000" stop="20261026205000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.</desc>
   </programme>
-  <programme start="20261026204000 +0000" stop="20261026204500 +0000" channel="La1.es.scraper">
+  <programme start="20261026205000 +0000" stop="20261026205500 +0000" channel="La1.es.scraper">
     <title lang="es">Deportes 2</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
   </programme>
-  <programme start="20261026204500 +0000" stop="20261026220000 +0000" channel="La1.es.scraper">
+  <programme start="20261026205500 +0000" stop="20261026220000 +0000" channel="La1.es.scraper">
     <title lang="es">La revuelta</title>
     <desc lang="es">Artistas, deportistas, científicos y todo tipo de personalidades se sumergen en las conversaciones más impredecibles con el presentador, David Broncano, siempre acompañado por su banda: Ricardo Castella, veterano de la comedia española, y el campeón de beatbox Grison, una mina antipersona de chistes.</desc>
     <episode-num system="xmltv_ns">0.350.0/1</episode-num>
@@ -1182,12 +1136,6 @@
     <desc lang="es">Ante el jurado y Falete, los aspirantes crearán un postre con una fruta exótica del frutero tiktokero. En el espacio gastronómico Bernabéu Market, casa del Real Madrid CF, cada equipo cocinará un menú.</desc>
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
     <episode-num system="onscreen">S01E08</episode-num>
-  </programme>
-  <programme start="20261027010500 +0000" stop="20261027040000 +0000" channel="La1.es.scraper">
-    <title lang="es">MasterChef Celebrity Legends</title>
-    <desc lang="es">Nueve aspirantes continúan en ''MasterChef Celebrity Legends'' y ha llegado el momento de descubrir cuánto saben realmente unos de otros. Con la ayuda del actor y director Eduardo Casanova, el jurado propondrá un juego que sacará a la luz muchos secretos culinarios.</desc>
-    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
-    <episode-num system="onscreen">S01E07</episode-num>
   </programme>
   <programme start="20261027010500 +0000" stop="20261027040000 +0000" channel="La1.es.scraper">
     <title lang="es">MasterChef Celebrity Legends</title>
@@ -1235,6 +1183,10 @@
     <title lang="es">Valle Salvaje</title>
     <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
   </programme>
+  <programme start="20261027164500 +0000" stop="20261027173500 +0000" channel="La1.es.scraper">
+    <title lang="es">Valle Salvaje</title>
+    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+  </programme>
   <programme start="20261027173500 +0000" stop="20261027183500 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
     <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
@@ -1247,28 +1199,34 @@
     <title lang="es">Aquí la Tierra</title>
     <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
   </programme>
-  <programme start="20261027195500 +0000" stop="20261027204000 +0000" channel="La1.es.scraper">
+  <programme start="20261027195500 +0000" stop="20261027205000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.</desc>
   </programme>
-  <programme start="20261027204000 +0000" stop="20261027204500 +0000" channel="La1.es.scraper">
+  <programme start="20261027205000 +0000" stop="20261027205500 +0000" channel="La1.es.scraper">
     <title lang="es">Deportes 2</title>
     <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
   </programme>
-  <programme start="20261027204500 +0000" stop="20261027220000 +0000" channel="La1.es.scraper">
+  <programme start="20261027205500 +0000" stop="20261027220000 +0000" channel="La1.es.scraper">
     <title lang="es">La revuelta</title>
     <desc lang="es">David Broncano conduce La revuelta, un programa de atípicas entrevistas a famosos.</desc>
   </programme>
-  <programme start="20261027220000 +0000" stop="20261028001000 +0000" channel="La1.es.scraper">
-    <title lang="es">Dog House</title>
-    <desc lang="es">El programa nos adentra en el día a día de un albergue de adopción de perros, donde un equipo comprometido trabaja con dedicación para encontrar el hogar perfecto para cada perro.</desc>
+  <programme start="20261027220000 +0000" stop="20261028011000 +0000" channel="La1.es.scraper">
+    <title lang="es">MasterChef Celebrity Legends</title>
+    <desc lang="es">El jurado viajará en el tiempo para que los aspirantes enmienden sus errores culinarios del pasado. Para salvarse de la expulsión, los delantales negros se enfrentarán a uno de los retos míticos del programa: los duelos, con propuestas del chef mexicano Roberto Ortiz.</desc>
+    <episode-num system="xmltv_ns">0.8.0/1</episode-num>
+    <episode-num system="onscreen">S01E09</episode-num>
   </programme>
-  <programme start="20261028001000 +0000" stop="20261028021500 +0000" channel="La1.es.scraper">
-    <title lang="es">Dog House</title>
-    <desc lang="es">El programa nos adentra en el día a día de un albergue de adopción de perros, donde un equipo comprometido trabaja con dedicación para encontrar el hogar perfecto para cada perro.</desc>
+  <programme start="20261028011000 +0000" stop="20261028040500 +0000" channel="La1.es.scraper">
+    <title lang="es">MasterChef Celebrity Legends</title>
+    <desc lang="es">MasterChef da una segunda oportunidad a participantes famosos de las ediciones anteriores.</desc>
   </programme>
-  <programme start="20261028021500 +0000" stop="20261028050000 +0000" channel="La1.es.scraper">
+  <programme start="20261028040500 +0000" stop="20261028050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261028050000 +0000" stop="20261028065000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
 </tv>
