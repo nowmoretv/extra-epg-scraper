@@ -33,11 +33,6 @@
   <channel id="La1.es.scraper">
     <display-name>La 1</display-name>
   </channel>
-  <programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">PREMIER LEAGUE: PREGLED KOLA</title>
-    <desc lang="hr">PREGLED KOLA</desc>
-    <category lang="hr">Studio</category>
-  </programme>
   <programme start="20261026230000 +0000" stop="20261027001500 +0000" channel="ArenaSport1.hr.scraper">
     <title lang="hr">LIGA PRVAKA: SAŽETAK</title>
     <desc lang="hr">SAŽETAK</desc>
@@ -218,11 +213,6 @@
     <desc lang="hr">VENEZIA - INTER</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261026221500 +0000" stop="20261026233000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">NHL: CHICAGO - FLORIDA</title>
-    <desc lang="hr">CHICAGO - FLORIDA</desc>
-    <category lang="hr">Hokej na ledu</category>
-  </programme>
   <programme start="20261026233000 +0000" stop="20261027023000 +0000" channel="ArenaSport2.hr.scraper">
     <title lang="hr">MLB: WORLD SERIES G3</title>
     <desc lang="hr">WORLD SERIES G3</desc>
@@ -284,13 +274,13 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261027220000 +0000" stop="20261028000000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">CARABAO: BRADFORD - PETERBOROUGH</title>
-    <desc lang="hr">BRADFORD - PETERBOROUGH</desc>
+    <title lang="hr">ARGENTINSKA LIGA: ARGENTINOS JRS. - IND. RIVADAVIA</title>
+    <desc lang="hr">ARGENTINOS JRS. - IND. RIVADAVIA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261027220000 +0000" stop="20261028000000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">CARABAO: BRADFORD - PETERBOROUGH</title>
-    <desc lang="hr">BRADFORD - PETERBOROUGH</desc>
+    <title lang="hr">ARGENTINSKA LIGA: ARGENTINOS JRS. - IND. RIVADAVIA</title>
+    <desc lang="hr">ARGENTINOS JRS. - IND. RIVADAVIA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261028000000 +0000" stop="20261028013000 +0000" channel="ArenaSport2.hr.scraper">
@@ -357,11 +347,6 @@
     <title lang="hr">CARABAO: MANCHESTER CITY - BRIGHTON</title>
     <desc lang="hr">MANCHESTER CITY - BRIGHTON</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
-    <desc lang="hr">NEUSPJEH PRVAKA</desc>
-    <category lang="hr">Emisija</category>
   </programme>
   <programme start="20261026230000 +0000" stop="20261027010000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">FRANCUSKA LIGA: RENNES - STRASBOURG</title>
@@ -513,11 +498,6 @@
     <desc lang="hr">NEUSPJEH PRVAKA</desc>
     <category lang="hr">Emisija</category>
   </programme>
-  <programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: MLADOST - JADRAN ST</title>
-    <desc lang="hr">MLADOST - JADRAN ST</desc>
-    <category lang="hr">Vaterpolo</category>
-  </programme>
   <programme start="20261026230000 +0000" stop="20261027010000 +0000" channel="ArenaSport4.hr.scraper">
     <title lang="hr">ABA LIGA: CEDEVITA - BUDUCNOST</title>
     <desc lang="hr">CEDEVITA - BUDUCNOST</desc>
@@ -584,14 +564,14 @@
     <category lang="hr">Emisija</category>
   </programme>
   <programme start="20261027213000 +0000" stop="20261027230000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">ARGENTINSKA LIGA: ARGENTINOS JRS. - IND. RIVADAVIA</title>
-    <desc lang="hr">ARGENTINOS JRS. - IND. RIVADAVIA</desc>
-    <category lang="hr">Nogomet</category>
+    <title lang="hr">LIGA PRVAKA: MLADOST - JADRAN ST</title>
+    <desc lang="hr">MLADOST - JADRAN ST</desc>
+    <category lang="hr">Vaterpolo</category>
   </programme>
   <programme start="20261027213000 +0000" stop="20261027230000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">ARGENTINSKA LIGA: ARGENTINOS JRS. - IND. RIVADAVIA</title>
-    <desc lang="hr">ARGENTINOS JRS. - IND. RIVADAVIA</desc>
-    <category lang="hr">Nogomet</category>
+    <title lang="hr">LIGA PRVAKA: MLADOST - JADRAN ST</title>
+    <desc lang="hr">MLADOST - JADRAN ST</desc>
+    <category lang="hr">Vaterpolo</category>
   </programme>
   <programme start="20261027230000 +0000" stop="20261028010000 +0000" channel="ArenaSport4.hr.scraper">
     <title lang="hr">ABA LIGA: CIBONA - KRKA</title>
@@ -629,8 +609,8 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261028120000 +0000" stop="20261028140000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">BIH KUP: ZVIJEZDA - VELEŽ</title>
-    <desc lang="hr">ZVIJEZDA - VELEŽ</desc>
+    <title lang="hr">KUP SRBIJE: SLOVEN - VOJVODINA</title>
+    <desc lang="hr">SLOVEN - VOJVODINA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261028140000 +0000" stop="20261028160000 +0000" channel="ArenaSport4.hr.scraper">
@@ -662,11 +642,6 @@
     <title lang="hr">LIGA PRVAKA: ORADEA - RADNICKI</title>
     <desc lang="hr">ORADEA - RADNICKI</desc>
     <category lang="hr">Vaterpolo</category>
-  </programme>
-  <programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">RUMUNJSKA LIGA: ARGES - UTA</title>
-    <desc lang="hr">ARGES - UTA</desc>
-    <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261026230000 +0000" stop="20261027140000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
@@ -733,11 +708,6 @@
     <desc lang="hr">BOTOSANI - PETROLUL</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">POLJSKA LIGA: LECH - KORONA</title>
-    <desc lang="hr">LECH - KORONA</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20261026230000 +0000" stop="20261027140000 +0000" channel="ArenaSport6.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -801,11 +771,6 @@
   <programme start="20261028220000 +0000" stop="20261028230000 +0000" channel="ArenaSport6.hr.scraper">
     <title lang="hr">POLJSKA LIGA: SLASK - WIECZYSTA KRAKOW</title>
     <desc lang="hr">SLASK - WIECZYSTA KRAKOW</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261026220000 +0000" stop="20261027000000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: ROMA - REAL MADRID</title>
-    <desc lang="hr">ROMA - REAL MADRID</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261027000000 +0000" stop="20261027020000 +0000" channel="ArenaSport7.hr.scraper">
@@ -944,13 +909,13 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261028140000 +0000" stop="20261028160000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">KONFERENCIJSKA LIGA: THUN - HAJDUK</title>
-    <desc lang="hr">THUN - HAJDUK</desc>
+    <title lang="hr">SUPER LIGA SRBIJE: RADNIČKI 1923 - ŽELEZNIČAR</title>
+    <desc lang="hr">RADNIČKI 1923 - ŽELEZNIČAR</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261028160000 +0000" stop="20261028180000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: LIVERPOOL - VILLAREAL</title>
-    <desc lang="hr">LIVERPOOL - VILLAREAL</desc>
+    <title lang="hr">SUPER LIGA SRBIJE: RADNIČKI NIŠ - PARTIZAN</title>
+    <desc lang="hr">RADNIČKI NIŠ - PARTIZAN</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261028180000 +0000" stop="20261028193000 +0000" channel="ArenaSport7.hr.scraper">
@@ -967,11 +932,6 @@
     <title lang="hr">LIGA PRVAKA: PSG - BARCELONA</title>
     <desc lang="hr">PSG - BARCELONA</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261026220000 +0000" stop="20261026230000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">DOKUMENTARNI FILM: LET THEM WEAR TOWELS</title>
-    <desc lang="hr">LET THEM WEAR TOWELS</desc>
-    <category lang="hr">Dokumentarni film</category>
   </programme>
   <programme start="20261026230000 +0000" stop="20261027010000 +0000" channel="ArenaSport8.hr.scraper">
     <title lang="hr">WBC SUPER MIDDLEWEIGHT WORLD CHAMPIONSHIP: MBILI - SULECKI</title>
@@ -1118,11 +1078,6 @@
     <desc lang="hr">SON OF KONGO</desc>
     <category lang="hr">Dokumentarni film</category>
   </programme>
-  <programme start="20261025230000 +0000" stop="20261026230000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
-    <desc lang="hr">NAJAVA PROGRAMA</desc>
-    <category lang="hr">Najava programa</category>
-  </programme>
   <programme start="20261026230000 +0000" stop="20261027230000 +0000" channel="ArenaSport9.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -1143,11 +1098,6 @@
     <desc lang="hr">MONZA - NAPOLI</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261025230000 +0000" stop="20261026230000 +0000" channel="ArenaSport10.hr.scraper">
-    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
-    <desc lang="hr">NAJAVA PROGRAMA</desc>
-    <category lang="hr">Najava programa</category>
-  </programme>
   <programme start="20261026230000 +0000" stop="20261027230000 +0000" channel="ArenaSport10.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -1167,46 +1117,6 @@
     <title lang="hr">CARABAO: SUNDERLAND - BRENTFORD</title>
     <desc lang="hr">SUNDERLAND - BRENTFORD</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261027011900 +0000" stop="20261027040000 +0000" channel="La1.es.scraper">
-    <title lang="es">MasterChef Celebrity Legends</title>
-    <desc lang="es">Nueve aspirantes continúan en ''MasterChef Celebrity Legends'' y ha llegado el momento de descubrir cuánto saben realmente unos de otros. Con la ayuda del actor y director Eduardo Casanova, el jurado propondrá un juego que sacará a la luz muchos secretos culinarios.</desc>
-    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
-    <episode-num system="onscreen">S01E07</episode-num>
-  </programme>
-  <programme start="20261027040000 +0000" stop="20261027050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261027050000 +0000" stop="20261027065000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261027065000 +0000" stop="20261027093500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
-  </programme>
-  <programme start="20261027093500 +0000" stop="20261027135500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.</desc>
-    <episode-num system="xmltv_ns">0.46.0/1</episode-num>
-    <episode-num system="onscreen">S01E47</episode-num>
-  </programme>
-  <programme start="20261027135500 +0000" stop="20261027143000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261027143000 +0000" stop="20261027143500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261027143500 +0000" stop="20261027144000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261027144000 +0000" stop="20261027145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
   </programme>
   <programme start="20261027145000 +0000" stop="20261027164500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
@@ -1264,12 +1174,6 @@
     <episode-num system="xmltv_ns">0.7.0/1</episode-num>
     <episode-num system="onscreen">S01E08</episode-num>
   </programme>
-  <programme start="20261028011000 +0000" stop="20261028040500 +0000" channel="La1.es.scraper">
-    <title lang="es">MasterChef Celebrity Legends</title>
-    <desc lang="es">Ante el jurado y Falete, los aspirantes crearán un postre con una fruta exótica del frutero tiktokero. En el espacio gastronómico Bernabéu Market, casa del Real Madrid CF, cada equipo cocinará un menú.</desc>
-    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
-    <episode-num system="onscreen">S01E08</episode-num>
-  </programme>
   <programme start="20261028040500 +0000" stop="20261028050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
@@ -1301,6 +1205,10 @@
   <programme start="20261028144000 +0000" stop="20261028145000 +0000" channel="La1.es.scraper">
     <title lang="es">Informativo territorial 2</title>
     <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
+  </programme>
+  <programme start="20261028145000 +0000" stop="20261028164500 +0000" channel="La1.es.scraper">
+    <title lang="es">Directo al grano</title>
+    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
   </programme>
   <programme start="20261028145000 +0000" stop="20261028164500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
@@ -1345,5 +1253,13 @@
   <programme start="20261029011000 +0000" stop="20261029040500 +0000" channel="La1.es.scraper">
     <title lang="es">La noche en 24 horas</title>
     <desc lang="es">Informativo diario nocturno presentado por Marc Sala que ofrece un análisis profundo y plural de la actualidad de la jornada.</desc>
+  </programme>
+  <programme start="20261029040500 +0000" stop="20261029050000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261029050000 +0000" stop="20261029065000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
 </tv>
