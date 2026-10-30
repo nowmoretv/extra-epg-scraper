@@ -33,11 +33,6 @@
   <channel id="La1.es.scraper">
     <display-name>La 1</display-name>
   </channel>
-  <programme start="20261029220000 +0000" stop="20261030001500 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">TALIJANSKA LIGA: MILAN - ATALANTA</title>
-    <desc lang="hr">MILAN - ATALANTA</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20261030001500 +0000" stop="20261030031500 +0000" channel="ArenaSport1.hr.scraper">
     <title lang="hr">NFL: GREEN BAY - CAROLINA</title>
     <desc lang="hr">GREEN BAY - CAROLINA</desc>
@@ -129,8 +124,8 @@
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261031000000 +0000" stop="20261031030000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">MLB: WORLD SERIES G6</title>
-    <desc lang="hr">WORLD SERIES G6</desc>
+    <title lang="hr">MLB: WORLD SERIES G5</title>
+    <desc lang="hr">WORLD SERIES G5</desc>
     <category lang="hr">Baseball</category>
   </programme>
   <programme start="20261031030000 +0000" stop="20261031033000 +0000" channel="ArenaSport1.hr.scraper">
@@ -213,11 +208,6 @@
     <desc lang="hr">VELEZ - SAN LORENZO</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261029220000 +0000" stop="20261030000000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">MLB: WORLD SERIES G5</title>
-    <desc lang="hr">WORLD SERIES G5</desc>
-    <category lang="hr">Baseball</category>
-  </programme>
   <programme start="20261030000000 +0000" stop="20261030013000 +0000" channel="ArenaSport2.hr.scraper">
     <title lang="hr">LIGA PRVAKA M: KRISTIANSTAD - SZEGED</title>
     <desc lang="hr">KRISTIANSTAD - SZEGED</desc>
@@ -274,8 +264,8 @@
     <category lang="hr">Emisija</category>
   </programme>
   <programme start="20261030180000 +0000" stop="20261030200000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">FRANCUSKA LIGA: LE MANS - PSG</title>
-    <desc lang="hr">LE MANS - PSG</desc>
+    <title lang="hr">FRANCUSKA LIGA: LE HAVRE - PSG</title>
+    <desc lang="hr">LE HAVRE - PSG</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261030200000 +0000" stop="20261030220000 +0000" channel="ArenaSport2.hr.scraper">
@@ -362,11 +352,6 @@
     <title lang="hr">PREMIER LEAGUE: CHELSEA - MANCHESTER UNITED</title>
     <desc lang="hr">CHELSEA - MANCHESTER UNITED</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261029220000 +0000" stop="20261029230000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
-    <desc lang="hr">NEUSPJEH PRVAKA</desc>
-    <category lang="hr">Emisija</category>
   </programme>
   <programme start="20261029230000 +0000" stop="20261030010000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">FRANCUSKA LIGA: MARSEILLE - LE HAVRE</title>
@@ -494,9 +479,9 @@
     <category lang="hr">Baseball</category>
   </programme>
   <programme start="20261031130000 +0000" stop="20261031150000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">FRANCUSKA 2.LIGA: REIMS - SOCHAUX</title>
-    <desc lang="hr">REIMS - SOCHAUX</desc>
-    <category lang="hr">Nogomet</category>
+    <title lang="hr">ABA LIGA: CIBONA - IGOKEA</title>
+    <desc lang="hr">CIBONA - IGOKEA</desc>
+    <category lang="hr">Košarka</category>
   </programme>
   <programme start="20261031150000 +0000" stop="20261031170000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">PREMIER LEAGUE: HULL - IPSWICH</title>
@@ -517,11 +502,6 @@
     <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
     <desc lang="hr">NEUSPJEH PRVAKA</desc>
     <category lang="hr">Emisija</category>
-  </programme>
-  <programme start="20261029220000 +0000" stop="20261029230000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: BARCELONETA - NOVI BEOGRAD</title>
-    <desc lang="hr">BARCELONETA - NOVI BEOGRAD</desc>
-    <category lang="hr">Vaterpolo</category>
   </programme>
   <programme start="20261029230000 +0000" stop="20261030010000 +0000" channel="ArenaSport4.hr.scraper">
     <title lang="hr">ABA LIGA: VIENA - MEGA</title>
@@ -663,11 +643,6 @@
     <desc lang="hr">LA KINGS - BUFFALO</desc>
     <category lang="hr">Hokej na ledu</category>
   </programme>
-  <programme start="20261029220000 +0000" stop="20261029230000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">RUMUNJSKA LIGA: SEPSI - U CRAIOVA</title>
-    <desc lang="hr">SEPSI - U CRAIOVA</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20261029230000 +0000" stop="20261030140000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -736,11 +711,6 @@
   <programme start="20261031220000 +0000" stop="20261031230000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">RUMUNJSKA LIGA: RAPID B - CSIKSZEREDA</title>
     <desc lang="hr">RAPID B - CSIKSZEREDA</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261029220000 +0000" stop="20261029230000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">POLJSKA LIGA: WISLA KRAKOW - RAKOW</title>
-    <desc lang="hr">WISLA KRAKOW - RAKOW</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261029230000 +0000" stop="20261030130000 +0000" channel="ArenaSport6.hr.scraper">
@@ -821,11 +791,6 @@
   <programme start="20261031220000 +0000" stop="20261031230000 +0000" channel="ArenaSport6.hr.scraper">
     <title lang="hr">POLJSKA LIGA: WISLA P - PIAST</title>
     <desc lang="hr">WISLA P - PIAST</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261029220000 +0000" stop="20261030000000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: BAYERN - ARSENAL</title>
-    <desc lang="hr">BAYERN - ARSENAL</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261030000000 +0000" stop="20261030020000 +0000" channel="ArenaSport7.hr.scraper">
@@ -993,11 +958,6 @@
     <desc lang="hr">STUTTGART - ATLETICO MADRID</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261029220000 +0000" stop="20261029230000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">DOKUMENTARNI FILM: TOMMY</title>
-    <desc lang="hr">TOMMY</desc>
-    <category lang="hr">Dokumentarni film</category>
-  </programme>
   <programme start="20261029230000 +0000" stop="20261030010000 +0000" channel="ArenaSport8.hr.scraper">
     <title lang="hr">WBC WELTERWEIGHT WORLD CHAMPIONSHIP: MVP 04</title>
     <desc lang="hr">MVP 04</desc>
@@ -1138,11 +1098,6 @@
     <desc lang="hr">LET THEM WEAR TOWELS</desc>
     <category lang="hr">Dokumentarni film</category>
   </programme>
-  <programme start="20261028230000 +0000" stop="20261029230000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
-    <desc lang="hr">NAJAVA PROGRAMA</desc>
-    <category lang="hr">Najava programa</category>
-  </programme>
   <programme start="20261029230000 +0000" stop="20261030230000 +0000" channel="ArenaSport9.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -1162,11 +1117,6 @@
     <title lang="hr">PREMIER LEAGUE: COVENTRY - SUNDERLAND</title>
     <desc lang="hr">COVENTRY - SUNDERLAND</desc>
     <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261028230000 +0000" stop="20261029230000 +0000" channel="ArenaSport10.hr.scraper">
-    <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
-    <desc lang="hr">NAJAVA PROGRAMA</desc>
-    <category lang="hr">Najava programa</category>
   </programme>
   <programme start="20261029230000 +0000" stop="20261030230000 +0000" channel="ArenaSport10.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
@@ -1193,49 +1143,13 @@
     <desc lang="hr">ŽELJEZNIČAR - ZRINJSKI</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261030001100 +0000" stop="20261030050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261030050000 +0000" stop="20261030065000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261030065000 +0000" stop="20261030093500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">El programa cuenta con reportajes y entrevistas, dedicados a analizar en profundidad el mundo de la política y la actualidad. ''La hora de 1'' cuenta con voces autorizadas que tratarán temas que fomenten el pensamiento crítico y el servicio público, para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.214.0/1</episode-num>
-    <episode-num system="onscreen">S01E215</episode-num>
-  </programme>
-  <programme start="20261030093500 +0000" stop="20261030135500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.</desc>
-    <episode-num system="xmltv_ns">0.49.0/1</episode-num>
-    <episode-num system="onscreen">S01E50</episode-num>
-  </programme>
-  <programme start="20261030135500 +0000" stop="20261030143000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261030143000 +0000" stop="20261030143500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261030143500 +0000" stop="20261030144000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261030144000 +0000" stop="20261030145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
-  <programme start="20261030145000 +0000" stop="20261030164500 +0000" channel="La1.es.scraper">
+  <programme start="20261030145000 +0000" stop="20261030165500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
     <desc lang="es">Magacine de actualidad social y política con secciones de humor y de verificación de noticias falsas.</desc>
     <episode-num system="xmltv_ns">0.214.0/1</episode-num>
     <episode-num system="onscreen">S01E215</episode-num>
   </programme>
-  <programme start="20261030164500 +0000" stop="20261030173500 +0000" channel="La1.es.scraper">
+  <programme start="20261030165500 +0000" stop="20261030173500 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
     <desc lang="es">La preocupación por Bárbara pasa a mayores y Atanasio le hace una petición a la Salcedo que le va a costar más de lo que imagina. Mientras, tras la visita de Rafael, Luisa acude a Rosalía y le pide que use su influencia sobre el duque para salvar a Alejo….</desc>
     <episode-num system="xmltv_ns">0.92.0/1</episode-num>
@@ -1307,10 +1221,6 @@
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261031025000 +0000" stop="20261031050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
   <programme start="20261031050000 +0000" stop="20261031060000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
@@ -1363,6 +1273,10 @@
     <title lang="es">Elegir un amor</title>
     <desc lang="es">Tras descubrir que su novio la engaña con otra mujer, Hilary O'Neil decide dar un nuevo rumbo a su vida. Para empezar, consigue que la contraten como enfermera particular para cuidar a Victor, un joven culto, apasionado por el arte, que padece leucemia. Los dos, que poco a poco se van enamorando, deciden irse unos días a una casa alejada de la ciudad. Victor asegura que ya no necesita más quimioterapia, pero su salud empeora...</desc>
   </programme>
+  <programme start="20261031163500 +0000" stop="20261031181500 +0000" channel="La1.es.scraper">
+    <title lang="es">Elegir un amor</title>
+    <desc lang="es">Tras descubrir que su novio la engaña con otra mujer, Hilary O'Neil decide dar un nuevo rumbo a su vida. Para empezar, consigue que la contraten como enfermera particular para cuidar a Victor, un joven culto, apasionado por el arte, que padece leucemia. Los dos, que poco a poco se van enamorando, deciden irse unos días a una casa alejada de la ciudad. Victor asegura que ya no necesita más quimioterapia, pero su salud empeora...</desc>
+  </programme>
   <programme start="20261031181500 +0000" stop="20261031195500 +0000" channel="La1.es.scraper">
     <title lang="es">Cosas nuestras</title>
     <desc lang="es">Formato presentado por Ana Hinestrosa y Aitor Albizua que quiere convertirse en una cita imprescindible para los espectadores en la que encontrarán actualidad y entretenimiento de calidad. Un punto de encuentro para compartir, descubrir y entender lo que ocurre a nuestro alrededor.</desc>
@@ -1392,6 +1306,10 @@
     <desc lang="es">Making Of sobre el rodaje del largometraje ''Arriba tutto'', dirigido por José Mota. La película explora los efectos de la pérdida de los seres queridos en la infancia y como se construye el futuro de las personas después de una gran tragedia.</desc>
   </programme>
   <programme start="20261101024500 +0000" stop="20261101050000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261101050000 +0000" stop="20261101060000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
