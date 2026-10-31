@@ -1218,57 +1218,7 @@
     <desc lang="hr">LYON - ANGERS</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261031025000 +0000" stop="20261031050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261031050000 +0000" stop="20261031060000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261031060000 +0000" stop="20261031090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261031090000 +0000" stop="20261031093000 +0000" channel="La1.es.scraper">
-    <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.</desc>
-  </programme>
-  <programme start="20261031093000 +0000" stop="20261031100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261031100000 +0000" stop="20261031110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un viaje sin par por las parejas artísticas, duraderas o efímeras, que han destacado en la música, en el espectáculo o en los programas de televisión. Ana Belén y Víctor Manuel, Cómplices, Romina Power y Al Bano, Alaska y Mario Vaquerizo, Sergio y Estíbaliz, ABBA, etc.</desc>
-    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
-    <episode-num system="onscreen">S01E08</episode-num>
-  </programme>
-  <programme start="20261031110500 +0000" stop="20261031120500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Entrañable viaje musical y humano por la breve, pero exitosísima carrera del malogrado Nino Bravo. A pesar de su prematura muerte a los 28 años dejó un legado cuajado de grandes temas.</desc>
-    <episode-num system="xmltv_ns">0.9.0/1</episode-num>
-    <episode-num system="onscreen">S01E10</episode-num>
-  </programme>
-  <programme start="20261031120500 +0000" stop="20261031135500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.284.0/1</episode-num>
-    <episode-num system="onscreen">S01E285</episode-num>
-  </programme>
-  <programme start="20261031135500 +0000" stop="20261031144500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20261031144500 +0000" stop="20261031145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261031145000 +0000" stop="20261031145500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
-  <programme start="20261031145500 +0000" stop="20261031163500 +0000" channel="La1.es.scraper">
+  <programme start="20261031145400 +0000" stop="20261031163500 +0000" channel="La1.es.scraper">
     <title lang="es">La boda de mi mejor amigo</title>
     <desc lang="es">Julia Roberts y Cameron Diaz compiten por un sorprendido e indeciso Dermot Mulroney en esta comedia romántica nominada al Oscar a la mejor música. Dirigida por P.J. Hogan, la película cuenta, junto al trío protagonista, con las interpretaciones de un irresistible Rupert Everett, Philip Bosco y Paul Giamatti, entre otros. "La boda de mi mejor amigo" cuenta cómo, nueve años atrás, Julianne Potter y Michael O'Neal pasaron de ser pareja a ser simplemente amigos, aunque hicieron un pacto: se casarían el uno con el otro al cumplir los veintiocho años si ninguno había pasado antes por el altar. Cuando Julianne y Michael llegan a esa edad, ella recibe una invitación para asistir a la boda de su amigo y, convencida de que él es el hombre de su vida, decide hacer lo que sea para recuperarlo.</desc>
   </programme>
@@ -1314,10 +1264,6 @@
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261101024500 +0000" stop="20261101050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
   <programme start="20261101050000 +0000" stop="20261101060000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
@@ -1355,6 +1301,10 @@
   <programme start="20261101145000 +0000" stop="20261101145500 +0000" channel="La1.es.scraper">
     <title lang="es">La suerte en tus manos</title>
     <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
+  </programme>
+  <programme start="20261101145500 +0000" stop="20261101164000 +0000" channel="La1.es.scraper">
+    <title lang="es">Sweet Home Alabama</title>
+    <desc lang="es">Melanie Carmichael es una diseñadora de moda de Nueva York prometida al soltero de oro de la ciudad, hijo de la alcaldesa. Pero Melanie esconde un pasado lleno de secretos, entre ellos, Jake, un paleto sureño con el que se casó en el instituto y que se niega a concederle el divorcio. Decidida a terminar con su tormentoso matrimonio de una vez por todas, Melanie regresa a su casa en Alabama para enfrentarse a su pasado. Allí descubre que enamorarse por segunda vez es incluso mejor que la primera y comprende, al fin, que aunque una chica se marche del sur, el sur nunca la abandona. "Sweet Home Alabama", dirigida por Andy Tennant, cuenta con un guion de C. Jay Cox sobre una historia de Douglas J. Eboch y el propio Tennant. Esta comedia romántica de paletos y sofisticados chicos de ciudad está protagonizada por Reese Witherspoon, Josh Lucas, Patrick Dempsey y Candice Bergen.</desc>
   </programme>
   <programme start="20261101145500 +0000" stop="20261101164000 +0000" channel="La1.es.scraper">
     <title lang="es">Sweet Home Alabama</title>
@@ -1403,5 +1353,9 @@
   <programme start="20261102023000 +0000" stop="20261102050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261102050000 +0000" stop="20261102065000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
 </tv>
