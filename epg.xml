@@ -718,53 +718,7 @@
     <desc lang="hr">LYON - ANGERS</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261101024800 +0000" stop="20261101050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261101050000 +0000" stop="20261101060000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261101060000 +0000" stop="20261101100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261101100000 +0000" stop="20261101110000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un viaje musical por las canciones que fueron la esencia de los guateques de los 70 y los 80. Con grupos y artistas como Los Bravos,Los Mustang, Karina, Los Sirex, Miguel Ríos, Los Brincos, The Beatles, el Dúo Dinámico, Serrat y Simon &amp; Garfunkel, entre otros muchos.</desc>
-    <episode-num system="xmltv_ns">0.3.0/1</episode-num>
-    <episode-num system="onscreen">S01E04</episode-num>
-  </programme>
-  <programme start="20261101110000 +0000" stop="20261101120500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un viaje dedicado a las mujeres que han dejado huella en la música, a nivel nacional e internacional. Con los mejores temas de Rocío Jurado, Mónica Naranjo, Laura Pausini, Shakira, Alaska, Lola Índigo, Raffaela Carra, Jennifer López, Luz Casal y más.</desc>
-    <episode-num system="xmltv_ns">0.4.0/1</episode-num>
-    <episode-num system="onscreen">S01E05</episode-num>
-  </programme>
-  <programme start="20261101120500 +0000" stop="20261101135500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.285.0/1</episode-num>
-    <episode-num system="onscreen">S01E286</episode-num>
-  </programme>
-  <programme start="20261101135500 +0000" stop="20261101144500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20261101144500 +0000" stop="20261101145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261101145000 +0000" stop="20261101145500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
-  <programme start="20261101145500 +0000" stop="20261101164000 +0000" channel="La1.es.scraper">
-    <title lang="es">Sweet Home Alabama</title>
-    <desc lang="es">Melanie Carmichael es una diseñadora de moda de Nueva York prometida al soltero de oro de la ciudad, hijo de la alcaldesa. Pero Melanie esconde un pasado lleno de secretos, entre ellos, Jake, un paleto sureño con el que se casó en el instituto y que se niega a concederle el divorcio. Decidida a terminar con su tormentoso matrimonio de una vez por todas, Melanie regresa a su casa en Alabama para enfrentarse a su pasado. Allí descubre que enamorarse por segunda vez es incluso mejor que la primera y comprende, al fin, que aunque una chica se marche del sur, el sur nunca la abandona. "Sweet Home Alabama", dirigida por Andy Tennant, cuenta con un guion de C. Jay Cox sobre una historia de Douglas J. Eboch y el propio Tennant. Esta comedia romántica de paletos y sofisticados chicos de ciudad está protagonizada por Reese Witherspoon, Josh Lucas, Patrick Dempsey y Candice Bergen.</desc>
-  </programme>
-  <programme start="20261101164000 +0000" stop="20261101181000 +0000" channel="La1.es.scraper">
+  <programme start="20261101164100 +0000" stop="20261101181000 +0000" channel="La1.es.scraper">
     <title lang="es">Esto es la guerra</title>
     <desc lang="es">Dos agentes de la CIA, los más mortíferos del mundo, además de inseparables camaradas y amigos íntimos, tienen la desgracia de enamorarse de la misma mujer. Quienes en el pasado contribuyeron a aplastar naciones enemigas, recurren ahora a sus incomparables habilidades y a una colección inacabable de artilugios de alta tecnología para plantar cara al peor enemigo al que cada uno de ellos se haya enfrentado jamás: su examigo del alma. Tres guapos guapísimos, Reese Witherspoon, Tom Hardy y Chris Pine, protagonizan esta comedia romántica llena de acción. "Esto es la guerra" está dirigida por el especialista en cine de género McG, responsable de títulos como la comedia de terror "The Babysitter", "Terminator: Salvation" o las dos entregas de la versión cinematográfica de "Los ángeles de Charlie".</desc>
   </programme>
@@ -808,10 +762,6 @@
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
-  <programme start="20261102023000 +0000" stop="20261102050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
   <programme start="20261102050000 +0000" stop="20261102065000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
@@ -841,6 +791,12 @@
     <desc lang="es">Magacine de actualidad social y política con secciones de humor y de verificación de noticias falsas.</desc>
     <episode-num system="xmltv_ns">0.215.0/1</episode-num>
     <episode-num system="onscreen">S01E216</episode-num>
+  </programme>
+  <programme start="20261102164500 +0000" stop="20261102173500 +0000" channel="La1.es.scraper">
+    <title lang="es">Valle Salvaje</title>
+    <desc lang="es">Rosalía intenta calmar los temores de Leonor, aterrada ante la idea de lo que pueda sucederle a su hermana. Superado por la presión, Alejo se rompe con Luisa… sin imaginar que ella le oculta las amenazas de Manuela.</desc>
+    <episode-num system="xmltv_ns">0.93.0/1</episode-num>
+    <episode-num system="onscreen">S01E94</episode-num>
   </programme>
   <programme start="20261102164500 +0000" stop="20261102173500 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
@@ -895,5 +851,9 @@
   <programme start="20261103040500 +0000" stop="20261103050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103065000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
 </tv>
