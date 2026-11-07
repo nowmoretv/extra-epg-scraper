@@ -1218,61 +1218,11 @@
     <desc lang="hr">CFR CLUJ - U. CRAIOVA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261107031800 +0000" stop="20261107050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261107050000 +0000" stop="20261107060000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261107060000 +0000" stop="20261107090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261107090000 +0000" stop="20261107093000 +0000" channel="La1.es.scraper">
-    <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.</desc>
-  </programme>
-  <programme start="20261107093000 +0000" stop="20261107100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261107100000 +0000" stop="20261107105500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Sorprendente viaje a través de las primeras apariciones, entrevistas, castings y actuaciones, de los personajes que forman parte de nuestra vida. Con Antonio Banderas, Josema Yuste, Alaska, El Gran Wyoming, Alejandro Sanz, Pablo Abraira, Rocío Jurado entre otros.</desc>
-    <episode-num system="xmltv_ns">0.13.0/1</episode-num>
-    <episode-num system="onscreen">S01E14</episode-num>
-  </programme>
-  <programme start="20261107105500 +0000" stop="20261107120500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <episode-num system="xmltv_ns">0.22.0/1</episode-num>
-    <episode-num system="onscreen">S01E23</episode-num>
-  </programme>
-  <programme start="20261107120500 +0000" stop="20261107135500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.286.0/1</episode-num>
-    <episode-num system="onscreen">S01E287</episode-num>
-  </programme>
-  <programme start="20261107135500 +0000" stop="20261107144500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20261107144500 +0000" stop="20261107145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261107145000 +0000" stop="20261107145500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
-  <programme start="20261107145500 +0000" stop="20261107164000 +0000" channel="La1.es.scraper">
+  <programme start="20261107145500 +0000" stop="20261107164400 +0000" channel="La1.es.scraper">
     <title lang="es">Así somos</title>
     <desc lang="es">Sam, un joven vendedor un tanto aficionado a los chanchullos, ve cómo su último contrato se derrumba el mismo día en que se entera de que su padre ha muerto. Contra sus deseos, Sam debe regresar a su hogar para encargarse de la sucesión. Así, mientras intenta cumplir con la última voluntad de su padre, descubre un asombroso secreto que altera el curso de su vida. Alex Kurtzman dirige este drama sobre los secretos de familia protagonizado por Chris Pine y Elizabeth Banks, a los que se unen Olivia Wilde, Jon Favreau y Michelle Pfeiffer.</desc>
   </programme>
-  <programme start="20261107164000 +0000" stop="20261107181500 +0000" channel="La1.es.scraper">
+  <programme start="20261107164400 +0000" stop="20261107181500 +0000" channel="La1.es.scraper">
     <title lang="es">Algo de qué hablar</title>
     <desc lang="es">Grace, hija de una familia tradicional de la alta burguesía sureña y casada de penalti antes de acabar la carrera, lleva una vida tranquila y despreocupada, hasta el día en que casualmente descubre las infidelidades de su marido Eddie. Las múltiples relaciones amorosas de su esposo son el detonante que le hace rebelarse contra todo aquello que le había sido impuesto por la sociedad tradicional en que vivía. La reacción de Grace a las infidelidades de Eddie repercutirá en la gente que le rodea, como la catarsis de Grace en la Liga de la Caridad, en donde le da una patada a la hipocresía de un grupo de damas enfrascadas en obras de beneficencia mientras seducen a los maridos ajenos. El nuevo enfoque de la vida de Grace provoca el rechazo y enfrentamiento de todos los que la rodean, excepto de su hermana.</desc>
   </programme>
@@ -1309,10 +1259,6 @@
   <programme start="20261108032000 +0000" stop="20261108033000 +0000" channel="La1.es.scraper">
     <title lang="es">Making Of Arriba Tutto</title>
     <desc lang="es">Making Of sobre el rodaje del largometraje ''Arriba tutto'', dirigido por José Mota. La película explora los efectos de la pérdida de los seres queridos en la infancia y como se construye el futuro de las personas después de una gran tragedia.</desc>
-  </programme>
-  <programme start="20261108033000 +0000" stop="20261108050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
   <programme start="20261108033000 +0000" stop="20261108050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -1360,13 +1306,19 @@
     <title lang="es">Una pareja de tres</title>
     <desc lang="es">Mientras cae la nieve en su noche de bodas, los recién casados John y Jenny Grogan (Owen Wilson y Jennifer Aniston) toman la decisión de dejar atrás los duros inviernos de Michigan y trasladarse al sur para iniciar su nueva vida en la zona oeste de Palm Beach, Florida. Consiguen trabajo en periódicos rivales de la localidad, adquieren su primer hogar y comienzan a enfrentarse a los desafíos que suponen un nuevo matrimonio, nuevas carreras profesionales y, posiblemente, la decisión que transformará sus vidas: formar una familia. Dudando de su capacidad para criar a un niño, John le confiesa su inquietud a su amigo y compañero de trabajo Sebastian (Eric Dane), a quien se le ocurre la solución perfecta: John tiene que regalarle a Jenny un cachorro. "Es facilísimo", dice Sebastian, "sólo tienes que pasearlos, alimentarlos y dejarlos sueltos de vez en cuando". Y entonces llegó Marley.</desc>
   </programme>
+  <programme start="20261108145500 +0000" stop="20261108164500 +0000" channel="La1.es.scraper">
+    <title lang="es">Una pareja de tres</title>
+    <desc lang="es">Mientras cae la nieve en su noche de bodas, los recién casados John y Jenny Grogan (Owen Wilson y Jennifer Aniston) toman la decisión de dejar atrás los duros inviernos de Michigan y trasladarse al sur para iniciar su nueva vida en la zona oeste de Palm Beach, Florida. Consiguen trabajo en periódicos rivales de la localidad, adquieren su primer hogar y comienzan a enfrentarse a los desafíos que suponen un nuevo matrimonio, nuevas carreras profesionales y, posiblemente, la decisión que transformará sus vidas: formar una familia. Dudando de su capacidad para criar a un niño, John le confiesa su inquietud a su amigo y compañero de trabajo Sebastian (Eric Dane), a quien se le ocurre la solución perfecta: John tiene que regalarle a Jenny un cachorro. "Es facilísimo", dice Sebastian, "sólo tienes que pasearlos, alimentarlos y dejarlos sueltos de vez en cuando". Y entonces llegó Marley.</desc>
+  </programme>
   <programme start="20261108164500 +0000" stop="20261108181500 +0000" channel="La1.es.scraper">
     <title lang="es">Mi gran boda griega</title>
     <desc lang="es">Toula tiene treinta años y aún sigue soltera. Decidida a tomar las riendas de su vida, comienza a cuidar su aspecto, cambia sus gafas por lentillas, toma clases de informática y comienza un nuevo trabajo en la agencia de viajes de su tía. Allí conoce a Ian Miller, un chico guapo pero con un gran defecto: no es griego. Cuando empiezan a sonar campanas de boda, Ian tendrá que lidiar con la gran familia griega de Toula y sus tradiciones. Ninguno de los implicados en esta modesta producción (cinco millones de dólares) pudo imaginar previamente a su estreno la gran repercusión comercial que iba a obtener, llegando a superar los 150 millones de dólares de recaudación sólo en los cines de Estados Unidos. De proyecto de cine independiente pasó a convertirse en todo un fenómeno cultural que traspasó fronteras.</desc>
   </programme>
   <programme start="20261108181500 +0000" stop="20261108193000 +0000" channel="La1.es.scraper">
     <title lang="es">Cosas nuestras</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">Programa de entretenimiento para los fines de semana.</desc>
+    <episode-num system="xmltv_ns">0.11.0/1</episode-num>
+    <episode-num system="onscreen">S01E12</episode-num>
   </programme>
   <programme start="20261108193000 +0000" stop="20261108195500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
@@ -1397,5 +1349,9 @@
   <programme start="20261109022000 +0000" stop="20261109050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261109050000 +0000" stop="20261109065000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
 </tv>
