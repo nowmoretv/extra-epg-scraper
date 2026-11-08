@@ -723,53 +723,7 @@
     <desc lang="hr">CFR CLUJ - U. CRAIOVA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261108033900 +0000" stop="20261108050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261108050000 +0000" stop="20261108060000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261108060000 +0000" stop="20261108100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261108100000 +0000" stop="20261108110000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele exprés</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <episode-num system="xmltv_ns">0.101.0/1</episode-num>
-    <episode-num system="onscreen">S01E102</episode-num>
-  </programme>
-  <programme start="20261108110000 +0000" stop="20261108120500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Segunda entrega de un viaje musical, esta vez, por las canciones que se radiaron sin parar en la radio de los años 80. Con grupos y solistas como Alaska y los Pegamoides, Ana Belén, Locomía, Olé Olé, Village People, Rosendo, Miguel Ríos, Tequila o Siniestro Total.</desc>
-    <episode-num system="xmltv_ns">0.6.0/1</episode-num>
-    <episode-num system="onscreen">S01E07</episode-num>
-  </programme>
-  <programme start="20261108120500 +0000" stop="20261108135500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.287.0/1</episode-num>
-    <episode-num system="onscreen">S01E288</episode-num>
-  </programme>
-  <programme start="20261108135500 +0000" stop="20261108144500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20261108144500 +0000" stop="20261108145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261108145000 +0000" stop="20261108145500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
-  <programme start="20261108145500 +0000" stop="20261108164500 +0000" channel="La1.es.scraper">
-    <title lang="es">Una pareja de tres</title>
-    <desc lang="es">Mientras cae la nieve en su noche de bodas, los recién casados John y Jenny Grogan (Owen Wilson y Jennifer Aniston) toman la decisión de dejar atrás los duros inviernos de Michigan y trasladarse al sur para iniciar su nueva vida en la zona oeste de Palm Beach, Florida. Consiguen trabajo en periódicos rivales de la localidad, adquieren su primer hogar y comienzan a enfrentarse a los desafíos que suponen un nuevo matrimonio, nuevas carreras profesionales y, posiblemente, la decisión que transformará sus vidas: formar una familia. Dudando de su capacidad para criar a un niño, John le confiesa su inquietud a su amigo y compañero de trabajo Sebastian (Eric Dane), a quien se le ocurre la solución perfecta: John tiene que regalarle a Jenny un cachorro. "Es facilísimo", dice Sebastian, "sólo tienes que pasearlos, alimentarlos y dejarlos sueltos de vez en cuando". Y entonces llegó Marley.</desc>
-  </programme>
-  <programme start="20261108164500 +0000" stop="20261108181500 +0000" channel="La1.es.scraper">
+  <programme start="20261108164600 +0000" stop="20261108181500 +0000" channel="La1.es.scraper">
     <title lang="es">Mi gran boda griega</title>
     <desc lang="es">Toula tiene treinta años y aún sigue soltera. Decidida a tomar las riendas de su vida, comienza a cuidar su aspecto, cambia sus gafas por lentillas, toma clases de informática y comienza un nuevo trabajo en la agencia de viajes de su tía. Allí conoce a Ian Miller, un chico guapo pero con un gran defecto: no es griego. Cuando empiezan a sonar campanas de boda, Ian tendrá que lidiar con la gran familia griega de Toula y sus tradiciones. Ninguno de los implicados en esta modesta producción (cinco millones de dólares) pudo imaginar previamente a su estreno la gran repercusión comercial que iba a obtener, llegando a superar los 150 millones de dólares de recaudación sólo en los cines de Estados Unidos. De proyecto de cine independiente pasó a convertirse en todo un fenómeno cultural que traspasó fronteras.</desc>
   </programme>
@@ -804,10 +758,6 @@
   <programme start="20261109015500 +0000" stop="20261109022000 +0000" channel="La1.es.scraper">
     <title lang="es">Making of Leones en invierno</title>
     <desc lang="es">Making of sobre el rodaje del largometraje ''Leones en invierno'' (dirigido por Albert Pinto).</desc>
-  </programme>
-  <programme start="20261109022000 +0000" stop="20261109050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
   <programme start="20261109022000 +0000" stop="20261109050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -850,6 +800,12 @@
     <desc lang="es">Magacine de actualidad social y política con secciones de humor y de verificación de noticias falsas.</desc>
     <episode-num system="xmltv_ns">0.220.0/1</episode-num>
     <episode-num system="onscreen">S01E221</episode-num>
+  </programme>
+  <programme start="20261109164500 +0000" stop="20261109173500 +0000" channel="La1.es.scraper">
+    <title lang="es">Valle Salvaje</title>
+    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <episode-num system="xmltv_ns">0.98.0/1</episode-num>
+    <episode-num system="onscreen">S01E99</episode-num>
   </programme>
   <programme start="20261109164500 +0000" stop="20261109173500 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
@@ -904,5 +860,9 @@
   <programme start="20261110035500 +0000" stop="20261110050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261110050000 +0000" stop="20261110065000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
 </tv>
