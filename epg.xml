@@ -1123,51 +1123,7 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261110045900 +0000" stop="20261110065000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261110065000 +0000" stop="20261110093500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">El programa cuenta con reportajes y entrevistas, dedicados a analizar en profundidad el mundo de la política y la actualidad. ''La hora de 1'' cuenta con voces autorizadas que tratarán temas que fomenten el pensamiento crítico y el servicio público, para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.221.0/1</episode-num>
-    <episode-num system="onscreen">S01E222</episode-num>
-  </programme>
-  <programme start="20261110093500 +0000" stop="20261110135500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.</desc>
-    <episode-num system="xmltv_ns">0.56.0/1</episode-num>
-    <episode-num system="onscreen">S01E57</episode-num>
-  </programme>
-  <programme start="20261110135500 +0000" stop="20261110143000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261110143000 +0000" stop="20261110143500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261110143500 +0000" stop="20261110144000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261110144000 +0000" stop="20261110145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
-  <programme start="20261110145000 +0000" stop="20261110165000 +0000" channel="La1.es.scraper">
-    <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
-    <episode-num system="xmltv_ns">0.221.0/1</episode-num>
-    <episode-num system="onscreen">S01E222</episode-num>
-  </programme>
-  <programme start="20261110165000 +0000" stop="20261110174500 +0000" channel="La1.es.scraper">
-    <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
-    <episode-num system="xmltv_ns">0.99.0/1</episode-num>
-    <episode-num system="onscreen">S01E100</episode-num>
-  </programme>
-  <programme start="20261110174500 +0000" stop="20261110191500 +0000" channel="La1.es.scraper">
+  <programme start="20261110174400 +0000" stop="20261110191500 +0000" channel="La1.es.scraper">
     <title lang="es">Funeral de estado por las víctimas de Urda</title>
     <desc lang="es">Misa funeral desde la Catedral de Toledo con la presencia de Sus majestades los Reyes en memoria de las víctimas del accidente de tren de Urda, Toledo. Los ministros Carlos Cuerpo y Milagros Tolón representarán al Gobierno en la cerimonia.</desc>
   </programme>
@@ -1219,17 +1175,17 @@
     <title lang="es">Telediario Matinal</title>
     <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
-  <programme start="20261111050000 +0000" stop="20261111065000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
   <programme start="20261111065000 +0000" stop="20261111093500 +0000" channel="La1.es.scraper">
     <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servicio público para ayudar a los ciudadanos en su día a día.</desc>
+    <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.</desc>
+    <episode-num system="xmltv_ns">0.222.0/1</episode-num>
+    <episode-num system="onscreen">S01E223</episode-num>
   </programme>
   <programme start="20261111093500 +0000" stop="20261111135500 +0000" channel="La1.es.scraper">
     <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
+    <desc lang="es">Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.</desc>
+    <episode-num system="xmltv_ns">0.57.0/1</episode-num>
+    <episode-num system="onscreen">S01E58</episode-num>
   </programme>
   <programme start="20261111135500 +0000" stop="20261111143000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1</title>
@@ -1249,23 +1205,39 @@
   </programme>
   <programme start="20261111145000 +0000" stop="20261111164500 +0000" channel="La1.es.scraper">
     <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
+    <desc lang="es">Magacine de actualidad social y política con secciones de humor y de verificación de noticias falsas.</desc>
+    <episode-num system="xmltv_ns">0.222.0/1</episode-num>
+    <episode-num system="onscreen">S01E223</episode-num>
   </programme>
   <programme start="20261111164500 +0000" stop="20261111173500 +0000" channel="La1.es.scraper">
     <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
+    <desc lang="es">Rafael advierte a Hernando que Luisa está bajo su protección. Mientras, Alejo continúa acercándose a Manuela para sacarle información. Pero cuando Francisco anuncia la llegada de una misiva de la Corte para Hernando, el miedo se apodera de todos.</desc>
+    <episode-num system="xmltv_ns">0.100.0/1</episode-num>
+    <episode-num system="onscreen">S01E101</episode-num>
   </programme>
   <programme start="20261111173500 +0000" stop="20261111183500 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
-    <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+    <desc lang="es">Lorenzo descifra la carta que ha recibido frente a Ciro: no es del ejército realmente, pero le citan a solas. Leocadia reconoce ante Ángela que intentó impedir el título de Curro. Por fin ha encontrado la manera de justificar su hostilidad hacia la señora de Figueroa.</desc>
+    <episode-num system="xmltv_ns">0.943.0/1</episode-num>
+    <episode-num system="onscreen">S01E944</episode-num>
+  </programme>
+  <programme start="20261111173500 +0000" stop="20261111183500 +0000" channel="La1.es.scraper">
+    <title lang="es">La Promesa</title>
+    <desc lang="es">Lorenzo descifra la carta que ha recibido frente a Ciro: no es del ejército realmente, pero le citan a solas. Leocadia reconoce ante Ángela que intentó impedir el título de Curro. Por fin ha encontrado la manera de justificar su hostilidad hacia la señora de Figueroa.</desc>
+    <episode-num system="xmltv_ns">0.943.0/1</episode-num>
+    <episode-num system="onscreen">S01E944</episode-num>
   </programme>
   <programme start="20261111183500 +0000" stop="20261111192500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
-    <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc lang="es">Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <episode-num system="xmltv_ns">0.496.0/1</episode-num>
+    <episode-num system="onscreen">S01E497</episode-num>
   </programme>
   <programme start="20261111192500 +0000" stop="20261111195500 +0000" channel="La1.es.scraper">
     <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Jacob Petrus ofrece una original mirada sobre el territorio y sus habitantes a través de la meteorología. La divulgación y la información sobre el terreno conviven con el descubrimiento de la naturaleza y el medio ambiente.</desc>
+    <desc lang="es">Magacine de naturaleza e información meteorológica.</desc>
+    <episode-num system="xmltv_ns">0.876.0/1</episode-num>
+    <episode-num system="onscreen">S01E877</episode-num>
   </programme>
   <programme start="20261111195500 +0000" stop="20261111205000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2</title>
@@ -1277,7 +1249,9 @@
   </programme>
   <programme start="20261111205500 +0000" stop="20261111221500 +0000" channel="La1.es.scraper">
     <title lang="es">La revuelta</title>
-    <desc lang="es">David Broncano conduce La revuelta, un programa de atípicas entrevistas a famosos.</desc>
+    <desc lang="es">Artistas, deportistas, científicos y todo tipo de personalidades se sumergen en las conversaciones más impredecibles con el presentador, David Broncano, siempre acompañado por su banda: Ricardo Castella, veterano de la comedia española, y el campeón de beatbox Grison, una mina antipersona de chistes.</desc>
+    <episode-num system="xmltv_ns">0.357.0/1</episode-num>
+    <episode-num system="onscreen">S01E358</episode-num>
   </programme>
   <programme start="20261111221500 +0000" stop="20261111235500 +0000" channel="La1.es.scraper">
     <title lang="es">El 47</title>
