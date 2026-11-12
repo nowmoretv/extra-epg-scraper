@@ -1128,57 +1128,13 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261112050000 +0000" stop="20261112065000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261112065000 +0000" stop="20261112093500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.223.0/1</episode-num>
-    <episode-num system="onscreen">S01E224</episode-num>
-  </programme>
-  <programme start="20261112093500 +0000" stop="20261112135500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.</desc>
-    <episode-num system="xmltv_ns">0.58.0/1</episode-num>
-    <episode-num system="onscreen">S01E59</episode-num>
-  </programme>
-  <programme start="20261112135500 +0000" stop="20261112143000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261112143000 +0000" stop="20261112143500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261112143500 +0000" stop="20261112144000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261112144000 +0000" stop="20261112145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
-  <programme start="20261112145000 +0000" stop="20261112164500 +0000" channel="La1.es.scraper">
-    <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacín conducido por Marta Flich y Gonzalo Miró que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
-    <episode-num system="xmltv_ns">0.223.0/1</episode-num>
-    <episode-num system="onscreen">S01E224</episode-num>
-  </programme>
-  <programme start="20261112164500 +0000" stop="20261112173500 +0000" channel="La1.es.scraper">
-    <title lang="es">Valle Salvaje</title>
-    <desc lang="es">José Luis le pide a Hernando que incluya a nobles de la Corte entre sus invitados. Mientras, Rosalía confiesa a Rafael su preocupación: siente que María está siendo relegada. Y cuando Luisa planta cara a Manuela, la tensión alcanza su apogeo….</desc>
-    <episode-num system="xmltv_ns">0.101.0/1</episode-num>
-    <episode-num system="onscreen">S01E102</episode-num>
-  </programme>
-  <programme start="20261112173500 +0000" stop="20261112183500 +0000" channel="La1.es.scraper">
+  <programme start="20261112174500 +0000" stop="20261112184900 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
     <desc lang="es">Samuel tranquiliza a Petra, solo estaba descansando: jamás se quitaría la vida. El cura cree que Carlo, María y Janita pueden ser felices, se les ve cada vez mejor. Curro le quita a Manuel la idea de matar a Leocadia.</desc>
     <episode-num system="xmltv_ns">0.944.0/1</episode-num>
     <episode-num system="onscreen">S01E945</episode-num>
   </programme>
-  <programme start="20261112183500 +0000" stop="20261112193500 +0000" channel="La1.es.scraper">
+  <programme start="20261112184900 +0000" stop="20261112193500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
     <episode-num system="xmltv_ns">0.497.0/1</episode-num>
@@ -1186,7 +1142,7 @@
   </programme>
   <programme start="20261112193500 +0000" stop="20261112213500 +0000" channel="La1.es.scraper">
     <title lang="es">UEFA Nations League</title>
-    <desc lang="es">La quinta edición de la Liga de Naciones de la UEFA estrena formato con una ventana intensa de cuatro jornadas seguidas. España defiende su corona en un grupo compartido con Inglaterra, Croacia y Chequia. La fase final del torneo se disputa en 2027.</desc>
+    <desc lang="es">España acude al Epet Arena en la quinta jornada de la Liga de Naciones. La selección de Luis de la Fuente lidera el Grupo A3 con pleno de puntos (12 de 12) y ya tiene asegurado el pase a los cuartos de final. Santi Denia dirige a una Chequia colista con cero puntos.</desc>
     <episode-num system="xmltv_ns">0.6.0/1</episode-num>
     <episode-num system="onscreen">S01E07</episode-num>
   </programme>
@@ -1203,10 +1159,6 @@
   <programme start="20261113004500 +0000" stop="20261113050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261113050000 +0000" stop="20261113065000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
   <programme start="20261113050000 +0000" stop="20261113065000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario Matinal</title>
@@ -1247,6 +1199,10 @@
   <programme start="20261113173500 +0000" stop="20261113183500 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
     <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+  </programme>
+  <programme start="20261113183500 +0000" stop="20261113193500 +0000" channel="La1.es.scraper">
+    <title lang="es">Malas lenguas</title>
+    <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
   </programme>
   <programme start="20261113183500 +0000" stop="20261113193500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
