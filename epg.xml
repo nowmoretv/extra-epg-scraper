@@ -1148,55 +1148,17 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261113004500 +0000" stop="20261113045900 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261113045900 +0000" stop="20261113065000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261113065000 +0000" stop="20261113093500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.224.0/1</episode-num>
-    <episode-num system="onscreen">S01E225</episode-num>
-  </programme>
-  <programme start="20261113093500 +0000" stop="20261113135500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Magazín de actualidad conducido por Jesús Cintora, Adela González y Miriam Moreno, que combina noticias y entretenimiento de la mano de sus colaboradores.</desc>
-  </programme>
-  <programme start="20261113135500 +0000" stop="20261113143000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261113143000 +0000" stop="20261113143500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261113143500 +0000" stop="20261113144000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261113144000 +0000" stop="20261113145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
-  <programme start="20261113145000 +0000" stop="20261113164500 +0000" channel="La1.es.scraper">
-    <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
-  </programme>
-  <programme start="20261113164500 +0000" stop="20261113173500 +0000" channel="La1.es.scraper">
-    <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
-  </programme>
-  <programme start="20261113173500 +0000" stop="20261113183500 +0000" channel="La1.es.scraper">
+  <programme start="20261113174800 +0000" stop="20261113184800 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
-    <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+    <desc lang="es">Manuel intenta convencer a Julieta de que no deje el trabajo, pero Ciro interrumpe; al volver, mira con pena su escritorio vacío y convence a Ciro de que la haga regresar. Pía y Curro leen con pudor las cartas de Leocadia y Cristóbal sin sacar nada en claro….</desc>
+    <episode-num system="xmltv_ns">0.945.0/1</episode-num>
+    <episode-num system="onscreen">S01E946</episode-num>
   </programme>
-  <programme start="20261113183500 +0000" stop="20261113193500 +0000" channel="La1.es.scraper">
+  <programme start="20261113184800 +0000" stop="20261113193500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
-    <desc lang="es">Gonzalo Miró presenta este magacín de actualidad en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <desc lang="es">Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
+    <episode-num system="xmltv_ns">0.498.0/1</episode-num>
+    <episode-num system="onscreen">S01E499</episode-num>
   </programme>
   <programme start="20261113193500 +0000" stop="20261113213500 +0000" channel="La1.es.scraper">
     <title lang="es">UEFA Nations League</title>
@@ -1206,7 +1168,9 @@
   </programme>
   <programme start="20261113213500 +0000" stop="20261113223500 +0000" channel="La1.es.scraper">
     <title lang="es">Cuánta guerra</title>
-    <desc lang="es">''Cuánta guerra'' llega con una historia de memoria familiar, investigación y descubrimientos inesperados. Conchi Cejudo, periodista de investigación, acompaña a los protagonistas del programa en la búsqueda de respuestas sobre su pasado familiar.</desc>
+    <desc lang="es">Actor y escritor, Carlos Bardem viene de una familia de actores. A sus abuelos Rafael y Matilde, la guerra les pilló de gira en Vitoria, lejos de sus dos hijos que estaban en Madrid.</desc>
+    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
+    <episode-num system="onscreen">S01E06</episode-num>
   </programme>
   <programme start="20261113223500 +0000" stop="20261114000500 +0000" channel="La1.es.scraper">
     <title lang="es">El silencio de otros</title>
@@ -1221,10 +1185,6 @@
   <programme start="20261114011000 +0000" stop="20261114023500 +0000" channel="La1.es.scraper">
     <title lang="es">La magia de la isla</title>
     <desc lang="es">Una abogada adicta al trabajo vuelve a su isla natal para convencer a un viejo amigo de que compre la empresa de su familia, pero se reavivan antiguos sentimientos.</desc>
-  </programme>
-  <programme start="20261114023500 +0000" stop="20261114050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
   <programme start="20261114023500 +0000" stop="20261114050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -1260,7 +1220,7 @@
   </programme>
   <programme start="20261114120500 +0000" stop="20261114135500 +0000" channel="La1.es.scraper">
     <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Javier de Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
+    <desc lang="es">Anne Igartiburu y Javi Hoyos hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
   </programme>
   <programme start="20261114135500 +0000" stop="20261114144500 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 1 Fin de Semana</title>
@@ -1276,11 +1236,15 @@
   </programme>
   <programme start="20261114145500 +0000" stop="20261114163500 +0000" channel="La1.es.scraper">
     <title lang="es">El mayordomo inglés</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">El nominado al Oscar John Malkovich ("Las amistades peligrosas") brilla en esta agridulce comedia dirigida por el escritor Gilles Legardinier. La película está basada en el 'best seller' homónimo de Legardinier y, con ella, el autor debuta en la dirección. Andrew Blake es un empresario de éxito que a pesar de sus triunfos en los negocios no encuentra su lugar en el mundo. Un impulso repentino le hará regresar a un precioso 'château' en Francia donde conoció a su mujer. Sin embargo, cuando llega a la finca, nadie sabe quién es, lo confunden con un mayordomo y decide asumir el puesto. Fanny Ardant ("8 mujeres") y Émilie Dequenne ("Rosetta"), completan el reparto.</desc>
   </programme>
   <programme start="20261114163500 +0000" stop="20261114182500 +0000" channel="La1.es.scraper">
     <title lang="es">Diana</title>
-    <desc lang="es">Cine</desc>
+    <desc lang="es">Cuando la princesa Diana (Naomi Watts) voló a Pakistán en mayo de 1997, fue a conocer a la familia del doctor Hasnat Khan (Naveen Andrews), el hombre con quien deseaba casarse. Diana, una de las mujeres más famosas y bellas del mundo, esperaba persuadir a la madre del doctor Khan haciéndole ver que sería la esposa adecuada para su hijo. De haber tenido éxito, los acontecimientos de aquel verano podrían haber sido muy diferentes... Naomi Watts ("Lo imposible", "J. Edgar") y Naveen Andrews (serie "Perdidos", "La extraña que hay en ti") protagonizan esta emotiva historia de amor que refleja un episodio poco conocido en la vida de la princesa Diana de Gales y en la que juegan un papel muy importante la familia, la amistad, la responsabilidad y las calamidades que puede acarrear la fama. Dirigida por el alemán Olivier Hirschbiegel ("Cinco minutos de gloria", "El hundimiento").</desc>
+  </programme>
+  <programme start="20261114163500 +0000" stop="20261114182500 +0000" channel="La1.es.scraper">
+    <title lang="es">Diana</title>
+    <desc lang="es">Cuando la princesa Diana (Naomi Watts) voló a Pakistán en mayo de 1997, fue a conocer a la familia del doctor Hasnat Khan (Naveen Andrews), el hombre con quien deseaba casarse. Diana, una de las mujeres más famosas y bellas del mundo, esperaba persuadir a la madre del doctor Khan haciéndole ver que sería la esposa adecuada para su hijo. De haber tenido éxito, los acontecimientos de aquel verano podrían haber sido muy diferentes... Naomi Watts ("Lo imposible", "J. Edgar") y Naveen Andrews (serie "Perdidos", "La extraña que hay en ti") protagonizan esta emotiva historia de amor que refleja un episodio poco conocido en la vida de la princesa Diana de Gales y en la que juegan un papel muy importante la familia, la amistad, la responsabilidad y las calamidades que puede acarrear la fama. Dirigida por el alemán Olivier Hirschbiegel ("Cinco minutos de gloria", "El hundimiento").</desc>
   </programme>
   <programme start="20261114182500 +0000" stop="20261114195500 +0000" channel="La1.es.scraper">
     <title lang="es">Cosas nuestras</title>
@@ -1307,6 +1271,10 @@
     <desc lang="es">Gary es una estrella del pop en decadencia que sufre una crisis existencial debido a su falta de trabajo y a la estancada relación sentimental que mantiene con su novia, Dora. Como vía de escape, sueña cada noche con la que sería su relación perfecta, personalizada en Anna. Para superar todo este laberinto emocional, contará con la ayuda de su amigo Paul y con un gurú 'New age' llamado Mel. Dirigida por Jake Paltrow, "La chica de mis sueños" cuenta con Gwyneth Paltrow y Penélope Cruz entre sus personajes.</desc>
   </programme>
   <programme start="20261115022500 +0000" stop="20261115050000 +0000" channel="La1.es.scraper">
+    <title lang="es">Noticias 24H</title>
+    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261115050000 +0000" stop="20261115060000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
