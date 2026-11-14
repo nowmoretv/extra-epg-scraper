@@ -518,7 +518,7 @@
     <desc lang="hr">REDZONE</desc>
     <category lang="hr">Američki nogomet</category>
   </programme>
-  <programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="ArenaSport4.hr.scraper">
+  <programme start="20261113214500 +0000" stop="20261113230000 +0000" channel="ArenaSport4.hr.scraper">
     <title lang="hr">LIGA PRVAKA: HANNOVER - JADRAN HN</title>
     <desc lang="hr">HANNOVER - JADRAN HN</desc>
     <category lang="hr">Vaterpolo</category>
@@ -968,10 +968,10 @@
     <desc lang="hr">ATLETICO MADRID - BAYERN</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261113220000 +0000" stop="20261113230000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">DOKUMENTARNI FILM: DIPLOMAT</title>
-    <desc lang="hr">DIPLOMAT</desc>
-    <category lang="hr">Dokumentarni film</category>
+  <programme start="20261113200000 +0000" stop="20261113230000 +0000" channel="ArenaSport8.hr.scraper">
+    <title lang="hr">MLB: WORLD SERIES G4</title>
+    <desc lang="hr">WORLD SERIES G4</desc>
+    <category lang="hr">Baseball</category>
   </programme>
   <programme start="20261113230000 +0000" stop="20261114010000 +0000" channel="ArenaSport8.hr.scraper">
     <title lang="hr">WBC WELTERWEIGHT WORLD CHAMPIONSHIP: PACQUIAO - BARRIOS</title>
@@ -1148,61 +1148,7 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261114025000 +0000" stop="20261114050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261114050000 +0000" stop="20261114060000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261114060000 +0000" stop="20261114090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261114090000 +0000" stop="20261114093000 +0000" channel="La1.es.scraper">
-    <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.</desc>
-  </programme>
-  <programme start="20261114093000 +0000" stop="20261114100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261114100000 +0000" stop="20261114110000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un multifacético viaje por la exitosa carrera profesional de José María Íñigo, el presentador más popular y longevo de Televisión Española. Sus modernos inicios en programas musicales y su éxito dirigiendo programas como Directísimo, Esta noche, fiesta o Fantástico,.</desc>
-    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
-    <episode-num system="onscreen">S01E02</episode-num>
-  </programme>
-  <programme start="20261114110000 +0000" stop="20261114120500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">El programa dará protagonismo a las canciones con las coreografías más célebres, aquellas que nos han puesto en danza durante varias décadas.</desc>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-  </programme>
-  <programme start="20261114120500 +0000" stop="20261114135500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.288.0/1</episode-num>
-    <episode-num system="onscreen">S01E289</episode-num>
-  </programme>
-  <programme start="20261114135500 +0000" stop="20261114144500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20261114144500 +0000" stop="20261114145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261114145000 +0000" stop="20261114145500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
-  <programme start="20261114145500 +0000" stop="20261114163500 +0000" channel="La1.es.scraper">
-    <title lang="es">El mayordomo inglés</title>
-    <desc lang="es">El nominado al Oscar John Malkovich ("Las amistades peligrosas") brilla en esta agridulce comedia dirigida por el escritor Gilles Legardinier. La película está basada en el 'best seller' homónimo de Legardinier y, con ella, el autor debuta en la dirección. Andrew Blake es un empresario de éxito que a pesar de sus triunfos en los negocios no encuentra su lugar en el mundo. Un impulso repentino le hará regresar a un precioso 'château' en Francia donde conoció a su mujer. Sin embargo, cuando llega a la finca, nadie sabe quién es, lo confunden con un mayordomo y decide asumir el puesto. Fanny Ardant ("8 mujeres") y Émilie Dequenne ("Rosetta"), completan el reparto.</desc>
-  </programme>
-  <programme start="20261114163500 +0000" stop="20261114182500 +0000" channel="La1.es.scraper">
+  <programme start="20261114163900 +0000" stop="20261114182500 +0000" channel="La1.es.scraper">
     <title lang="es">Diana</title>
     <desc lang="es">Cuando la princesa Diana (Naomi Watts) voló a Pakistán en mayo de 1997, fue a conocer a la familia del doctor Hasnat Khan (Naveen Andrews), el hombre con quien deseaba casarse. Diana, una de las mujeres más famosas y bellas del mundo, esperaba persuadir a la madre del doctor Khan haciéndole ver que sería la esposa adecuada para su hijo. De haber tenido éxito, los acontecimientos de aquel verano podrían haber sido muy diferentes... Naomi Watts ("Lo imposible", "J. Edgar") y Naveen Andrews (serie "Perdidos", "La extraña que hay en ti") protagonizan esta emotiva historia de amor que refleja un episodio poco conocido en la vida de la princesa Diana de Gales y en la que juegan un papel muy importante la familia, la amistad, la responsabilidad y las calamidades que puede acarrear la fama. Dirigida por el alemán Olivier Hirschbiegel ("Cinco minutos de gloria", "El hundimiento").</desc>
   </programme>
@@ -1235,10 +1181,6 @@
   <programme start="20261115010000 +0000" stop="20261115022500 +0000" channel="La1.es.scraper">
     <title lang="es">La chica de mis sueños</title>
     <desc lang="es">Gary es una estrella del pop en decadencia que sufre una crisis existencial debido a su falta de trabajo y a la estancada relación sentimental que mantiene con su novia, Dora. Como vía de escape, sueña cada noche con la que sería su relación perfecta, personalizada en Anna. Para superar todo este laberinto emocional, contará con la ayuda de su amigo Paul y con un gurú 'New age' llamado Mel. Dirigida por Jake Paltrow, "La chica de mis sueños" cuenta con Gwyneth Paltrow y Penélope Cruz entre sus personajes.</desc>
-  </programme>
-  <programme start="20261115022500 +0000" stop="20261115050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
   <programme start="20261115022500 +0000" stop="20261115050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -1290,6 +1232,10 @@
     <title lang="es">El hombre perfecto</title>
     <desc lang="es">La adolescente Holly Hamilton (Hilary Duff) está cansada de tener que cambiar de casa cada vez que Jean (Heather Locklear), su madre soltera, tiene otro fracaso sentimental. Para animarla tras su último desengaño, Holly concibe el plan perfecto para brindarle el hombre perfecto: un ficticio admirador secreto que cortejará, virtualmente, a Jean y rehará su maltrecha autoestima. Sin embargo, cuando la relación virtual cobra impulso, Holly se ve forzada a dar cuerpo al pretendiente y recurre al guapo y encantador tío de su amiga (Chris Noth) para poner rostro al autor de las cartas y regalos. Holly habrá de tomar medidas cada vez más inverosímiles para apuntalar su estratagema y salvaguardar la frágil felicidad de su madre.</desc>
   </programme>
+  <programme start="20261115163500 +0000" stop="20261115181500 +0000" channel="La1.es.scraper">
+    <title lang="es">El hombre perfecto</title>
+    <desc lang="es">La adolescente Holly Hamilton (Hilary Duff) está cansada de tener que cambiar de casa cada vez que Jean (Heather Locklear), su madre soltera, tiene otro fracaso sentimental. Para animarla tras su último desengaño, Holly concibe el plan perfecto para brindarle el hombre perfecto: un ficticio admirador secreto que cortejará, virtualmente, a Jean y rehará su maltrecha autoestima. Sin embargo, cuando la relación virtual cobra impulso, Holly se ve forzada a dar cuerpo al pretendiente y recurre al guapo y encantador tío de su amiga (Chris Noth) para poner rostro al autor de las cartas y regalos. Holly habrá de tomar medidas cada vez más inverosímiles para apuntalar su estratagema y salvaguardar la frágil felicidad de su madre.</desc>
+  </programme>
   <programme start="20261115181500 +0000" stop="20261115193000 +0000" channel="La1.es.scraper">
     <title lang="es">Cosas nuestras</title>
     <desc lang="es">Programa de entretenimiento para los fines de semana.</desc>
@@ -1313,5 +1259,9 @@
   <programme start="20261116020500 +0000" stop="20261116050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261116050000 +0000" stop="20261116065000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
 </tv>
