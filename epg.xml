@@ -673,53 +673,7 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261115022500 +0000" stop="20261115045700 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261115045700 +0000" stop="20261115060000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261115060000 +0000" stop="20261115100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261115100000 +0000" stop="20261115110000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un viaje al centro de la copla, el género musical que más nos ha representado dentro y fuera de España. Con actuaciones de las principales estrellas de todos los tiempos como Estrellita castro, Cocha Piquer, Imperio Argentina, Celia Gámez, Rocío Jurado y Pastora Soler.</desc>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-  </programme>
-  <programme start="20261115110000 +0000" stop="20261115120500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un nostálgico viaje musical por las actuaciones de grupos y solistas que triunfaron en los años 70. Cat Stevens, Aute, John Lennon, Cecilia, Joan Baez, David Bowie, Stevie Wonder, Bob Marley, Aretha Franklin, Elton John, The knak, Status Quo y otros muchos.</desc>
-    <episode-num system="xmltv_ns">0.5.0/1</episode-num>
-    <episode-num system="onscreen">S01E06</episode-num>
-  </programme>
-  <programme start="20261115120500 +0000" stop="20261115135500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.289.0/1</episode-num>
-    <episode-num system="onscreen">S01E290</episode-num>
-  </programme>
-  <programme start="20261115135500 +0000" stop="20261115144500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20261115144500 +0000" stop="20261115145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261115145000 +0000" stop="20261115145500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
-  <programme start="20261115145500 +0000" stop="20261115163500 +0000" channel="La1.es.scraper">
-    <title lang="es">¡Estáis cordialmente invitados!</title>
-    <desc lang="es">Debido a un error, dos bodas quedan programadas el mismo día y en el mismo lugar, por lo que las comitivas nupciales asumen el desafío de convertir la inesperada falta de espacio en una ocasión inolvidable para sus familias. En medio de la caótica situación, el padre de una de las novias (Will Ferrell) y la hermana de la otra (Reese Witherspoon) protagonizan una hilarante lucha de egos, empeñados en asegurar que cada detalle de la celebración sea inolvidable para los suyos.</desc>
-  </programme>
-  <programme start="20261115163500 +0000" stop="20261115181500 +0000" channel="La1.es.scraper">
+  <programme start="20261115163700 +0000" stop="20261115181500 +0000" channel="La1.es.scraper">
     <title lang="es">El hombre perfecto</title>
     <desc lang="es">La adolescente Holly Hamilton (Hilary Duff) está cansada de tener que cambiar de casa cada vez que Jean (Heather Locklear), su madre soltera, tiene otro fracaso sentimental. Para animarla tras su último desengaño, Holly concibe el plan perfecto para brindarle el hombre perfecto: un ficticio admirador secreto que cortejará, virtualmente, a Jean y rehará su maltrecha autoestima. Sin embargo, cuando la relación virtual cobra impulso, Holly se ve forzada a dar cuerpo al pretendiente y recurre al guapo y encantador tío de su amiga (Chris Noth) para poner rostro al autor de las cartas y regalos. Holly habrá de tomar medidas cada vez más inverosímiles para apuntalar su estratagema y salvaguardar la frágil felicidad de su madre.</desc>
   </programme>
@@ -742,10 +696,6 @@
   <programme start="20261115232500 +0000" stop="20261116020500 +0000" channel="La1.es.scraper">
     <title lang="es">The Batman</title>
     <desc lang="es">Robert Pattinson es Batman en esta apasionante y sombría entrega del Universo Extendido DC. En "The Batman", el Hombre Murciélago creado por Bob Kane y Bill Finger lleva dos años protegiendo la corrupta ciudad de Gotham. Ahora, Bruce Wayne / Batman y sus escasos aliados van a enfrentarse a un asesino que tiene a la élite de la ciudad en su punto de mira. Junto a Pattinson, completan el reparto Zoë Kravitz (Selina Kyle / Catwoman), Andy Serkis (Alfred Pennyworth), Jeffrey Wright (teniente James Gordon), Colin Farrell (Oswald Cobblepot / El Pingüino), John Turturro (Carmine Falcone), Paul Dano (Edward Nashton / Enigma), Peter Sarsgaard (Gil Colson, el fiscal de distrito de Gotham) y Jayme Lawson (Bella Reál, candidata a la alcaldía).</desc>
-  </programme>
-  <programme start="20261116020500 +0000" stop="20261116050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
   <programme start="20261116020500 +0000" stop="20261116050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -801,6 +751,12 @@
     <episode-num system="xmltv_ns">0.946.0/1</episode-num>
     <episode-num system="onscreen">S01E947</episode-num>
   </programme>
+  <programme start="20261116173500 +0000" stop="20261116183500 +0000" channel="La1.es.scraper">
+    <title lang="es">La Promesa</title>
+    <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+    <episode-num system="xmltv_ns">0.946.0/1</episode-num>
+    <episode-num system="onscreen">S01E947</episode-num>
+  </programme>
   <programme start="20261116183500 +0000" stop="20261116192500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
@@ -840,5 +796,9 @@
   <programme start="20261117042500 +0000" stop="20261117050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261117050000 +0000" stop="20261117065000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
 </tv>
