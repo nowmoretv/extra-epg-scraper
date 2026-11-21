@@ -1213,61 +1213,11 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261121045900 +0000" stop="20261121060000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261121060000 +0000" stop="20261121090000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261121090000 +0000" stop="20261121093000 +0000" channel="La1.es.scraper">
-    <title lang="es">Audiencia abierta</title>
-    <desc lang="es">Espacio de servicio público sobre la jefatura del Estado, la Corona y la Monarquía parlamentaria. Cada semana, el programa informa sobre las principales actividades del Rey como Jefe del Estado, dando a conocer en profundidad sus competencias y su actividad oficial.</desc>
-  </programme>
-  <programme start="20261121093000 +0000" stop="20261121100000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261121100000 +0000" stop="20261121110000 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un poderoso viaje por la exitosa carrera de uno de nuestros mejores intérpretes. Sus inicios en los 60, Eurovisión, su romance con Natalia, su éxito en la URSS y en el mundo, su enfermedad y su longevidad artística.</desc>
-    <episode-num system="xmltv_ns">0.2.0/1</episode-num>
-    <episode-num system="onscreen">S01E03</episode-num>
-  </programme>
-  <programme start="20261121110000 +0000" stop="20261121120500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Un viaje musical por el antes y el ahora de los grupos y solistas, nacionales e internacionales agraciados con el cariño de los espectadores. Eros Ramazotti, Maná, Luis Miguel, Mónica Naranjo, Shakira, Juanes, Mclan, Enrique Bumbury, Andés Calamaro y muchos más.</desc>
-    <episode-num system="xmltv_ns">0.0.0/1</episode-num>
-    <episode-num system="onscreen">S01E01</episode-num>
-  </programme>
-  <programme start="20261121120500 +0000" stop="20261121135500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.290.0/1</episode-num>
-    <episode-num system="onscreen">S01E291</episode-num>
-  </programme>
-  <programme start="20261121135500 +0000" stop="20261121144500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20261121144500 +0000" stop="20261121145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261121145000 +0000" stop="20261121145500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
-  <programme start="20261121145500 +0000" stop="20261121164500 +0000" channel="La1.es.scraper">
-    <title lang="es">Agua para elefantes</title>
-    <desc lang="es">En plena Gran Depresión, Jacob, un joven estudiante de veterinaria, se ve obligado a dejar los estudios tras el asesinato de sus padres y empieza a trabajar para los hermanos Benzini como veterinario de su circo. El joven se enamora de la amazona Marlena, una de las estrellas del espectáculo, que está casada con August, el encargado de entrenar a los animales, un hombre tan carismático como retorcido. Película romántica, adaptación cinematográfica del 'best seller' homónimo escrito por Sara Gruen. Dirigido por Francis Lawrence, el filme está protagonizado por Reese Witherspoon, Robert Pattinson y Christoph Waltz.</desc>
-  </programme>
-  <programme start="20261121164500 +0000" stop="20261121181500 +0000" channel="La1.es.scraper">
+  <programme start="20261121164900 +0000" stop="20261121181800 +0000" channel="La1.es.scraper">
     <title lang="es">Ooh La La!</title>
     <desc lang="es">Christian Clavier vuelve con esta ingeniosa y divertida comedia con el mismo humor francés y mismo amor a Francia que en "Dios mío, ¿pero ¿qué te hemos hecho?". Sin embargo, en "Ooh La La! ", Clavier interpreta a un descendiente de duques, casado con una aristócrata y, como no, obsesionado con el porvenir de su hija. Alice y François están a punto de casarse y deciden reunir a sus padres. Los de ella son aristócratas, los de él personas muy sencillas, pero, para ambos, Alice tiene preparada una sorpresa: unas pruebas de ADN para que puedan conocer sus orígenes. Las diferencias de clases, los prejuicios de unos y otros, los enredos y las sorpresas son las claves de esta comedia sobre dos familias increíblemente francesas. Didier Bourdon, Marianne Denicourt y Sylvie Testud, completan el reparto de la cinta.</desc>
   </programme>
-  <programme start="20261121181500 +0000" stop="20261121195500 +0000" channel="La1.es.scraper">
+  <programme start="20261121181800 +0000" stop="20261121195500 +0000" channel="La1.es.scraper">
     <title lang="es">Cosas nuestras</title>
     <desc lang="es">Programa de entretenimiento para los fines de semana.</desc>
     <episode-num system="xmltv_ns">0.14.0/1</episode-num>
@@ -1294,10 +1244,6 @@
     <episode-num system="onscreen">S01E32</episode-num>
   </programme>
   <programme start="20261122010000 +0000" stop="20261122050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261122050000 +0000" stop="20261122060000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
@@ -1342,6 +1288,10 @@
   <programme start="20261122145500 +0000" stop="20261122165500 +0000" channel="La1.es.scraper">
     <title lang="es">Romper el círculo</title>
     <desc lang="es">Blake Lively ("Gossip Girl") protagoniza la adaptación de la novela homónima de Colleen Hoover, un drama romántico superventas que cautivó al mundo entero y que habla sobre la violencia machista, los abusos y el trauma. Lily no ha tenido una vida fácil y, ahora, su idílica relación con Ryle le parece demasiado bonita para ser verdad. Con la vuelta de Atlas, el primer amor Lily, de nuevo a su vida, Ryle comienza a mostrar su verdadera cara. Justin Baldoni (Rafael Solano en "Jane the Virgin") es el director y coprotagonista de la cinta, a quien acompañan en el reparto Brandon Sklenar ("Midway"), Jenny Slate ("Venom") y Hasan Minhaj ("Sin malos rollos").</desc>
+  </programme>
+  <programme start="20261122165500 +0000" stop="20261122181500 +0000" channel="La1.es.scraper">
+    <title lang="es">Obsesión</title>
+    <desc lang="es">Claire Peterson, profesora de literatura de instituto recién divorciada, conoce a Noah, un atractivo joven que se ha mudado recientemente a la casa de al lado. Alumno del centro en el que imparte clase Claire, el joven logra conquistarla, empezando un pasional romance. Rob Cohen es el encargado de dirigir "Obsesión", un filme sobre el tormentoso romance entre una mujer adulta y un adolescente. La historia narra la relación amorosa entre Noah y su profesora y vecina Claire. Los comportamientos del joven se descubrirán obsesivos y peligrosos, por lo que Claire tratará de acabar con esa asfixiante relación antes de un posible trágico final. El filme, un 'thriller' que mezcla amor y obsesión, aborda la problemática de los celos dentro de una relación cuando éstos se convierten en un peligroso problema. "Obsesión" está protagonizada por Jennifer Lopez, Ryan Guzman, Kristin Chenoweth, John Corbett, Ian Nelson y Lexi Atkins.</desc>
   </programme>
   <programme start="20261122165500 +0000" stop="20261122181500 +0000" channel="La1.es.scraper">
     <title lang="es">Obsesión</title>
