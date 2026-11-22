@@ -713,57 +713,11 @@
     <desc lang="hr">NAJAVA PROGRAMA</desc>
     <category lang="hr">Najava programa</category>
   </programme>
-  <programme start="20261122010000 +0000" stop="20261122045800 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261122045800 +0000" stop="20261122060000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261122060000 +0000" stop="20261122101000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261122101000 +0000" stop="20261122110500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Una mirada al pasado para recuperar alguno de los mejores momentos de la historia de Televisión Española. La nostalgia, el humor y la ironía son los ingredientes principales de un formato amenizado por el grafismo y las viñetas inconfundibles de Antonio Fraguas Forges.</desc>
-    <episode-num system="xmltv_ns">0.7.0/1</episode-num>
-    <episode-num system="onscreen">S01E08</episode-num>
-  </programme>
-  <programme start="20261122110500 +0000" stop="20261122120500 +0000" channel="La1.es.scraper">
-    <title lang="es">Viaje al centro de la tele</title>
-    <desc lang="es">Delirante viaje por las actuaciones musicales de los programas musicales realizados por Valerio Lazarov. Con sus llamativos zums, incrustaciones de imágenes por la técnica del croma y sus surrealistas puestas en escena.</desc>
-    <episode-num system="xmltv_ns">0.1.0/1</episode-num>
-    <episode-num system="onscreen">S01E02</episode-num>
-  </programme>
-  <programme start="20261122120500 +0000" stop="20261122135500 +0000" channel="La1.es.scraper">
-    <title lang="es">D Corazón</title>
-    <desc lang="es">Anne Igartiburu y Jordi González hacen un repaso a la actualidad de la crónica social, con los nombres propios más importantes de la semana y estando en directo en todos los acontecimientos y eventos que se produzcan.</desc>
-    <episode-num system="xmltv_ns">0.291.0/1</episode-num>
-    <episode-num system="onscreen">S01E292</episode-num>
-  </programme>
-  <programme start="20261122135500 +0000" stop="20261122144500 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1 Fin de Semana</title>
-    <desc lang="es">Informativo de Televisión Española de los fines de semana.Marc Sala y Lourdes Maldonado se encargan de presentar las últimas noticias de ámbito nacional e internacional surgidas durante el día. Mientras, Marcos López, introduce el bloque de deportes.</desc>
-  </programme>
-  <programme start="20261122144500 +0000" stop="20261122145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261122145000 +0000" stop="20261122145500 +0000" channel="La1.es.scraper">
-    <title lang="es">La suerte en tus manos</title>
-    <desc lang="es">Emisión en directo de los sorteos de la Lotería Primitiva y la Lotería Nacional. La Primitiva es el juego más popular de las Loterías y Apuestas del Estado, mientras que la Nacional se basa en el sistema de décimos de cinco números.</desc>
-  </programme>
-  <programme start="20261122145500 +0000" stop="20261122165500 +0000" channel="La1.es.scraper">
-    <title lang="es">Romper el círculo</title>
-    <desc lang="es">Blake Lively ("Gossip Girl") protagoniza la adaptación de la novela homónima de Colleen Hoover, un drama romántico superventas que cautivó al mundo entero y que habla sobre la violencia machista, los abusos y el trauma. Lily no ha tenido una vida fácil y, ahora, su idílica relación con Ryle le parece demasiado bonita para ser verdad. Con la vuelta de Atlas, el primer amor Lily, de nuevo a su vida, Ryle comienza a mostrar su verdadera cara. Justin Baldoni (Rafael Solano en "Jane the Virgin") es el director y coprotagonista de la cinta, a quien acompañan en el reparto Brandon Sklenar ("Midway"), Jenny Slate ("Venom") y Hasan Minhaj ("Sin malos rollos").</desc>
-  </programme>
-  <programme start="20261122165500 +0000" stop="20261122181500 +0000" channel="La1.es.scraper">
+  <programme start="20261122165700 +0000" stop="20261122182200 +0000" channel="La1.es.scraper">
     <title lang="es">Obsesión</title>
     <desc lang="es">Claire Peterson, profesora de literatura de instituto recién divorciada, conoce a Noah, un atractivo joven que se ha mudado recientemente a la casa de al lado. Alumno del centro en el que imparte clase Claire, el joven logra conquistarla, empezando un pasional romance. Rob Cohen es el encargado de dirigir "Obsesión", un filme sobre el tormentoso romance entre una mujer adulta y un adolescente. La historia narra la relación amorosa entre Noah y su profesora y vecina Claire. Los comportamientos del joven se descubrirán obsesivos y peligrosos, por lo que Claire tratará de acabar con esa asfixiante relación antes de un posible trágico final. El filme, un 'thriller' que mezcla amor y obsesión, aborda la problemática de los celos dentro de una relación cuando éstos se convierten en un peligroso problema. "Obsesión" está protagonizada por Jennifer Lopez, Ryan Guzman, Kristin Chenoweth, John Corbett, Ian Nelson y Lexi Atkins.</desc>
   </programme>
-  <programme start="20261122181500 +0000" stop="20261122193000 +0000" channel="La1.es.scraper">
+  <programme start="20261122182200 +0000" stop="20261122193000 +0000" channel="La1.es.scraper">
     <title lang="es">Cosas nuestras</title>
     <desc lang="es">Programa de entretenimiento para los fines de semana.</desc>
     <episode-num system="xmltv_ns">0.15.0/1</episode-num>
@@ -794,10 +748,6 @@
   <programme start="20261123002500 +0000" stop="20261123020000 +0000" channel="La1.es.scraper">
     <title lang="es">Caminos desesperados</title>
     <desc lang="es">Este oscuro 'thriller' ambientado en el sur de Estados Unidos plagado de violencia, deseo y venganza es una adaptación de la novela homónima de Michael Farris Smith. Cuenta con Garrett Hedlund (''Tron: Legacy''), Willa Fitzgerald (''Strange Darling'') y Mel Gibson en los roles principales. Russell vuelve a su ciudad natal tras haber salido de la cárcel, buscando la redención en una vida tranquila. Sin embargo, su destino se entrecruza con el de Maben, una madre soltera con problemas de adicción que es acusada de haber asesinado a un agente de policía en defensa propia. En un intento por ayudar a la mujer y a su hija, Russell se verá envuelto en la venganza personal que se desata contra Maben.</desc>
-  </programme>
-  <programme start="20261123020000 +0000" stop="20261123050000 +0000" channel="La1.es.scraper">
-    <title lang="es">Noticias 24H</title>
-    <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
   </programme>
   <programme start="20261123020000 +0000" stop="20261123050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
@@ -853,6 +803,12 @@
     <episode-num system="xmltv_ns">0.951.0/1</episode-num>
     <episode-num system="onscreen">S01E952</episode-num>
   </programme>
+  <programme start="20261123174000 +0000" stop="20261123184500 +0000" channel="La1.es.scraper">
+    <title lang="es">La Promesa</title>
+    <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+    <episode-num system="xmltv_ns">0.951.0/1</episode-num>
+    <episode-num system="onscreen">S01E952</episode-num>
+  </programme>
   <programme start="20261123184500 +0000" stop="20261123194500 +0000" channel="La1.es.scraper">
     <title lang="es">Malas lenguas</title>
     <desc lang="es">Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
@@ -876,5 +832,9 @@
   <programme start="20261124000000 +0000" stop="20261124050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
+  </programme>
+  <programme start="20261124050000 +0000" stop="20261124065000 +0000" channel="La1.es.scraper">
+    <title lang="es">Telediario Matinal</title>
+    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
 </tv>
