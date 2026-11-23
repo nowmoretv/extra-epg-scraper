@@ -1083,71 +1083,7 @@
     <desc lang="hr">SLOVAN BRATISLAVA - BETIS</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261123050000 +0000" stop="20261123065000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261123065000 +0000" stop="20261123093500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.230.0/1</episode-num>
-    <episode-num system="onscreen">S01E231</episode-num>
-  </programme>
-  <programme start="20261123093500 +0000" stop="20261123135500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.</desc>
-    <episode-num system="xmltv_ns">0.65.0/1</episode-num>
-    <episode-num system="onscreen">S01E66</episode-num>
-  </programme>
-  <programme start="20261123135500 +0000" stop="20261123143000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261123143000 +0000" stop="20261123143500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261123143500 +0000" stop="20261123144000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261123144000 +0000" stop="20261123145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
-  <programme start="20261123145000 +0000" stop="20261123165000 +0000" channel="La1.es.scraper">
-    <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacine de actualidad social y política con secciones de humor y de verificación de noticias falsas.</desc>
-    <episode-num system="xmltv_ns">0.230.0/1</episode-num>
-    <episode-num system="onscreen">S01E231</episode-num>
-  </programme>
-  <programme start="20261123165000 +0000" stop="20261123174000 +0000" channel="La1.es.scraper">
-    <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Adriana, una joven de 20 años, viaja de Madrid a Asturias tras descubrir que su matrimonio con un desconocido fue concertado en secreto y debe ir a buscarlo a casa de su tía. Allí será obligada a trabajar como criada.</desc>
-    <episode-num system="xmltv_ns">0.108.0/1</episode-num>
-    <episode-num system="onscreen">S01E109</episode-num>
-  </programme>
-  <programme start="20261123174000 +0000" stop="20261123184500 +0000" channel="La1.es.scraper">
-    <title lang="es">La Promesa</title>
-    <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
-    <episode-num system="xmltv_ns">0.951.0/1</episode-num>
-    <episode-num system="onscreen">S01E952</episode-num>
-  </programme>
-  <programme start="20261123184500 +0000" stop="20261123194500 +0000" channel="La1.es.scraper">
-    <title lang="es">Malas lenguas</title>
-    <desc lang="es">Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
-    <episode-num system="xmltv_ns">0.504.0/1</episode-num>
-    <episode-num system="onscreen">S01E505</episode-num>
-  </programme>
-  <programme start="20261123194500 +0000" stop="20261123210000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 2</title>
-    <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.</desc>
-  </programme>
-  <programme start="20261123210000 +0000" stop="20261123223000 +0000" channel="La1.es.scraper">
-    <title lang="es">Debate a ocho</title>
-    <desc lang="es">Debate a ocho entre los portavoces de PP, PSOE, Vox, Frente Amplio, ERC, EH-Bildu, PNV y Junts. Las principales fuerzas con representación en el Congreso de los Diputados confrontan sus programas en el tramo decisivo antes de las elecciones.</desc>
-  </programme>
-  <programme start="20261123223000 +0000" stop="20261124000000 +0000" channel="La1.es.scraper">
+  <programme start="20261123223700 +0000" stop="20261124000000 +0000" channel="La1.es.scraper">
     <title lang="es">La gran decisión</title>
     <desc lang="es">Los servicios informativos de TVE hacen un seguimiento del debate cara a cara entre los candidatos del PSOE y del PP a la presidencia del Gobierno que organiza la Academia de Televisión. Todas las claves del encuentro entre Pedro Sánchez y Alberto Núñez Feijóo se analizarán antes y después del debate en especiales de los Servicios Informativos de RTVE, conducidos por Pepa Bueno.</desc>
     <episode-num system="xmltv_ns">0.3.0/1</episode-num>
@@ -1156,10 +1092,6 @@
   <programme start="20261124000000 +0000" stop="20261124050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261124050000 +0000" stop="20261124065000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
   <programme start="20261124050000 +0000" stop="20261124065000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario Matinal</title>
@@ -1220,6 +1152,10 @@
   <programme start="20261124204500 +0000" stop="20261124220000 +0000" channel="La1.es.scraper">
     <title lang="es">La revuelta</title>
     <desc lang="es">David Broncano conduce La revuelta, un programa de atípicas entrevistas a famosos.</desc>
+  </programme>
+  <programme start="20261124220000 +0000" stop="20261125001000 +0000" channel="La1.es.scraper">
+    <title lang="es">Dog House</title>
+    <desc lang="es">El programa nos adentra en el día a día de un albergue de adopción de perros, donde un equipo comprometido trabaja con dedicación para encontrar el hogar perfecto para cada perro.</desc>
   </programme>
   <programme start="20261124220000 +0000" stop="20261125001000 +0000" channel="La1.es.scraper">
     <title lang="es">Dog House</title>
