@@ -33,11 +33,6 @@
   <channel id="La1.es.scraper">
     <display-name>La 1</display-name>
   </channel>
-  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="ArenaSport1.hr.scraper">
-    <title lang="hr">NOGOMET: LIGA PRVAKA</title>
-    <desc lang="hr">LIGA PRVAKA</desc>
-    <category lang="hr">Studio</category>
-  </programme>
   <programme start="20261124230000 +0000" stop="20261125010000 +0000" channel="ArenaSport1.hr.scraper">
     <title lang="hr">LIGA PRVAKA: COMO - AEK</title>
     <desc lang="hr">COMO - AEK</desc>
@@ -208,11 +203,6 @@
     <desc lang="hr">KONFERENCIJSKA LIGA</desc>
     <category lang="hr">Studio</category>
   </programme>
-  <programme start="20261124220000 +0000" stop="20261125000000 +0000" channel="ArenaSport2.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: BODO GLIMT - LASK</title>
-    <desc lang="hr">BODO GLIMT - LASK</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20261125000000 +0000" stop="20261125013000 +0000" channel="ArenaSport2.hr.scraper">
     <title lang="hr">EUROPSKA LIGA M: PRESOV - SESVETE</title>
     <desc lang="hr">PRESOV - SESVETE</desc>
@@ -367,11 +357,6 @@
     <title lang="hr">KVALIFIKACIJE ZA SP: ISLAND - BIH</title>
     <desc lang="hr">ISLAND - BIH</desc>
     <category lang="hr">Košarka</category>
-  </programme>
-  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="ArenaSport3.hr.scraper">
-    <title lang="hr">EMISIJA: NEUSPJEH PRVAKA</title>
-    <desc lang="hr">NEUSPJEH PRVAKA</desc>
-    <category lang="hr">Emisija</category>
   </programme>
   <programme start="20261124230000 +0000" stop="20261125010000 +0000" channel="ArenaSport3.hr.scraper">
     <title lang="hr">FRANCUSKA LIGA: NICE - PSG</title>
@@ -528,11 +513,6 @@
     <desc lang="hr">NEUSPJEH PRVAKA</desc>
     <category lang="hr">Emisija</category>
   </programme>
-  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="ArenaSport4.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: RADNIČKI - ORADEA</title>
-    <desc lang="hr">RADNIČKI - ORADEA</desc>
-    <category lang="hr">Vaterpolo</category>
-  </programme>
   <programme start="20261124230000 +0000" stop="20261125010000 +0000" channel="ArenaSport4.hr.scraper">
     <title lang="hr">ABA LIGA: FMP - IGOKEA</title>
     <desc lang="hr">FMP - IGOKEA</desc>
@@ -668,11 +648,6 @@
     <desc lang="hr">JADRAN ST - MLADOST</desc>
     <category lang="hr">Vaterpolo</category>
   </programme>
-  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="ArenaSport5.hr.scraper">
-    <title lang="hr">RUMUNJSKA LIGA: UTA - U. CRAIOVA</title>
-    <desc lang="hr">UTA - U. CRAIOVA</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
   <programme start="20261124230000 +0000" stop="20261125140000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -736,11 +711,6 @@
   <programme start="20261126220000 +0000" stop="20261126230000 +0000" channel="ArenaSport5.hr.scraper">
     <title lang="hr">RUMUNJSKA LIGA: CSIKSZEREDA - CORVINUL</title>
     <desc lang="hr">CSIKSZEREDA - CORVINUL</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="ArenaSport6.hr.scraper">
-    <title lang="hr">POLJSKA LIGA: WISLA PLOCK - LEGIA</title>
-    <desc lang="hr">WISLA PLOCK - LEGIA</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261124230000 +0000" stop="20261125140000 +0000" channel="ArenaSport6.hr.scraper">
@@ -807,11 +777,6 @@
     <title lang="hr">NFL: DALLAS - PHILADELPHIA</title>
     <desc lang="hr">DALLAS - PHILADELPHIA</desc>
     <category lang="hr">Američki nogomet</category>
-  </programme>
-  <programme start="20261124220000 +0000" stop="20261125000000 +0000" channel="ArenaSport7.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: GALATASARAY - ASTON VILLA</title>
-    <desc lang="hr">GALATASARAY - ASTON VILLA</desc>
-    <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261125000000 +0000" stop="20261125020000 +0000" channel="ArenaSport7.hr.scraper">
     <title lang="hr">EUROPA LIGA: BENFICA - LECH</title>
@@ -968,11 +933,6 @@
     <desc lang="hr">ATLETICO MADRID - VIKING</desc>
     <category lang="hr">Nogomet</category>
   </programme>
-  <programme start="20261124220000 +0000" stop="20261124230000 +0000" channel="ArenaSport8.hr.scraper">
-    <title lang="hr">DOKUMENTARNI FILM: TOMMY</title>
-    <desc lang="hr">TOMMY</desc>
-    <category lang="hr">Dokumentarni film</category>
-  </programme>
   <programme start="20261124230000 +0000" stop="20261125010000 +0000" channel="ArenaSport8.hr.scraper">
     <title lang="hr">IBO SUPER WELTERWEIGHT WORLD CHAMPIONSHIP: LIMA - KOOPMAN</title>
     <desc lang="hr">LIMA - KOOPMAN</desc>
@@ -1108,11 +1068,6 @@
     <desc lang="hr">TOMMY</desc>
     <category lang="hr">Dokumentarni film</category>
   </programme>
-  <programme start="20261124194500 +0000" stop="20261124230000 +0000" channel="ArenaSport9.hr.scraper">
-    <title lang="hr">EUROPSKA LIGA M: IZVIĐAČ - CSM BUCUREST</title>
-    <desc lang="hr">IZVIĐAČ - CSM BUCUREST</desc>
-    <category lang="hr">Rukomet</category>
-  </programme>
   <programme start="20261124230000 +0000" stop="20261125200000 +0000" channel="ArenaSport9.hr.scraper">
     <title lang="hr">NAJAVA: NAJAVA PROGRAMA</title>
     <desc lang="hr">NAJAVA PROGRAMA</desc>
@@ -1141,11 +1096,6 @@
   <programme start="20261126200000 +0000" stop="20261126230000 +0000" channel="ArenaSport9.hr.scraper">
     <title lang="hr">EUROPA LIGA: TORREENSE - CELTIC</title>
     <desc lang="hr">TORREENSE - CELTIC</desc>
-    <category lang="hr">Nogomet</category>
-  </programme>
-  <programme start="20261124200000 +0000" stop="20261124230000 +0000" channel="ArenaSport10.hr.scraper">
-    <title lang="hr">LIGA PRVAKA: SLOVAN BRATISLAVA - BETIS</title>
-    <desc lang="hr">SLOVAN BRATISLAVA - BETIS</desc>
     <category lang="hr">Nogomet</category>
   </programme>
   <programme start="20261124230000 +0000" stop="20261125200000 +0000" channel="ArenaSport10.hr.scraper">
@@ -1178,67 +1128,7 @@
     <desc lang="hr">ISLAND - BIH</desc>
     <category lang="hr">Košarka</category>
   </programme>
-  <programme start="20261125045900 +0000" stop="20261125064900 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
-  </programme>
-  <programme start="20261125064900 +0000" stop="20261125093500 +0000" channel="La1.es.scraper">
-    <title lang="es">La hora de La 1: La hora de la actualidad</title>
-    <desc lang="es">Magazine matinal de la 1 presentado por Mónica López en el que se reúne información de actualidad social. El programa cuenta con voces autorizadas que tratan temas que fomenten el pensamiento crítico y el servició público para ayudar a los ciudadanos en su día a día.</desc>
-    <episode-num system="xmltv_ns">0.232.0/1</episode-num>
-    <episode-num system="onscreen">S01E233</episode-num>
-  </programme>
-  <programme start="20261125093500 +0000" stop="20261125135500 +0000" channel="La1.es.scraper">
-    <title lang="es">Mañaneros 360</title>
-    <desc lang="es">Mañaneros es el magacine matinal de entretenimiento de TVE, que recoge la actualidad con rigor y en tiempo real., de una manera ágil, amable e interactiva.</desc>
-    <episode-num system="xmltv_ns">0.67.0/1</episode-num>
-    <episode-num system="onscreen">S01E68</episode-num>
-  </programme>
-  <programme start="20261125135500 +0000" stop="20261125143000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario 1</title>
-    <desc lang="es">El noticiario audiovisual más veterano de la historia de la televisión en España. Alejandra Herranz hace un repaso diario a la actualidad general de España y el mundo, además de una sección dedicada al deporte.</desc>
-  </programme>
-  <programme start="20261125143000 +0000" stop="20261125143500 +0000" channel="La1.es.scraper">
-    <title lang="es">Deportes 1</title>
-    <desc lang="es">Actualidad deportiva diaria nacional e internacional.</desc>
-  </programme>
-  <programme start="20261125143500 +0000" stop="20261125144000 +0000" channel="La1.es.scraper">
-    <title lang="es">El tiempo</title>
-    <desc lang="es">La mejor manera de enterarse de la previsión meteorológica para los próximos días. La información del tiempo de TVE es un clásico de la historia audiovisual española. Avalada por el Instituto Nacional de Meteorología, goza de un alto nivel de acierto.</desc>
-  </programme>
-  <programme start="20261125144000 +0000" stop="20261125145000 +0000" channel="La1.es.scraper">
-    <title lang="es">Informativo territorial 2</title>
-    <desc lang="es">Desconexión de cada uno de los centros territoriales de TVE que incluye la emisión de su informativo. Cada una de las comunidades autónomas tiene su propia delegación de RTVE, a través de la cual se informa de los problemas más cercanos para el ciudadano.</desc>
-  </programme>
-  <programme start="20261125145000 +0000" stop="20261125165000 +0000" channel="La1.es.scraper">
-    <title lang="es">Directo al grano</title>
-    <desc lang="es">Magacín conducido por Marta Flich y Martín Barreiro que comenta la actualidad e intenta explicar de forma sencilla lo que ocurre, con rigor, claridad y dinamismo.</desc>
-  </programme>
-  <programme start="20261125165000 +0000" stop="20261125174000 +0000" channel="La1.es.scraper">
-    <title lang="es">Valle Salvaje</title>
-    <desc lang="es">Hernando exige a José Luis que castigue a Alejo, pero Luisa se enfrenta al marqués y le planta cara como nunca antes. Mientras, llegan noticias inesperadas de Eva que sacuden a Amadeo. Y en el Valle, un humilde jornalero despierta el interés de Mercedes….</desc>
-    <episode-num system="xmltv_ns">0.110.0/1</episode-num>
-    <episode-num system="onscreen">S01E111</episode-num>
-  </programme>
-  <programme start="20261125174000 +0000" stop="20261125184500 +0000" channel="La1.es.scraper">
-    <title lang="es">La Promesa</title>
-    <desc lang="es">Petra urge a Samuel a que solucione el matrimonio irregular de María y Carlo, pero él lo ve imposible a estas alturas… ¿Conseguirá arreglarlo? Las cocineras se reconcilian: serán más sinceras para evitar malentendidos.</desc>
-    <episode-num system="xmltv_ns">0.953.0/1</episode-num>
-    <episode-num system="onscreen">S01E954</episode-num>
-  </programme>
-  <programme start="20261125184500 +0000" stop="20261125192500 +0000" channel="La1.es.scraper">
-    <title lang="es">Malas lenguas</title>
-    <desc lang="es">Jesús Cintora presenta este magacín de actualidad, en el que, con humor, se desmontan bulos que circulan en los medios de comunicación y las redes sociales.</desc>
-    <episode-num system="xmltv_ns">0.506.0/1</episode-num>
-    <episode-num system="onscreen">S01E507</episode-num>
-  </programme>
-  <programme start="20261125192500 +0000" stop="20261125195500 +0000" channel="La1.es.scraper">
-    <title lang="es">Aquí la Tierra</title>
-    <desc lang="es">Magacine de naturaleza e información meteorológica.</desc>
-    <episode-num system="xmltv_ns">0.888.0/1</episode-num>
-    <episode-num system="onscreen">S01E889</episode-num>
-  </programme>
-  <programme start="20261125195500 +0000" stop="20261125205000 +0000" channel="La1.es.scraper">
+  <programme start="20261125195800 +0000" stop="20261125205000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario 2</title>
     <desc lang="es">Cientos de profesionales de TVE salen cada día a la calle en busca de noticias. El resultado, un completo repaso a la actualidad nacional e internacional conducido por Pepa Bueno. También hay espacio para la parcela deportiva.</desc>
   </programme>
@@ -1254,7 +1144,9 @@
   </programme>
   <programme start="20261125221500 +0000" stop="20261125235000 +0000" channel="La1.es.scraper">
     <title lang="es">El perro andaluz</title>
-    <desc lang="es">Manu Sánchez presenta este espacio que combina humor, música, entrevistas y actualidad. Cada entrega construye un universo propio en el que el humor funciona como punto de encuentro y como herramienta para mirar la realidad desde la sátira y la crítica social.</desc>
+    <desc lang="es">Manu Sánchez inaugura la nueva temporada de ''El perro andaluz'' junto a Manuel Carrasco, que interpreta en primicia para televisión uno de sus nuevos temas. Miguel Ángel Revilla viene dispuesto a ladrar y mojarse.</desc>
+    <episode-num system="xmltv_ns">0.20.0/1</episode-num>
+    <episode-num system="onscreen">S01E21</episode-num>
   </programme>
   <programme start="20261125235000 +0000" stop="20261126014500 +0000" channel="La1.es.scraper">
     <title lang="es">El perro andaluz</title>
@@ -1265,10 +1157,6 @@
   <programme start="20261126014500 +0000" stop="20261126050000 +0000" channel="La1.es.scraper">
     <title lang="es">Noticias 24H</title>
     <desc lang="es">Noticias de los servicios informativos del Canal 24 Horas. Producido por Televisión Española, este canal está dedicado íntegramente a ofrecer información de actualidad y es el más antiguo de los canales de este tipo en España.</desc>
-  </programme>
-  <programme start="20261126050000 +0000" stop="20261126065000 +0000" channel="La1.es.scraper">
-    <title lang="es">Telediario Matinal</title>
-    <desc lang="es">Lorena Baeza y Álex Barreiro conducen este rápido y exhaustivo repaso de todas las noticias de interés general. Además, se ofrece la actualidad meteorológica de España y de Europa y el estado de la mar. Rubén Briones presenta la información deportiva.</desc>
   </programme>
   <programme start="20261126050000 +0000" stop="20261126065000 +0000" channel="La1.es.scraper">
     <title lang="es">Telediario Matinal</title>
@@ -1313,6 +1201,10 @@
   <programme start="20261126184000 +0000" stop="20261126194500 +0000" channel="La1.es.scraper">
     <title lang="es">La Promesa</title>
     <desc lang="es">1913. Manuel, el hijo de los Marqueses, es salvado por Jana. El Marqués le ofrece una recompensa económica, pero ella solo quiere trabajo en el Palacio y tiene un motivo claro: hacer justicia a su madre asesinada e investigar el paradero de su hermano.</desc>
+  </programme>
+  <programme start="20261126194500 +0000" stop="20261126234500 +0000" channel="La1.es.scraper">
+    <title lang="es">Debate a cuatro</title>
+    <desc lang="es">Debate a cuatro entre los principales candidatos a la presidencia. Pedro Sánchez (PSOE), Alberto Núñez Feijóo (PP), Santiago Abascal (Vox) y Ada Colau (Frente Amplio) confrontan sus programas en el tramo decisivo previo a la jornada de reflexión.</desc>
   </programme>
   <programme start="20261126194500 +0000" stop="20261126234500 +0000" channel="La1.es.scraper">
     <title lang="es">Debate a cuatro</title>
